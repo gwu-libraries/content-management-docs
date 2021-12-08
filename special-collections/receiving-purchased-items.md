@@ -21,10 +21,17 @@ description: This is only for purchased items (with POLs)
   * Take the item from the “Spec Receiving” shelf
   * In Alma, go to Acquisitions>Receive
   * Ensure “keep in department” is checked, and status is set to “cataloging”, and check the “shelf ready” option to allow you to receive by barcode\
-    ![](https://lh4.googleusercontent.com/b\_t95rk4hidIbD3MXmFoG8PyNjH1HYpJMlVUJhtek1AA7jYrq-GPuLgMWqD1JIKAg99mdHjhzJaoWmPDOaNT7My7ITi501v0ND2BWKABibpoRE5tdsLEqR9-awzdKJZNuQomHDx1)
-  * Scan the item barcode to receive the item (this method makes it easy to receive foreign language materials)
-  * Place the item on the “Cataloging - Spec” shelf
+
+
+{% hint style="info" %}
+Remember to bring things downstairs!
+{% endhint %}
+
+* Scan the item barcode to receive the item (this method makes it easy to receive foreign language materials)
+* Place the item on the “Cataloging - Spec” shelf
 * Invoicing
   * Create invoice manually
     * If prepaid, mark and approve
     * If not prepaid, assign to FinOps
+
+![](https://lh4.googleusercontent.com/b\_t95rk4hidIbD3MXmFoG8PyNjH1HYpJMlVUJhtek1AA7jYrq-GPuLgMWqD1JIKAg99mdHjhzJaoWmPDOaNT7My7ITi501v0ND2BWKABibpoRE5tdsLEqR9-awzdKJZNuQomHDx1)
