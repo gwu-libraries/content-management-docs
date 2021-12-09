@@ -6,6 +6,7 @@
 
 * [Receiving](acquisitions/receiving.md)
 * [Invoicing](acquisitions/invoicing.md)
+* [Purchased Replacements](acquisitions/purchased-replacements.md)
 
 ## Serials
 
