@@ -1,5 +1,9 @@
 # Damaged Items
 
+{% hint style="info" %}
+This is part of the overall [Damaged Items workflow](../../reference/workflow-overviews/damaged-items.md)
+{% endhint %}
+
 ## Item record work and flag <a href="#docs-internal-guid-f6b69316-7fff-204d-afd4-2fed74a00dbe" id="docs-internal-guid-f6b69316-7fff-204d-afd4-2fed74a00dbe"></a>
 
 ### Check retention status
@@ -37,9 +41,6 @@ NOTE: Do NOT add or change the temporary location--this is no longer necessary b
 
 ![](https://lh3.googleusercontent.com/yY3t7EXyw2M92gdoCwWkbsu8plY8HerUHipACC6FC28DVe-ZJLarjVDTNY\_82B19jtCVa4E4oZQ3VwAqnODBTJLlwh2HJVRUyv8fPWHHyFBxzRWCfgwXn4HtQDe1OYGxpf6z9jt0)
 
-\
-
-
 ## Content Management shelves
 
 ### Place on “Incoming” shelves in Content Management
@@ -50,3 +51,4 @@ Bring the damaged items to the “Incoming” section of shelves in the Content 
 * Place all damaged non-retention books on the “Incoming - Damaged Non-retention” shelf.
 
 If there are more damaged books than can fit on these shelves, please place them on a book truck with a clear note that they are incoming damaged books.
+
