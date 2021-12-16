@@ -40,6 +40,8 @@
 ## Reference
 
 * [Locations](reference/locations.md)
+* [Workflow Overviews](reference/workflow-overviews/README.md)
+  * [Damaged Items](reference/workflow-overviews/damaged-items.md)
 
 ## Tools
 
