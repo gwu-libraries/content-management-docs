@@ -2,52 +2,44 @@
 
 * [Content Management Team](README.md)
 
-## Acquisitions
+## Content Management Processes
 
-* [Receiving](acquisitions/receiving.md)
-* [Invoicing](acquisitions/invoicing.md)
-* [Purchased Replacements](acquisitions/purchased-replacements.md)
+* [Acquisitions](content-management-processes/acquisitions/README.md)
+  * [Receiving](content-management-processes/acquisitions/receiving.md)
+  * [Invoicing](content-management-processes/acquisitions/invoicing.md)
+  * [Purchased Replacements](content-management-processes/acquisitions/purchased-replacements.md)
+* [Serials](content-management-processes/serials/README.md)
+  * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
+* [Electronic Resources](content-management-processes/electronic-resources/README.md)
+  * [Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
+* [Resource Description](content-management-processes/resource-description/README.md)
+  * [Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
+    * [Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
+* [Physical Processing](content-management-processes/physical-processing/README.md)
+  * [Physical Processing Steps](content-management-processes/physical-processing/physical-processing-steps.md)
 
-## Serials
+## Partners
 
-* [Serials Copy-Cataloging](serials/serials-copy-cataloging.md)
+* [Access Services](partners/access-services/README.md)
+  * [Damaged Items](partners/access-services/damaged-items.md)
+  * [Lost and Paid Items](partners/access-services/lost-and-paid-items.md)
+  * [Patron Replacements](partners/access-services/patron-replacements.md)
+  * [Problem Items](partners/access-services/problem-items.md)
+* [Global Resources Center](partners/global-resources-center/README.md)
+  * [Ordering/Creating POLs](partners/global-resources-center/ordering-creating-pols.md)
+  * [Receiving Purchased Items](partners/global-resources-center/receiving-purchased-items.md)
+  * [Cataloging Non-Purchased Items](partners/global-resources-center/cataloging-non-purchased-items.md)
+* [Special Collections](partners/special-collections/README.md)
+  * [Ordering/Creating POLs](partners/special-collections/ordering-creating-pols.md)
+  * [Cataloging Non-Purchased Items](partners/special-collections/cataloging-non-purchased-items/README.md)
+    * [Receiving Purchased Items](partners/special-collections/cataloging-non-purchased-items/receiving-purchased-items.md)
+  * [Collection Notes](partners/special-collections/collection-notes.md)
+* [Textile Museum](partners/textile-museum/README.md)
+  * [Copy-Cataloging](partners/textile-museum/copy-cataloging.md)
 
-## Electronic Resources
+## Reference
 
-* [Managing Electronic Collections](electronic-resources/managing-electronic-collections.md)
-
-## Resource Description
-
-* [Cataloging Physical Items](resource-description/cataloging-physical-items/README.md)
-  * [Media](resource-description/cataloging-physical-items/media.md)
-
-## Physical Processing
-
-* [Physical Processing Steps](physical-processing/physical-processing-steps.md)
-
-## Access Services
-
-* [Damaged Items](access-services/damaged-items.md)
-* [Patron Replacements](access-services/patron-replacements.md)
-* [Lost and Paid Items](access-services/lost-and-paid-items.md)
-* [Problem Items](access-services/problem-items.md)
-
-## Special Collections
-
-* [Ordering/Creating POLs](special-collections/ordering-creating-pols.md)
-* [Receiving Purchased Items](special-collections/receiving-purchased-items.md)
-* [Cataloging Non-Purchased Items](special-collections/cataloging-non-purchased-items.md)
-* [Collection Notes](special-collections/collection-notes.md)
-
-## Global Resources Center
-
-* [Ordering/Creating POLs](global-resources-center/ordering-creating-pols.md)
-* [Receiving Purchased Items](global-resources-center/receiving-purchased-items.md)
-* [Cataloging Non-Purchased Items](global-resources-center/cataloging-non-purchased-items.md)
-
-## Textile Museum
-
-* [Copy-Cataloging](textile-museum/copy-cataloging.md)
+* [Locations](reference/locations.md)
 
 ## Tools
 
