@@ -7,8 +7,6 @@ description: >-
 
 # Cataloging Non-Purchased Items
 
-
-
 ## Alma Steps <a href="#docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b" id="docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b"></a>
 
 Choose Resources>Add Physical Item
