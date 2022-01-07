@@ -29,7 +29,7 @@
   * [\*Ordering/Creating POLs](partners/global-resources-center/ordering-creating-pols.md)
   * [\*Receiving Purchased Items](partners/global-resources-center/receiving-purchased-items.md)
   * [Cataloging Non-Purchased Items](partners/global-resources-center/cataloging-non-purchased-items.md)
-* [\*Special Collections](partners/special-collections/README.md)
+* [Special Collections](partners/special-collections/README.md)
   * [\*Ordering/Creating POLs](partners/special-collections/ordering-creating-pols.md)
   * [Cataloging Non-Purchased Items](partners/special-collections/cataloging-non-purchased-items.md)
   * [Receiving Purchased Items](partners/special-collections/receiving-purchased-items.md)
