@@ -31,7 +31,7 @@
   * [Cataloging Non-Purchased Items](partners/global-resources-center/cataloging-non-purchased-items.md)
 * [\*Special Collections](partners/special-collections/README.md)
   * [\*Ordering/Creating POLs](partners/special-collections/ordering-creating-pols.md)
-  * [\*Cataloging Non-Purchased Items](partners/special-collections/cataloging-non-purchased-items.md)
+  * [Cataloging Non-Purchased Items](partners/special-collections/cataloging-non-purchased-items.md)
   * [Receiving Purchased Items](partners/special-collections/receiving-purchased-items.md)
 * [Textile Museum](partners/textile-museum/README.md)
   * [\*Copy-Cataloging](partners/textile-museum/copy-cataloging.md)
