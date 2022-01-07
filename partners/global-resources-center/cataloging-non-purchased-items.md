@@ -1,11 +1,13 @@
 ---
 description: >-
   This is the process for creating item records for items to be cataloged before
-  bringing them to Content Management. This does not apply to anything that will
-  remain in the GRC for cataloging/processin
+  bringing them to Content Management. For anything that doesn't have/need a POL
+  in Alma.
 ---
 
-# Cataloging Non-Purchased Items
+# Sending Non-Purchased Items to RDG for Cataloging
+
+Language areas where we are currently using this process: Chinese, Japanese, Korean
 
 ## Alma Steps <a href="#docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b" id="docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b"></a>
 
