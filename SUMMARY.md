@@ -39,7 +39,9 @@
 ## Reference
 
 * [\*Locations](reference/locations.md)
-* [\*Collection Notes](reference/collection-notes.md)
+* [\*Notes](reference/notes/README.md)
+  * [\*Collection Notes](reference/notes/collection-notes.md)
+  * [Cataloger Notes (973)](reference/notes/cataloger-notes-973.md)
 * [\*Workflow Overviews](reference/workflow-overviews/README.md)
   * [Damaged Items](reference/workflow-overviews/damaged-items.md)
 
