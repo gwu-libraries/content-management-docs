@@ -12,10 +12,10 @@
 
 ## Holding Details Local Params
 
-| Analytics Field        | Holding MARC Field | Usage |
-| ---------------------- | ------------------ | ----- |
-| Holding Local Param 01 |                    |       |
-| Holding Local Param 02 |                    |       |
-| Holding Local Param 03 |                    |       |
-| Holding Local Param 04 |                    |       |
-| Holding Local Param 05 |                    |       |
+| Analytics Field        | Holding MARC Field | Usage           |
+| ---------------------- | ------------------ | --------------- |
+| Holding Local Param 01 | 541                | Gift note       |
+| Holding Local Param 02 | 561                | Collection name |
+| Holding Local Param 03 |                    |                 |
+| Holding Local Param 04 |                    |                 |
+| Holding Local Param 05 |                    |                 |
