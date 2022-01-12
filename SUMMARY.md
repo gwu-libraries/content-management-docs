@@ -15,6 +15,8 @@
 * [\*Resource Description](content-management-processes/resource-description/README.md)
   * [\*Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
     * [\*Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
+  * [\*Cataloging Electronic Resources](content-management-processes/resource-description/cataloging-electronic-resources/README.md)
+    * [\*Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
 * [\*Physical Processing](content-management-processes/physical-processing/README.md)
   * [\*Physical Processing Steps](content-management-processes/physical-processing/physical-processing-steps.md)
 
