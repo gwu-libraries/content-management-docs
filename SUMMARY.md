@@ -52,6 +52,7 @@
 * [\*Alma](tools/alma/README.md)
   * [Work orders](tools/alma/work-orders.md)
   * [\*Import profiles](tools/alma/import-profiles.md)
+  * [\*Analytics](tools/alma/analytics.md)
 * [\*MarcEdit](tools/marcedit/README.md)
   * [\*Task Lists](tools/marcedit/task-lists.md)
 * [\*OCLC Connexion](tools/oclc-connexion.md)
