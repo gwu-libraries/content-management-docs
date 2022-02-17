@@ -38,7 +38,7 @@ Use only if all conditions are met:
 
 Steps:
 
-* Relink items to the target holding record
+* Relink items to the target holding record. _If prompted, do not delete the old holding record unless there are no 866 fields or other notes that are needed in the original holding record._
 
 ![](<../../.gitbook/assets/image (4).png>)
 
@@ -71,7 +71,7 @@ Steps:
 * Edit holding record for the holding that has one or more items moving to WRLC
 * Duplicate the holding record
 * On the new record, change the 852 \$$c to the desired WRLC location ("wrlc cgrc", "wrlc sgrc", "wrlc shrp", etc)
-* Relink item records for items going to WRLC to the new holding record
+* Relink item records for items going to WRLC to the new holding record. _If prompted, do not delete the old holding record unless there are no 866 fields or other notes that are needed in the original holding record._
 * Update 866 fields in both the old and new holding records if necessary/desired
 * Repeat for any additional holding records on the title that also have items moving to WRLC
 * Use "Scan in items" to set "In transit" status for each item
