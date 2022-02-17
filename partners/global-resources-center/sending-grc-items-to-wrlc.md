@@ -40,7 +40,7 @@ Steps:
 
 * Relink items to the target holding record. _If prompted, do not delete the old holding record unless there are no 866 fields or other notes that are needed in the original holding record._
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 * Update 866 fields if necessary for the old and new holding records
 * Use "Scan in items" to set "In transit" status for each item
