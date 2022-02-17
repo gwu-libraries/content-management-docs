@@ -15,7 +15,7 @@ Before you start: make sure you know what WRLC location the item needs to go int
 
 Use only if all conditions are met:
 
-* [ ] Only 1 holding record exists on the bibliographic record
+* [x] Only 1 holding record exists on the bibliographic record
 
 Steps:
 
@@ -33,8 +33,8 @@ Steps:
 
 Use only if all conditions are met:
 
-* [ ] There is already a holding record with the specific desired target location at WRLC
-* [ ] The holding record with the desired location has the correct 561 and 541 collection and donor notes (if applicable) for the items that will be sent to WRLC
+* [x] There is already a holding record with the specific desired target location at WRLC
+* [x] The holding record with the desired location has the correct 561 and 541 collection and donor notes (if applicable) for the items that will be sent to WRLC
 
 Steps:
 
@@ -51,8 +51,8 @@ Steps:
 
 Use only if all conditions are met:
 
-* [ ] There is more than 1 holding record attached to the bibliographic record
-* [ ] All items on any particular holding record are being sent to WRLC
+* [x] There is more than 1 holding record attached to the bibliographic record
+* [x] All items on any particular holding record are being sent to WRLC
 
 Steps:
 
