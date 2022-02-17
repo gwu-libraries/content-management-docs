@@ -18,7 +18,7 @@ Set up ILS integration to Alma. Click on < ![](<../../.gitbook/assets/image (1) 
 
 Select \<ILS Integration> to begin setting access to Alma
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 &#x20;
 
@@ -34,7 +34,7 @@ Password: <\<PLEASE SEE MATTHEW FOR PASSWORD>>
 
 
 
-&#x20;![](<../../.gitbook/assets/image (2).png>)\
+&#x20;![](<../../.gitbook/assets/image (2) (1).png>)\
 
 
 Edit setting of Z39.50:
@@ -45,7 +45,7 @@ The character set in Alma is UTF-8
 
 (Voyager setting was MARC-8)
 
-&#x20;![](<../../.gitbook/assets/image (8).png>)
+&#x20;![](<../../.gitbook/assets/image (8) (1).png>)
 
 &#x20;
 
