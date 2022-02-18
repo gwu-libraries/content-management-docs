@@ -19,6 +19,7 @@ Use only if all conditions are met:
 
 Steps:
 
+* Make sure holding 561 is present and accurate
 * Use "Scan in items" in Alma to set the location to the desired WRLC location ("wrlc cgrc", "wrlc sgrc", "wrlc shrp", etc)
 
 ![](<../../.gitbook/assets/image (3).png>)
@@ -38,6 +39,7 @@ Use only if all conditions are met:
 
 Steps:
 
+* Make sure holding 561 is present and accurate
 * Relink items to the target holding record. _If prompted, do not delete the old holding record unless there are no 866 fields or other notes that are needed in the original holding record._
 
 ![](<../../.gitbook/assets/image (9).png>)
@@ -56,6 +58,7 @@ Use only if all conditions are met:
 
 Steps:
 
+* Make sure holding 561 is present and accurate
 * Edit holding record for the holding that has all items moving to WRLC
 * Change the 852 \$$c to the desired WRLC location ("wrlc cgrc", "wrlc sgrc", "wrlc shrp", etc)
 * Update 866 fields in the holding record if necessary
@@ -69,6 +72,7 @@ This method can be used for everything, but is best used only when one of the ab
 Steps:
 
 * Edit holding record for the holding that has one or more items moving to WRLC
+* Make sure holding 561 is present and accurate
 * Duplicate the holding record
 * On the new record, change the 852 \$$c to the desired WRLC location ("wrlc cgrc", "wrlc sgrc", "wrlc shrp", etc)
 * Relink item records for items going to WRLC to the new holding record. _If prompted, do not delete the old holding record unless there are no 866 fields or other notes that are needed in the original holding record._
