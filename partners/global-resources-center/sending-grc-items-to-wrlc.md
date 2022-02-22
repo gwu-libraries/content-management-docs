@@ -20,13 +20,10 @@ Use only if all conditions are met:
 Steps:
 
 * Make sure holding 561 is present and accurate
+* If there is a temporary location (e.g. "In process"), edit the item record to remove the temporary location information prior to changing the permanent location to WRLC.
 * Use "Scan in items" in Alma to set the location to the desired WRLC location ("wrlc cgrc", "wrlc sgrc", "wrlc shrp", etc)
 
 ![](<../../.gitbook/assets/image (3).png>)
-
-* If there is a temporary location (e.g. "In process"), use "Scan in items" in Alma to restore the item to its new permanent WRLC location
-
-![](<../../.gitbook/assets/image (8).png>)
 
 * If the title has multiple items, check the holding records to see if 866 holding summaries need to be created or edited on any of the holding records (multiple holding records may exist if not all items are going to WRLC)
 
