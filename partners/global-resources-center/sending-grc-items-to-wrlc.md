@@ -11,6 +11,10 @@ description: >-
 Before you start: make sure you know what WRLC location the item needs to go into and for periodicals whether the issues/volumes are already held at WRLC.
 {% endhint %}
 
+{% hint style="info" %}
+Make sure your location in Alma is set to "Gelman Library - Global Resources Center" (NOT GRC Acquisitions)
+{% endhint %}
+
 ## Title with only 1 holding record
 
 Use only if all conditions are met:
