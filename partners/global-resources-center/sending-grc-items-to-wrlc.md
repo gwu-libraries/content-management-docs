@@ -15,6 +15,18 @@ Before you start: make sure you know what WRLC location the item needs to go int
 Make sure your location in Alma is set to "Gelman Library - Global Resources Center" (NOT GRC Acquisitions)
 {% endhint %}
 
+## Summary of overall steps
+
+* [ ] Make sure item should go to WRLC
+* [ ] Determine desired WRLC location code
+  * [ ] wrlc cgrc (GRC circulating)
+  * [ ] wrlc sgrc (GRC restricted)
+  * [ ] wrlc shrp (shared periodicals)
+* [ ] Make changes to location and holdings as needed & clean up other holdings problems
+* [ ] Scan item to transit and place on "ready for WRLC" cart
+* [ ] (Optional) Quality control check of each item to make sure location and status are correct
+* [ ] Box items up and send to WRLC
+
 ## Title with only 1 holding record
 
 Use only if all conditions are met:
