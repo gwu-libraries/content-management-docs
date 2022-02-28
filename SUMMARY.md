@@ -7,7 +7,7 @@
 * [\*Acquisitions](content-management-processes/acquisitions/README.md)
   * [\*Receiving](content-management-processes/acquisitions/receiving.md)
   * [\*Invoicing](content-management-processes/acquisitions/invoicing.md)
-  * [\*Purchased Replacements](content-management-processes/acquisitions/purchased-replacements.md)
+  * [Purchased Replacements](content-management-processes/acquisitions/replacements.md)
 * [\*Serials](content-management-processes/serials/README.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
 * [\*Electronic Resources](content-management-processes/electronic-resources/README.md)
@@ -17,6 +17,7 @@
     * [\*Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
   * [\*Cataloging Electronic Resources](content-management-processes/resource-description/cataloging-electronic-resources/README.md)
     * [\*Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
+  * [Lost/Damaged/Replaced Items](content-management-processes/resource-description/lost-damaged-replaced-items.md)
 * [\*Physical Processing](content-management-processes/physical-processing/README.md)
   * [\*Physical Processing Steps](content-management-processes/physical-processing/physical-processing-steps.md)
 
@@ -24,7 +25,7 @@
 
 * [\*Access Services](partners/access-services/README.md)
   * [Damaged Items](partners/access-services/damaged-items.md)
-  * [Replacements / Lost & Paid](partners/access-services/patron-replacements.md)
+  * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
   * [Problem Items](partners/access-services/problem-items.md)
 * [Global Resources Center](partners/global-resources-center/README.md)
   * [\*Ordering/Creating POLs](partners/global-resources-center/ordering-creating-pols.md)
