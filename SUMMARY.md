@@ -24,8 +24,7 @@
 
 * [\*Access Services](partners/access-services/README.md)
   * [Damaged Items](partners/access-services/damaged-items.md)
-  * [\*Lost and Paid Items](partners/access-services/lost-and-paid-items.md)
-  * [Patron Replacements](partners/access-services/patron-replacements.md)
+  * [Replacements / Lost & Paid](partners/access-services/patron-replacements.md)
   * [Problem Items](partners/access-services/problem-items.md)
 * [Global Resources Center](partners/global-resources-center/README.md)
   * [\*Ordering/Creating POLs](partners/global-resources-center/ordering-creating-pols.md)
