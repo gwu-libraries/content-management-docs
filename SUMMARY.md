@@ -47,8 +47,8 @@
   * [\*Collection Notes](reference/notes/collection-notes.md)
   * [Cataloger Notes (973)](reference/notes/cataloger-notes-973.md)
 * [\*Workflow Overviews](reference/workflow-overviews/README.md)
-  * [Damaged Items](reference/workflow-overviews/damaged-items.md)
-  * [Lost & Paid / Patron Replacements](reference/workflow-overviews/lost-and-paid-patron-replacements.md)
+  * [Damaged Items Overview](reference/workflow-overviews/damaged-items.md)
+  * [Lost & Paid / Patron Replacements Overview](reference/workflow-overviews/lost-and-paid-patron-replacements-overview.md)
 
 ## Tools
 

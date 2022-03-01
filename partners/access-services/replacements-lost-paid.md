@@ -4,6 +4,10 @@ description: For patron-provided replacement items, and for lost & paid items.
 
 # Replacements / Lost & Paid
 
+{% hint style="info" %}
+This is part of the overall [Lost & Paid / Patron Replacements](../../reference/workflow-overviews/lost-and-paid-patron-replacements-overview.md) workflow
+{% endhint %}
+
 * Fill out green “Replacement/Lost Book Routing Slip”
 * Must include date, initials, check appropriate box, title, barcode.
 * If “Lost and Paid For”: take the slip to 103 and place in the “Incoming Lost & Paid Slips” tray.

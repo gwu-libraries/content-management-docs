@@ -4,6 +4,10 @@ description: RDG steps for Lost & Paid, damaged replaced items, and patron repla
 
 # Lost/Damaged/Replaced Items
 
+{% hint style="info" %}
+This is part of the overall [Lost & Paid / Patron Replacements](../../reference/workflow-overviews/lost-and-paid-patron-replacements-overview.md) workflow
+{% endhint %}
+
 ## Lost & Paid (green slip only) <a href="#docs-internal-guid-b268bcef-7fff-e4c5-dddc-b58224ee7448" id="docs-internal-guid-b268bcef-7fff-e4c5-dddc-b58224ee7448"></a>
 
 * Withdraw the old item (Update OCLC holdings if necessary)
