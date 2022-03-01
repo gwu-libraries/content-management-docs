@@ -7,7 +7,9 @@ description: >-
 
 # Sending Non-Purchased Items to RDG for Cataloging
 
+{% hint style="info" %}
 Language areas where we are currently using this process: Chinese, Japanese, Korean
+{% endhint %}
 
 ## Alma Steps <a href="#docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b" id="docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b"></a>
 

@@ -1,4 +1,4 @@
-# Lost & Paid / Patron Replacements
+# Lost & Paid / Patron Replacements Overview
 
 ## Lost & Paid
 
@@ -6,7 +6,7 @@
   * Charges fees
   * Fills out green slip
   * Delivers green slip to 103
-* [RDG](../../content-management-processes/resource-description/lost-damaged-replaced-items.md):
+* [RDG](../../content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md):
   * Withdraws lost item
   * Routes green slip to Glenn if item was retention or permanent, else routes slip to Josh
 * Mono Acq:
@@ -23,9 +23,9 @@
   * Charges fees
   * Fills out green slip
   * Delivers green slip and replacement copy to 103
-* [Content Management](../../content-management-processes/resource-description/lost-damaged-replaced-items.md):
+* [Content Management](../../content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md):
   * Moves items from "Incoming - Patron Replacement" to "Replacement" shelf (does not scan in item to set a status)
-* [RDG](../../content-management-processes/resource-description/lost-damaged-replaced-items.md):
+* [RDG](../../content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md):
   * Adds new item
   * Withdraws old item
 
@@ -36,8 +36,8 @@
   * Charges fees
   * Fills out green slip
   * Delivers green slip, replacement copy, and damaged copy if available to 103
-* [Content Management](../../content-management-processes/resource-description/lost-damaged-replaced-items.md):
+* [Content Management](../../content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md):
   * Scans in damaged items from "Incoming - Patron Replacement" shelf, setting status to "Replacement Received," and places on "Replacement" shelf
-* [RDG](../../content-management-processes/resource-description/lost-damaged-replaced-items.md):
+* [RDG](../../content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md):
   * Adds new item
   * Withdraws old item

@@ -4,26 +4,28 @@
 
 ## Content Management Processes
 
-* [\*Acquisitions](content-management-processes/acquisitions/README.md)
-  * [\*Receiving](content-management-processes/acquisitions/receiving.md)
+* [Acquisitions](content-management-processes/acquisitions/README.md)
+  * [\*Receiving](content-management-processes/acquisitions/receiving/README.md)
+    * [Receiving Items from Spec & GRC](content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)
   * [\*Invoicing](content-management-processes/acquisitions/invoicing.md)
   * [Purchased Replacements](content-management-processes/acquisitions/replacements.md)
-* [\*Serials](content-management-processes/serials/README.md)
+* [Serials](content-management-processes/serials/README.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
-* [\*Electronic Resources](content-management-processes/electronic-resources/README.md)
+* [Electronic Resources](content-management-processes/electronic-resources/README.md)
   * [\*Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
-* [\*Resource Description](content-management-processes/resource-description/README.md)
+* [Resource Description](content-management-processes/resource-description/README.md)
   * [\*Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
     * [\*Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
   * [\*Cataloging Electronic Resources](content-management-processes/resource-description/cataloging-electronic-resources/README.md)
     * [\*Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
-  * [Lost/Damaged/Replaced Items](content-management-processes/resource-description/lost-damaged-replaced-items.md)
-* [\*Physical Processing](content-management-processes/physical-processing/README.md)
+    * [\*Swank Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/swank-streaming-video.md)
+  * [Lost/Damaged/Replaced Items (RDG)](content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md)
+* [Physical Processing](content-management-processes/physical-processing/README.md)
   * [\*Physical Processing Steps](content-management-processes/physical-processing/physical-processing-steps.md)
 
 ## Partners
 
-* [\*Access Services](partners/access-services/README.md)
+* [Access Services](partners/access-services/README.md)
   * [Damaged Items](partners/access-services/damaged-items.md)
   * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
   * [Problem Items](partners/access-services/problem-items.md)
@@ -42,11 +44,11 @@
 
 ## Reference
 
-* [\*Locations](reference/locations.md)
-* [\*Notes](reference/notes/README.md)
+* [Locations](reference/locations.md)
+* [Notes](reference/notes/README.md)
   * [\*Collection Notes](reference/notes/collection-notes.md)
   * [Cataloger Notes (973)](reference/notes/cataloger-notes-973.md)
-* [\*Workflow Overviews](reference/workflow-overviews/README.md)
+* [Workflow Overviews](reference/workflow-overviews/README.md)
   * [Damaged Items Overview](reference/workflow-overviews/damaged-items.md)
   * [Lost & Paid / Patron Replacements Overview](reference/workflow-overviews/lost-and-paid-patron-replacements-overview.md)
 

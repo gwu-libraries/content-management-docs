@@ -1,3 +1,3 @@
-# Managing Electronic Collections
+# \*Managing Electronic Collections
 
-If this is your first time using GitBook, you probably don't have a whole bunch of content right now. Once you start filling it with spaces and collections and all the wonderful content you're creating, you're gonna need a quick way to navigate through it all. Quick find will let you search for spaces, pages and content within pages; and navigate directly to them with a few keypresses. Get used to that shortcut!
+\[Documentation about managing electronic resources will be added here]

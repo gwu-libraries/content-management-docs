@@ -18,7 +18,7 @@ Set up ILS integration to Alma. Click on < ![](<../../.gitbook/assets/image (1) 
 
 Select \<ILS Integration> to begin setting access to Alma
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 &#x20;
 
