@@ -29,4 +29,5 @@ description: RDG steps for Lost & Paid, damaged replaced items, and patron repla
 ## Damaged & Ordered Replacement
 
 * (MonoAcq will set status to “withdraw” and place damaged item on “withdraw” shelf)
+* If old item includes “retention”, “permanent”, or “duplicate” note, add the same note to the item record for the ordered replacement copy
 * Withdraw the old item
