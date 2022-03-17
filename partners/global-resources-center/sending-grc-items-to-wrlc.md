@@ -58,6 +58,9 @@ Steps:
 ![](<../../.gitbook/assets/image (9).png>)
 
 * Update 866 fields if necessary for the old and new holding records
+  * The 866 fields on each holding record should ONLY reflect the issues/volumes in that location
+* Add/Update the 852 subfield $z (public display note) in the ONSITE GRC holding record if some items will remail onsite:
+  * Include a note listing which volumes are located offsite
 * Use "Scan in items" to set "In transit" status for each item
 
 ![](<../../.gitbook/assets/image (2).png>)
@@ -90,6 +93,9 @@ Steps:
 * On the new record, change the 852 \$$c to the desired WRLC location ("wrlc cgrc", "wrlc sgrc", "wrlc shrp", etc)
 * Relink item records for items going to WRLC to the new holding record. _If prompted, do not delete the old holding record unless there are no 866 fields or other notes that are needed in the original holding record._
 * Update 866 fields in both the old and new holding records if necessary/desired
+  * The 866 fields on each holding record should ONLY reflect the issues/volumes in that location
+* Add/Update the 852 subfield $z (public display note) in the ONSITE GRC holding record if some items will remail onsite:
+  * Include a note listing which volumes are located offsite
 * Repeat for any additional holding records on the title that also have items moving to WRLC
 * Use "Scan in items" to set "In transit" status for each item
 

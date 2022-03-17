@@ -35,6 +35,7 @@
   * [Sending Non-Purchased Items to RDG for Cataloging](partners/global-resources-center/cataloging-non-purchased-items.md)
   * [\*Receiving GRC Annuals](partners/global-resources-center/receiving-grc-annuals.md)
   * [Sending GRC items to WRLC](partners/global-resources-center/sending-grc-items-to-wrlc.md)
+  * [GRC Serials Holdings Policy](partners/global-resources-center/grc-serials-holdings-policy.md)
 * [Special Collections](partners/special-collections/README.md)
   * [\*Ordering/Creating POLs](partners/special-collections/ordering-creating-pols.md)
   * [Cataloging Non-Purchased Items](partners/special-collections/cataloging-non-purchased-items.md)
