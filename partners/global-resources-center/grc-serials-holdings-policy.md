@@ -4,8 +4,8 @@ For GRC serials that have more than one GRC holding record, the first (onsite) h
 
 The first (onsite) holding would display like this, with the note about the offsite issues displaying in the "Note" field. (The text in the note in this case is just about the offsite volumes, but it would be fine to have a longer note that says something to the effect of "GRC holds 2006-2013, with 2006-2008 held offsite. Please request at the GRC service desk."
 
-![](https://mail.google.com/mail/u/0?ui=2\&ik=b7f811d079\&attid=0.1\&permmsgid=msg-a:r-5050479007468722088\&th=17f93b41c8ec5132\&view=fimg\&fur=ip\&sz=s0-l75-ft\&attbid=ANGjdJ87QoT3foDaw1dt5ge8OF9I-2OApKZoDzYtdE737eswH6kdwk6PsFL0cLdC5J3qJ9bcqcKDXR8P\_NcXfB2Fi0MAEXhNNPJiIvu1T3jCarE0KS-dX-epyWPRV6g\&disp=emb\&realattid=ii\_l0tthc1l0)
+![](<../../.gitbook/assets/grc serials holdings primo display 1.PNG>)
 
 The second holding would display like this:![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
 
-![](https://mail.google.com/mail/u/0?ui=2\&ik=b7f811d079\&attid=0.2\&permmsgid=msg-a:r-5050479007468722088\&th=17f93b41c8ec5132\&view=fimg\&fur=ip\&sz=s0-l75-ft\&attbid=ANGjdJ9OyFrzBI3DClkma\_WvHlLGJLDrsPz7UYSRnjIsvtqgVuX5DUrSeIYKdw2yHdPEWKBRVLb9g8VX6h-NNBfzvBAjjAc3ib8t4FzB2eol\_YwTGf1OMqL3hv5ZVCI\&disp=emb\&realattid=ii\_l0tti73x1)
+![](<../../.gitbook/assets/grc serials holdings primo display 2.PNG>)
