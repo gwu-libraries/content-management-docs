@@ -4,8 +4,8 @@ For GRC serials that have more than one GRC holding record, the first (onsite) h
 
 The first (onsite) holding would display like this, with the note about the offsite issues displaying in the "Note" field. (The text in the note in this case is just about the offsite volumes, but it would be fine to have a longer note that says something to the effect of "GRC holds 2006-2013, with 2006-2008 held offsite."
 
-![](<../../.gitbook/assets/grc serials holdings primo display 1.PNG>)
+![](<../../../.gitbook/assets/grc serials holdings primo display 1.PNG>)
 
 The second holding would display like this:![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
 
-![](<../../.gitbook/assets/grc serials holdings primo display 2.PNG>)
+![](<../../../.gitbook/assets/grc serials holdings primo display 2.PNG>)
