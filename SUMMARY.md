@@ -17,7 +17,7 @@
   * [\*Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
     * [\*Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
   * [\*Cataloging Electronic Resources](content-management-processes/resource-description/cataloging-electronic-resources/README.md)
-    * [\*Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
+    * [Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
     * [\*Swank Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/swank-streaming-video.md)
   * [Lost/Damaged/Replaced Items (RDG)](content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md)
 * [Physical Processing](content-management-processes/physical-processing/README.md)
