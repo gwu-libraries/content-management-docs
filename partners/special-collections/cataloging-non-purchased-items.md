@@ -4,9 +4,7 @@ description: >-
   bringing them to Content Management.
 ---
 
-# \*Cataloging Non-Purchased Items
-
-
+# Cataloging Non-Purchased Items
 
 ## Alma Steps <a href="#docs-internal-guid-c4f19426-7fff-9207-3fe6-6c55a2e55397" id="docs-internal-guid-c4f19426-7fff-9207-3fe6-6c55a2e55397"></a>
 
@@ -36,10 +34,6 @@ description: >-
 * Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan the item barcode to place the item “In transit” to Content Management.
 
 ![](https://lh4.googleusercontent.com/GaQLjdzm2KXT8C\_FPgtIB\_zS8yx0yZ\_KifW2PfgQhqE7ueu6Q25dtAaUWQH77VKjNtkUaytOMlYtJy2hMRm8qIzAh6EItvmb9OeLVsl1mS8\_vdwt\_KFCqAuXLJDeJnBA3vTY4THs)
-
-{% hint style="warning" %}
-As a workaround for an error that sometimes occurs, if you encounter an error message scanning in the item, try choosing “Automatically print slip: yes” and scanning in again.
-{% endhint %}
 
 ## Physical Handling
 
