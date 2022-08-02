@@ -1,8 +1,8 @@
 ---
-description: This page is a draft.
+description: The language to be added to records for GWLAI collections.
 ---
 
-# \*Collection Notes
+# Collection Notes
 
 Notes are added to the bibliographic record as a local 971 and to the holdings 561.&#x20;
 
