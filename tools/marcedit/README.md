@@ -107,4 +107,4 @@ Management, Content Access. n.d. “LibGuides: MarcEdit: MarcEdit Online Resourc
 
 Reese, Terry, and Wendy Robertson. 2018. “A Beginners Guide to MarcEdit and Beyond the Editor: Advanced Tools and Techniques for Working with Metadata.” _The Serials Librarian_ 74 (1–4): 3–8. [https://doi.org/10.1080/0361526X.2018.1439247](https://doi.org/10.1080/0361526X.2018.1439247).
 
-reeset. n.d. “Current News.” Text. MarcEdit Development. World. Accessed December 7, 2021. [https://marcedit.reeset.net/](https://marcedit.reeset.net).
+reeset. n.d. “Current News.” Text. MarcEdit Development. World. Accessed December 7, 2021. [https://marcedit.reeset.net/](https://marcedit.reeset.net/).

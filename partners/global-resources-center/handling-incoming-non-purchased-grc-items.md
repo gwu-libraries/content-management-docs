@@ -5,7 +5,7 @@ description: >-
   in Alma.
 ---
 
-# Sending Non-Purchased Items to RDG for Cataloging
+# Handling Incoming Non-Purchased GRC Items
 
 {% hint style="info" %}
 Language areas where we are currently using this process: Chinese, Japanese, Korean
@@ -56,6 +56,6 @@ Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan 
 
 * If non-English materials, including the OCLC number of the correct OCLC record with the item, or a printout of that record, is very helpful.
 * Place the barcode on the item.
-* Bring the item to the Content Management workroom, Gelman 103, and place on the “Incoming - GRC Cataloging” shelf.
+* Bring the item to the Content Management workroom, Gelman 103, and place on the “Incoming - GRC (non-purchased)” shelf.
 * When cataloging has been completed, RDG will place the item “in transit” and deliver it to the “From RDG” shelf above the fridge in the GRC workroom.
 * GRC staff scan the item in, and it will be in place and available.

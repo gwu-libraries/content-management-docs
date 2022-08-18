@@ -1,3 +1,9 @@
+---
+description: >-
+  This will be refined based on the recommendations of the 2022-2023 WRLC
+  Serials subgroup of the Metadata Committee.
+---
+
 # Serials Holdings Formatting
 
 ### Introduction <a href="#docs-internal-guid-5da40877-7fff-f512-d63f-abc51d460408" id="docs-internal-guid-5da40877-7fff-f512-d63f-abc51d460408"></a>
