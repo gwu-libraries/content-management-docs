@@ -1,4 +1,4 @@
-# \*Ordering/Creating POLs
+# Purchasing GRC Items
 
 Form to request POL creation:
 

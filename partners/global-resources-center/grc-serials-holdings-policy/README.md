@@ -1,4 +1,4 @@
-# GRC Serials Holdings Policy
+# GRC Serials
 
 For GRC serials that have more than one GRC holding record, the first (onsite) holding record should have one or more 866 fields that ONLY describe the issues/volumes in that location, AND an 852 $z public note that lists other GRC issues/volumes that are in other locations or attached to other holding records. Subsequent holding records will only include 866 field(s) that describe the issues/volumes in those locations, and will not have an 852 $z listing other volumes held.
 

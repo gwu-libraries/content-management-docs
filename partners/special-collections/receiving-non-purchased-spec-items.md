@@ -4,7 +4,7 @@ description: >-
   bringing them to Content Management.
 ---
 
-# Cataloging Non-Purchased Items
+# Receiving Non-Purchased Spec Items
 
 ## Alma Steps <a href="#docs-internal-guid-c4f19426-7fff-9207-3fe6-6c55a2e55397" id="docs-internal-guid-c4f19426-7fff-9207-3fe6-6c55a2e55397"></a>
 
@@ -38,6 +38,7 @@ description: >-
 ## Physical Handling
 
 * Barcode the item to your preference--either affixing the barcode to the item or placing it on a flag that you include with the item.
+* Add red "Rush" flag for any rush items
 * Bring the item to the Content Management workroom, Gelman 103, and place on the “Incoming - Received by Spec” shelf.
 * When cataloging has been completed, RDG will place the item “in transit” and deliver it to the “From RDG” shelf in the Special Collections Research Center.
 * Spec staff scan the item in, and it will be in place and available.
