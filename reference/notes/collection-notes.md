@@ -26,6 +26,7 @@ Notes are added to the bibliographic record as a local 971 and to the holdings 5
 | GRC general collections               | Global Resources Center                                         |                |           |
 | Japan Resource Center (JRC)           | Japan Resource Center                                           |                |           |
 | Taiwan Resource Center                | Taiwan Resource Center                                          |                |           |
+| Korea Resource Center (KRC)           | Korea Resource Center                                           |                |           |
 | REECE                                 | Russia, Eurasia, and Eastern and Central Europe Resource Center |                |           |
 | REECE/Reddaway                        | Reddaway Research Collection                                    |                |           |
 | Media                                 | Global Resources Center Media                                   |                |           |
