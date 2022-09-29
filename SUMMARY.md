@@ -22,6 +22,7 @@
   * [Lost/Damaged/Replaced Items (RDG)](content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md)
 * [Physical Processing](content-management-processes/physical-processing/README.md)
   * [\*Physical Processing Steps](content-management-processes/physical-processing/physical-processing-steps.md)
+  * [Label Printing](content-management-processes/physical-processing/label-printing.md)
 
 ## Partners
 
