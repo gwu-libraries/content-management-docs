@@ -18,7 +18,7 @@ In the Label Prefixes tab, select "Use system file" and use the following URL:
 
 {% code overflow="wrap" %}
 ```
-https://github.com/gwu-libraries/gwlai-spineomatic-label-prefixes/blob/c81a5b0107c3e34fcd53b50a013972736557e5d7/aboveLabel.txt?raw=true
+https://github.com/gwu-libraries/gwlai-spineomatic-label-prefixes/blob/main/aboveLabel.txt?raw=true
 ```
 {% endcode %}
 
