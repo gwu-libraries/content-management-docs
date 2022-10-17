@@ -1,11 +1,10 @@
-# Damaged Items
+# Damaged Items Overview
 
 ![Damaged book workflow flow chart](<../../.gitbook/assets/Content Management physical workflow overviews-Damaged.drawio.png>)
 
 * [Circulation sends damaged items to Content Management](../../partners/access-services/damaged-items.md)
   * Check retention status
   * Fill out damaged slip
-  * Create Alma work order
   * Place items on "Incoming Damaged - CDL Review" or "Incoming Damaged - Retention" shelf
 * Content Management scans in items
   * Set status to "Damaged - CDL Review", "Damaged - Rebind", or "Damaged - Replace"

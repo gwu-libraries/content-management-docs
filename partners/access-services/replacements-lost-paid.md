@@ -8,7 +8,7 @@ description: For patron-provided replacement items, and for lost & paid items.
 This is part of the overall [Lost & Paid / Patron Replacements](../../reference/workflow-overviews/lost-and-paid-patron-replacements-overview.md) workflow
 {% endhint %}
 
-* Fill out green “Replacement/Lost Book Routing Slip”
+* Fill out pink “Lost/Replacement Item Routing Slip”
 * Must include date, initials, check appropriate box, title, barcode.
 * If “Lost and Paid For”: take the slip to 103 and place in the “Incoming Lost & Paid Slips” tray.
 * If “Lost Replacement Copy” or “Damaged Replacement Copy: Make sure that all checkboxes on the “Replacement Copy Checklist” are complete; include the slip with the replacement item (and damaged item if available) and place on the “Incoming - Patron Replacements” shelf in 103. If there are more replacement books than can fit on these shelves, please place them on a book truck with a clear note that they are incoming patron replacements.

@@ -6,11 +6,13 @@ Apply a library supplied barcode to upper right hand corner of the outside back 
 
 ## Oversize designations (Gelman Stacks)
 
-| Size                                        | Location             |
-| ------------------------------------------- | -------------------- |
-| <p>&#x3C;31 cm tall<br>&#x3C;25 cm wide</p> | Stacks               |
-| <p>31-38 cm tall<br>25-30 cm wide</p>       | Stacks Oversize      |
-| <p>>38 cm tall<br>>30 cm wide</p>           | Stacks Flat Oversize |
+| Size                                              | Location             |
+| ------------------------------------------------- | -------------------- |
+| <p>30 cm tall and less<br>24 cm wide and less</p> | Stacks               |
+| <p>31-38 cm tall<br>25-30 cm wide</p>             | Stacks Oversize      |
+| <p>>38 cm tall<br>>30 cm wide</p>                 | Stacks Flat Oversize |
+
+_All sized are rounded up to the next cm. So 30.0cm = 30cm, but 30.1cm = 31cm._
 
 ## Call numbers
 

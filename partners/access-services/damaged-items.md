@@ -12,28 +12,6 @@ Open the item record. On the “Notes” tab, check the “Internal Note 2” fi
 
 ![](https://lh6.googleusercontent.com/z50UCgUamt78stRB0FK2lrgmp8aJlSOORQM1Mahv69\_n\_kNjDyb4NkYrasl6puNIYppyBLmsNv3lE368lxT1cNS4cM3GS1YAJAioghFdJDrj10JVen9Rzyx-Maxun7uI94CaIwXK)
 
-### Create work order
-
-After exiting the item record, click the “...” button for the item, and select “Work Order”.
-
-![](https://lh3.googleusercontent.com/CryfJvBA\_h9pNcHfCMVXX7-jNP6B0xHiFS-e3N19R5IYRg0WbupRA9Ys-pQDo2mHwYLCfAKSPCy4wzf-4xX-2OpChl3Jqju4DAtzJUYZ0\_UWL9RaPd4QreKBOSHSmw7zrIJZDtFC)
-
-On the work order creation screen:
-
-* Choose Process Type: “Acquisition technical services”
-* Check the “Do not pick from shelf” checkbox, because you have the item in hand and it doesn’t need to be pulled from the shelf
-* No note is needed because you’ll be including the flag with the book
-* Choose the Managing Department “gelman Content Management”
-
-Then click “Submit” to create the work order.
-
-![](https://lh3.googleusercontent.com/hS-fUrw2FooyDLd\_i2ohhCYuKNvQS-s1qsjZK7dOrhl9RHBBksw5bywrgU63MOKrUjjMFGaQ8-i-4wMlHjwlKFpgYJZzggHKpgYXLhEJH\_aNJxs8Ti7iyoc7KB9KRMFLFMXSVco4)
-
-\
-
-
-NOTE: Do NOT add or change the temporary location--this is no longer necessary because we are using the work order.
-
 ### Fill out blue flag
 
 * If item has Roman script language, circle Y, otherwise, for non-Roman script, circle N.

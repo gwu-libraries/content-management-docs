@@ -48,7 +48,7 @@ Click “Save” to create the bibliographic, holding, and item record.
 
 ![](https://lh5.googleusercontent.com/Es\_7Cnp\_PnzsoIs9qcNsylk\_eWOGpK1IGTNIcNsOF54uvZCyDqIw6MHRrKn8b8WpraCwFKkwH2QZkL2ib0bW1zUCzphkoMQMXN2HyDXgCHR5JX9Uiu4lG6raSnTbUa8dkVDVTObj)
 
-Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan the item barcode to place the item “In transit” to Content Management. As a workaround for an error that sometimes occurs, if you encounter an error message scanning in the item, try choosing “Automatically print slip: yes” and scanning in again.
+Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan the item barcode to place the item “In transit” to Content Management.
 
 ![](https://lh3.googleusercontent.com/L-61YvXENSYt5ROcYrweEKOagv54LmJNK9Rkqifj3\_sFU1nBMwh4zlsMY1\_HrwzxI0SwHBy1CqeJbHVIltVklWWES\_BMTKLSYnSMNdYFrIbYHfMz5Ev3ZNHyb1MaKe8ggNjg686w)
 
@@ -56,7 +56,7 @@ Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan 
 
 * If non-English materials, including the OCLC number of the correct OCLC record with the item, or a printout of that record, is very helpful.
 * Place the barcode on the item.
-* Add red "Rush" flag for any rush items
+* Add orange "Rush" flag for any rush items
 * Bring the item to the Content Management workroom, Gelman 103, and place on the “Incoming - GRC (non-purchased)” shelf.
 * When cataloging has been completed, RDG will place the item “in transit” and deliver it to the “From RDG” shelf above the fridge in the GRC workroom.
 * GRC staff scan the item in, and it will be in place and available.

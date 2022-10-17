@@ -17,7 +17,7 @@ No need to email Glenn or Ernest to have them receive or invoice the item--they 
   * Update auto-generated short barcode to the real barcode on the item
   * Check/correct the location where the item will go
   * NOTE: If there are multiple volumes of the same title, only one item will exist in Alma. Update the item record with the barcode of the first volume in the set, and place yellow "Volume not in Alma" flags in all subsequent volumes. Do not add any additional item records--RDG will create them when we catalog the title.
-* Add red "Rush" flag for any rush items
+* Add orange "Rush" flag for any rush items
 * Bring item to Content Management room 103 and place on “**Receiving - Spec (purchased)**” shelf (in the Receiving section of shelving, not the Incoming section).
 
 [Monograph Acquisitions will receive and invoice the items, and transfer them to RDG for cataloging.](../../content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)
