@@ -6,10 +6,6 @@ description: This is only for purchased items (with POLs)
 
 ## Special Collections Steps <a href="#docs-internal-guid-bf8da6fd-7fff-aa97-d0f9-9276637464f9" id="docs-internal-guid-bf8da6fd-7fff-aa97-d0f9-9276637464f9"></a>
 
-{% hint style="info" %}
-No need to email Glenn or Ernest to have them receive or invoice the item--they will do this when the item is in Content Management.
-{% endhint %}
-
 * Barcode the item
   * Barcode the item to your preference--either affixing the barcode to the item or placing it on a flag that you include with the item.
 * Edit item record
