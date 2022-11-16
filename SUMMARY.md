@@ -15,6 +15,7 @@
   * [\*Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
 * [Resource Description](content-management-processes/resource-description/README.md)
   * [\*Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
+    * [\*Boundwiths](content-management-processes/resource-description/cataloging-physical-items/boundwiths.md)
     * [\*Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
   * [\*Cataloging Electronic Resources](content-management-processes/resource-description/cataloging-electronic-resources/README.md)
     * [Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
