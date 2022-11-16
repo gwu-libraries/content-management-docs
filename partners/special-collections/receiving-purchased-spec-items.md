@@ -16,4 +16,8 @@ description: This is only for purchased items (with POLs)
 * Add orange "Rush" flag for any rush items
 * Bring item to Content Management room 103 and place on “**Receiving - Spec (purchased)**” shelf (in the Receiving section of shelving, not the Incoming section).
 
+### Artists' books
+
+Artists' books follow the same procedure as above, with the added step to notify Glenn that the resource has arrived at Gelman.&#x20;
+
 [Monograph Acquisitions will receive and invoice the items, and transfer them to RDG for cataloging.](../../content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)
