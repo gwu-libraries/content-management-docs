@@ -15,6 +15,7 @@
   * [\*Serials holding format](content-management-processes/serials/serials-holding-format.md)
 * [Electronic Resources](content-management-processes/electronic-resources/README.md)
   * [\*Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
+* [Page 1](content-management-processes/page-1.md)
 * [Resource Description](content-management-processes/resource-description/README.md)
   * [\*Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
     * [\*Boundwiths](content-management-processes/resource-description/cataloging-physical-items/boundwiths.md)
@@ -54,6 +55,8 @@
 * [Textile Museum](partners/textile-museum/README.md)
   * [\*Copy-Cataloging](partners/textile-museum/copy-cataloging.md)
 * [AH Small Collection](partners/ah-small-collection.md)
+* [VSTC](partners/vstc/README.md)
+  * [\*Nursing](partners/vstc/nursing.md)
 
 ## Reference
 
@@ -78,3 +81,4 @@
   * [\*Task Lists](tools/marcedit/task-lists.md)
 * [\*OCLC Connexion](tools/oclc-connexion.md)
 * [\*Other Resources](tools/other-resources.md)
+* [\*PCC](tools/pcc.md)
