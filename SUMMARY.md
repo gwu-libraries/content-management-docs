@@ -77,6 +77,7 @@
   * [\*Import profiles](tools/alma/import-profiles.md)
   * [\*Analytics](tools/alma/analytics.md)
   * [Discovery Collections](tools/alma/discovery-collections.md)
+* [\*ExLibris](tools/exlibris.md)
 * [\*MarcEdit](tools/marcedit/README.md)
   * [\*Task Lists](tools/marcedit/task-lists.md)
 * [\*OCLC Connexion](tools/oclc-connexion.md)

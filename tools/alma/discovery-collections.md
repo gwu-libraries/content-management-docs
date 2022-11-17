@@ -18,12 +18,12 @@ Discovery collections are like book exhibits for the digital environment. They a
 
 ### User roles
 
-| Role                          | Use                                    |
-| ----------------------------- | -------------------------------------- |
-| Discovery administrator       |                                        |
-| Collection inventory operator |                                        |
-| Collection inventory operator | Adds the ability to delete collections |
-| Digital inventory operator    |                                        |
+| Role                                   | Use                                    |
+| -------------------------------------- | -------------------------------------- |
+| Discovery administrator                |                                        |
+| Collection inventory operator          |                                        |
+| Collection inventory operator extended | Adds the ability to delete collections |
+| Digital inventory operator             |                                        |
 
 ### Creating a collection
 
