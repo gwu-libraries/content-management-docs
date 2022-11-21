@@ -2,9 +2,10 @@
 
 ### Fill out red flag
 
-\[ADD IMAGE OF NEW FLAG]
+![](<../../.gitbook/assets/image (1).png>)
 
-* update
+* Check the appropriate boxes and/or describe the probelm in the "other" section
+* Include your name/initials on the "flagged by" line
 
 ## Content Management shelves
 

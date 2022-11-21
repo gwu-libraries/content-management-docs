@@ -30,7 +30,7 @@ Check in regular issues of periodicals on the lines starting with “866.” Use
 
 For unbound periodical issues, both indicators in the 866 field should be blank (4 1 should only be for bound volumes). Enumeration information goes in the $a. $8 is not necessary. Enumeration should include a range as long as there are no missing issues, so it should sometimes be possible to change the last issue in the range instead of adding a new line/range.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Select "Save and release record" when finished. Make sure that no records remain listed in the metadata editor.
 
