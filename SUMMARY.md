@@ -49,7 +49,7 @@
     * [Serials Holdings Formatting](partners/global-resources-center/grc-serials-holdings-policy/serials-holdings-formatting.md)
   * [Sending GRC items to WRLC](partners/global-resources-center/sending-grc-items-to-wrlc.md)
 * [Special Collections](partners/special-collections/README.md)
-  * [\*Ordering/Creating POLs](partners/special-collections/ordering-creating-pols.md)
+  * [Creating POLs for ordered items](partners/special-collections/ordering-creating-pols.md)
   * [Receiving Purchased Spec Items](partners/special-collections/receiving-purchased-spec-items.md)
   * [Receiving Non-Purchased Spec Items](partners/special-collections/receiving-non-purchased-spec-items.md)
 * [Textile Museum](partners/textile-museum/README.md)
