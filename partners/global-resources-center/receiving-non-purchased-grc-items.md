@@ -25,7 +25,7 @@ This form creates a brief bibliographic record. Only the following fields are ne
 
 * Title: Enter the title of the resource. This can be an abbreviated title, and can be in roman or non-roman script.
 * ISBN: This is helpful if one exists on the resource.
-* Additional person name: Enter the name of the collection, if applicable, e.g. “Korean Resources Center”.
+* Additional person name: Enter the name of the collection, if applicable, e.g. “Korea Resource Center.”
 * Source: Enter any donor notes the way you want them to appear, e.g. “Gift of Prof. Someone-or-other”.
 * Note: Enter any notes for RDG, e.g. “Please include the Korean title ‘Chosŏnhak’ even though it doesn’t appear on the item”.
 
