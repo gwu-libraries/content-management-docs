@@ -31,7 +31,7 @@ Notes are added to the bibliographic record as a local 971 and to the holdings 5
 | REECE/Reddaway                        | Reddaway Research Collection                                    |                |           |
 | Media                                 | Global Resources Center Media                                   |                |           |
 | MENA                                  | Middle East and North Africa Research Center                    |                |           |
-| MENA/Damghani (Islamic Studies & ref) | Damghani Islamic Studies Collection                             |                |           |
+| MENA/Damghani (Islamic Studies & ref) | Middle East and North Africa Islamic Studies Collection         |                |           |
 
 ### General Collections
 
