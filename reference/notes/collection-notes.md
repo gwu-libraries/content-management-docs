@@ -19,19 +19,19 @@ Notes are added to the bibliographic record as a local 971 and to the holdings 5
 
 ### GRC Collections
 
-| Collection                            | Note                                                            | Formatted Note | Locations |
-| ------------------------------------- | --------------------------------------------------------------- | -------------- | --------- |
-| Asia Reference                        | Asia Reference                                                  |                |           |
-| China Documentation Center (CDC)      | China Documentation Center                                      |                |           |
-| GRC general collections               | Global Resources Center                                         |                |           |
-| Japan Resource Center (JRC)           | Japan Resource Center                                           |                |           |
-| Taiwan Resource Center                | Taiwan Resource Center                                          |                |           |
-| Korea Resource Center (KRC)           | Korea Resource Center                                           |                |           |
-| REECE                                 | Russia, Eurasia, and Eastern and Central Europe Resource Center |                |           |
-| REECE/Reddaway                        | Reddaway Research Collection                                    |                |           |
-| Media                                 | Global Resources Center Media                                   |                |           |
-| MENA                                  | Middle East and North Africa Research Center                    |                |           |
-| MENA/Damghani (Islamic Studies & ref) | Middle East and North Africa Islamic Studies Collection         |                |           |
+| Collection                       | Note                                                            | Usage note                                                                      | Locations |
+| -------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------- |
+| Asia Reference                   | Asia Reference                                                  |                                                                                 |           |
+| China Documentation Center (CDC) | China Documentation Center                                      |                                                                                 |           |
+| GRC general collections          | Global Resources Center                                         |                                                                                 |           |
+| Japan Resource Center (JRC)      | Japan Resource Center                                           |                                                                                 |           |
+| Taiwan Resource Center           | Taiwan Resource Center                                          |                                                                                 |           |
+| Korea Resource Center (KRC)      | Korea Resource Center                                           |                                                                                 |           |
+| REECE                            | Russia, Eurasia, and Eastern and Central Europe Resource Center |                                                                                 |           |
+| REECE/Reddaway                   | REECE Reddaway Research Collection                              | This is a second note; all items here should also have REECE as the first note. |           |
+| Media                            | Global Resources Center Media                                   |                                                                                 |           |
+| MENA                             | Middle East and North Africa Research Center                    |                                                                                 |           |
+| MENA/Islamic Studies             | MENA Islamic Studies Collection                                 | This is a second note; all items here should also have MENA as the first note.  |           |
 
 ### General Collections
 
