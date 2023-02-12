@@ -18,7 +18,7 @@ Click on the “Physical” hyperlink -- this will bring up the holdings records
 
 If there are several holdings records, select the appropriate GRC record. There should just be one onsite GRC holding. If there are multiple, ask Cathy or RDG which holding to use, as consolidation might be necessary.
 
-Confirm there is no PO Line on the holding record. If there is one, check with Cathy or RDG to see if this should be received using the "Receiving Purchased Incoming GRC Annuals" process.
+Confirm there is no PO Line on the holding record. If there is one, check with Cathy or RDG to see if this should be received using the "[Receiving Purchased Incoming GRC Annuals](receiving-purchased-incoming-grc-annuals.md)" process.
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,7 @@ Make sure the new item shows as "in place".
 
 ### Physical processing
 
-On the same day you create the item record, take the new volume to 103 and do the following physical processing tasks. See the [physical processing page](../../../content-management-processes/physical-processing/) for details.
+On the same day you create the item record, take the new volume to 103 and do the following physical processing tasks. See the [physical processing page](../../../content-management-processes/physical-processing/physical-processing-steps.md) for details.
 
 * [ ] Open the label printing software and scan the barcode
 * [ ] Write the call number in pencil on the back of the title page, including all prefixes
