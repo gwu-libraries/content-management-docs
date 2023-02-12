@@ -39,7 +39,7 @@ Steps:
 * If there is a temporary location (e.g. "In process"), edit the item record to remove the temporary location information prior to changing the permanent location to WRLC.
 * Use "Scan in items" in Alma to set the location to the desired WRLC location ("wrlc cgrc", "wrlc sgrc", "wrlc shrp", etc)
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)
 
 * If the title has multiple items, check the holding records to see if 866 holding summaries need to be created or edited on any of the holding records (multiple holding records may exist if not all items are going to WRLC)
 
@@ -63,7 +63,7 @@ Steps:
   * Include a note listing which volumes are located offsite
 * Use "Scan in items" to set "In transit" status for each item
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 ## If there are multiple items and all GRC items are going to WRLC
 
