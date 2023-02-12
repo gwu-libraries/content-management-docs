@@ -28,9 +28,8 @@
   * [Batch processing](content-management-processes/resource-description/batch-processing/README.md)
     * [\*POL Creation](content-management-processes/resource-description/batch-processing/pol-creation.md)
     * [\*Withdrawals](content-management-processes/resource-description/batch-processing/withdrawals.md)
-* [Physical Processing](content-management-processes/physical-processing/README.md)
-  * [Physical Processing Steps](content-management-processes/physical-processing/physical-processing-steps.md)
-  * [Label Printing](content-management-processes/physical-processing/label-printing.md)
+* [Physical Processing Steps](content-management-processes/physical-processing-steps/README.md)
+  * [Label Printing Configuration](content-management-processes/physical-processing-steps/label-printing-configuration.md)
 
 ## Partners
 

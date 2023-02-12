@@ -60,7 +60,7 @@ Make sure the new item shows as "in place".
 
 ### Physical processing
 
-On the same day you create the item record, take the new volume to 103 and do the following physical processing tasks. See the [physical processing page](../../../content-management-processes/physical-processing/physical-processing-steps.md) for details.
+On the same day you create the item record, take the new volume to 103 and do the following physical processing tasks. See the [physical processing page](../../../content-management-processes/physical-processing-steps/) for details.
 
 * [ ] Open the label printing software and scan the barcode
 * [ ] Write the call number in pencil on the back of the title page, including all prefixes
