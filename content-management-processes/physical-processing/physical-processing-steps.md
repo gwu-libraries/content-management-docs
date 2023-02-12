@@ -4,6 +4,7 @@
 * [ ] Scan the barcode of the item to be labeled
 * [ ] Make sure the call number has the necessary prefixes and matches the call number written in pencil on the title page verso
   * [ ] If there is no call number written on the title page verso, or the call number in the software does not match what is penciled in, bring the item to RDG to have them address the discrepency
+  * [ ] If the call number in the software does not include the necessary prefixes, contact [Matthew Bright](mailto:bright@gwu.edu) to have them added to the configuration
 * [ ] Print the label
 * [ ] Attach the label on the spine of the item
   * [ ] If the item is too narrow to fit the whole call number, place it on the top left corner of the cover
