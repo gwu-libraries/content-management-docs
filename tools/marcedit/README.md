@@ -10,9 +10,9 @@ description: >-
 
 MarcEdit and Alma Integration (20180716rev)
 
-Set up ILS integration to Alma. Click on < ![](<../../.gitbook/assets/image (1) (1).png>)> on lower right corner of main menu.
+Set up ILS integration to Alma. Click on < ![](<../../.gitbook/assets/image (3) (1).png>)> on lower right corner of main menu.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 &#x20;
 

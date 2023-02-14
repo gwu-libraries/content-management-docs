@@ -1,4 +1,4 @@
-# Processing Non-purchased Incoming GRC Annuals
+# Processing Incoming GRC Annuals
 
 ### Barcode the item
 
@@ -8,9 +8,15 @@ Place barcode on the physical item
 
 Set the search for “All titles” and “ISSN” or “Title” -- and make sure you are searching in the institution zone (as below).
 
-Confirm there are no orders attached to the bibliographic record.
-
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Confirm there are no active "physical one time" orders attached to the bibliographic record.
+
+* "Continuous" orders of any type are fine
+* "Physical one time" orders with a status of "Closed" or "Cancelled" are fine; status of "Sent" or "In Review" are not
+* If there is an active "physical one time" order, check with Cathy
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Physical Continuous and closed Physical One Time orders are fine.</p></figcaption></figure>
 
 ### Identify correct holding record
 

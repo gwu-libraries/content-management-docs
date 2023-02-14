@@ -16,4 +16,4 @@ description: This process is still being tested.
     * If not prepaid, assign to FinOps
 * Place the item on the “Cataloging - Spec” shelf
 
-![](<../../../.gitbook/assets/image (4) (2).png>)
+![](<../../../.gitbook/assets/image (1) (2).png>)

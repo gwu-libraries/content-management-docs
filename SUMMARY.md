@@ -44,7 +44,7 @@
   * [Scanning In GRC Items](partners/global-resources-center/scanning-in-grc-items.md)
   * [GRC Serials](partners/global-resources-center/grc-serials-holdings-policy/README.md)
     * [Processing Incoming GRC Issues](partners/global-resources-center/grc-serials/processing-incoming-GRC-issues.md)
-    * [Processing Non-purchased Incoming GRC Annuals](partners/global-resources-center/grc-serials/processing-non-purchased-incoming-grc-annuals.md)
+    * [Processing Incoming GRC Annuals](partners/global-resources-center/grc-serials/processing-non-purchased-incoming-grc-annuals.md)
     * [Receiving Purchased Incoming GRC Annuals](partners/global-resources-center/grc-serials/receiving-purchased-incoming-grc-annuals.md)
   * [Sending GRC items to WRLC](partners/global-resources-center/sending-grc-items-to-wrlc.md)
 * [Special Collections](partners/special-collections/README.md)
