@@ -80,5 +80,5 @@
 * [\*MarcEdit](tools/marcedit/README.md)
   * [\*Task Lists](tools/marcedit/task-lists.md)
 * [\*OCLC Connexion](tools/oclc-connexion.md)
-* [\*Other Resources](tools/other-resources.md)
+* [Other Resources](tools/other-resources.md)
 * [\*PCC](tools/pcc.md)
