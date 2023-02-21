@@ -1,3 +1,7 @@
+---
+description: This is for both purchased and non-purchased annuals.
+---
+
 # Processing Incoming GRC Annuals
 
 ### Barcode the item
@@ -10,21 +14,11 @@ Set the search for “All titles” and “ISSN” or “Title” -- and make su
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Confirm there are no active "physical one time" orders attached to the bibliographic record.
-
-* "Continuous" orders of any type are fine
-* "Physical one time" orders with a status of "Closed" or "Cancelled" are fine; status of "Sent" or "In Review" are not
-* If there is an active "physical one time" order, check with Cathy
-
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Physical Continuous and closed Physical One Time orders are fine.</p></figcaption></figure>
-
 ### Identify correct holding record
 
 Click on the “Physical” hyperlink -- this will bring up the holdings records for the print journal (as opposed to any holdings records for an electronic version of the same journal). Then click on the "Holdings" hyperlink.
 
 If there are several holdings records, select the appropriate GRC record. There should just be one onsite GRC holding. If there are multiple, ask Cathy or RDG which holding to use, as consolidation might be necessary.
-
-Confirm there is no PO Line on the holding record. If there is one, check with Cathy or RDG to see if this should be received using the "[Receiving Purchased Incoming GRC Annuals](receiving-purchased-incoming-grc-annuals.md)" process.
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
