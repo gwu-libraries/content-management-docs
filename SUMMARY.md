@@ -74,7 +74,7 @@
 * [\*Alma](tools/alma/README.md)
   * [Work orders](tools/alma/work-orders.md)
   * [\*Import profiles](tools/alma/import-profiles.md)
-  * [\*Analytics](tools/alma/analytics.md)
+  * [Analytics](tools/alma/analytics.md)
   * [Discovery Collections](tools/alma/discovery-collections.md)
 * [\*ExLibris](tools/exlibris.md)
 * [\*MarcEdit](tools/marcedit/README.md)
