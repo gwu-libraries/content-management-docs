@@ -9,6 +9,7 @@
 | Local Param 03  | 962        | Copy note                                |
 | Local Param 04  | 963        | Binding note                             |
 | Local Param 05  | 975        | Gift note                                |
+| Local Param 06  | 592        | Legacy Voyager record number             |
 
 ## Holding Details Local Params
 
