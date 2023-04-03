@@ -26,8 +26,9 @@
   * [Lost/Damaged/Replaced Items (RDG)](content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md)
   * [Partnership Cataloging](content-management-processes/resource-description/partnership-cataloging.md)
   * [Batch processing](content-management-processes/resource-description/batch-processing/README.md)
-    * [\*POL Creation](content-management-processes/resource-description/batch-processing/pol-creation.md)
     * [\*Withdrawals](content-management-processes/resource-description/batch-processing/withdrawals.md)
+    * [WorldShare Management Services](content-management-processes/resource-description/batch-processing/worldshare-management-services.md)
+    * [\*POL Creation](content-management-processes/resource-description/batch-processing/pol-creation.md)
 * [Physical Processing Steps](content-management-processes/physical-processing-steps/README.md)
   * [Label Printing Configuration](content-management-processes/physical-processing-steps/label-printing-configuration.md)
 
