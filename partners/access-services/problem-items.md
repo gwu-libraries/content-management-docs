@@ -2,7 +2,7 @@
 
 ### Fill out red flag
 
-![](<../../.gitbook/assets/image (1).png>)
+![The red problem item routing slip](<../../.gitbook/assets/image (1).png>)
 
 * Check the appropriate boxes and/or describe the probelm in the "other" section
 * Include your name/initials on the "flagged by" line
