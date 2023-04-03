@@ -35,8 +35,8 @@
 
 * [Access Services](partners/access-services/README.md)
   * [Damaged Items](partners/access-services/damaged-items.md)
-  * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
   * [Problem Items](partners/access-services/problem-items.md)
+  * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
 * [Global Resources Center](partners/global-resources-center/README.md)
   * [Purchasing GRC Items](partners/global-resources-center/ordering-creating-pols.md)
   * [Receiving Purchased GRC Items](partners/global-resources-center/receiving-purchased-items.md)
