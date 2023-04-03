@@ -16,4 +16,4 @@ description: This process is still being tested.
     * If not prepaid, assign to FinOps
 * Place the item on the “Cataloging - Spec” shelf
 
-![](<../../../.gitbook/assets/image (1) (2).png>)
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt="Receiving new material box for items"><figcaption></figcaption></figure>
