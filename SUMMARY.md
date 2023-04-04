@@ -20,7 +20,7 @@
     * [\*Boundwiths](content-management-processes/resource-description/cataloging-physical-items/boundwiths.md)
     * [\*Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
   * [\*Cataloging Electronic Resources](content-management-processes/resource-description/cataloging-electronic-resources/README.md)
-    * [\*Finding Aids](content-management-processes/resource-description/cataloging-electronic-resources/finding-aids.md)
+    * [Finding Aids](content-management-processes/resource-description/cataloging-electronic-resources/finding-aids.md)
     * [Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
     * [\*Swank Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/swank-streaming-video.md)
   * [Lost/Damaged/Replaced Items (RDG)](content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md)
