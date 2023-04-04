@@ -1,5 +1,7 @@
 # Withdrawals
 
+<< We need to add how we get withdrawals, including where they are on the shelves in 104. Or if they're just emailed/sent through Salesforce >>&#x20;
+
 ### Alma Analytics
 
 Use the list of barcodes that were either provided to you or that you scanned to run an analysis in Alma Analytics for items' retention information, other ID numbers for running jobs, etc.
