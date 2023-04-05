@@ -31,6 +31,7 @@
     * [\*POL Creation](content-management-processes/resource-description/batch-processing/pol-creation.md)
 * [Physical Processing Steps](content-management-processes/physical-processing-steps/README.md)
   * [Label Printing Configuration](content-management-processes/physical-processing-steps/label-printing-configuration.md)
+  * [Physical Processing](content-management-processes/physical-processing-steps/physical-processing.md)
 
 ## Partners
 
