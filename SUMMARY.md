@@ -13,6 +13,7 @@
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
   * [\*Check in](content-management-processes/serials/check-in.md)
   * [\*Serials holding format](content-management-processes/serials/serials-holding-format.md)
+  * [Bound items to WRLC SCF](content-management-processes/serials/bound-items-to-wrlc-scf.md)
 * [Electronic Resources](content-management-processes/electronic-resources/README.md)
   * [\*Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
 * [Resource Description](content-management-processes/resource-description/README.md)
