@@ -27,6 +27,7 @@
   * [Lost/Damaged/Replaced Items (RDG)](content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md)
   * [Partnership Cataloging](content-management-processes/resource-description/partnership-cataloging.md)
     * [NVN / Himmelfarb](content-management-processes/resource-description/partnership-cataloging/nvn-himmelfarb.md)
+    * [AH Small](content-management-processes/resource-description/partnership-cataloging/ah-small.md)
   * [Batch processing](content-management-processes/resource-description/batch-processing/README.md)
     * [Withdrawals](content-management-processes/resource-description/batch-processing/withdrawals.md)
     * [WorldShare Management Services](content-management-processes/resource-description/batch-processing/worldshare-management-services.md)
