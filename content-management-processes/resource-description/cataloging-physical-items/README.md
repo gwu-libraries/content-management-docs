@@ -1,139 +1,65 @@
 ---
-description: This is a draft document.
+description: '*copy editing and formatting still needs to be finished'
 ---
 
-# \*Cataloging Physical Items
+# Cataloging Physical Items
 
-Copy cataloging (Alma)
+## Introduction
 
-Search for title using title page of resource (not cover); prefer search using title over oclc # or isbn
+This documents the process for basic copy cataloging for all cataloging and specifically for physical monographs entering in the general circulating collection. While this is the basis for all cataloging, there are more involved procedures for electronic resources, Special Collections and GRC, etc. Where document conflicts, follow the more specific documentation.&#x20;
 
-Search both in NZ then in IZ  &#x20;
+## Copy cataloging (Alma)
 
-&#x20;   If title is in NZ and an unlinked bib in the IZ
+Search Alma IZ All Titles to find a record. A record should exist for pretty much everything that goes through the regular cataloging process, but in many cases it will be a brief/stub record
 
-Check our copy to see that publisher and date information match NZ record
+* Search by ISBN if the item has one; otherwise use keyword title; otherwise use item barcode
+* When you find a record, take a look at it to see what it looks like (is it complete, is it a brief record with information for the cataloger like collection names, etc?), and see if the record is linked to the NZ
 
-&#x20;   If they match open IZ record in MDE (metadata editor)&#x20;
+Search Alma NZ All Titles to see if a record exists in the NZ for the resource
 
-&#x20;   Under Record Actions tab choose→ Share with network this will generate a “matched records exist in the catalog do you want to view before saving” response. Choose “Yes” → when matching NZ record appears if it matches your piece&#x20;
+* Using ISBN, keyword, OCLC number or other information from the IZ record
+* If a match exists, make sure it’s for the same manifestation (same format, edition, date, etc.)
 
-Click “Link” then click Save button
+If there is a properly matching record that is not already linked to the IZ record, open the IZ record in Metadata Editor
 
-Search for title again. The IZ record should now mirror the NZ record and the holdings in NZ should include GW’s copy.&#x20;
+* If there is institution-specific or copy-specific metadata in the IZ record (such as a collection name or donor note), move that information to the proper local extensions (Alma local fields) before linking to the NZ
+* Choose Record Actions>Share with network. When alerted that matches are found, view matches and select “Link” for the correct NZ record
 
-You can either add 973 fields manually in the MDE or choose to export the oclc record to a local dat file and use ME (marcedit) tool to add 973’s via a task created in ME&#x20;
+Search OCLC Connexion for the resource
 
-If using ME after the 973 fields are added:&#x20;
+* Identify the correct record - format, language, isbn, correct title, rda record, call number, subject headings, existence of DLC, number of holdings, whether GW has holdings
+* If GW has holdings on the wrong record, remove holdings and add them to the correct record
+* If GW does not have holdings, add holdings to correct record
+* Compare OCLC record with NZ record to determine if NZ record should be updated
+* Do copy cataloging process (or original cataloging process) in Connexion
 
-Copy MMSID from IZ record and replace the oclc # in 001 field with it
+<< add details about which fields we check for what and what we do at minimum >>
 
-&#x20;           Delete 003 field
 
-&#x20;           Save file
 
-Under ME Alma tab choose ”Update/Create”
+If the OCLC record is changed from the Alma NZ-linked record, or if only Alma IZ record exists:
 
-Next Copy the oclc #.&#x20;
-
-&#x20;       Search OCLC using the oclc # copied. Add our holdings to the record (hit F8 key)
-
-Also search by title delete any holdings added to other records for the same title as                                       needed (Shift + F8 key)  &#x20;
-
-&#x20; &#x20;
-
-&#x20;       If title is not in NZ&#x20;
-
-&#x20;           Choose “Manage sets” tab
-
-&#x20;           Click “Add Set” choose itemized type and name your set
-
-&#x20;           Choose Add members→ Add title  &#x20;
-
-\
-
-
-Next search for title in OCLC choose best record (match title, author, ISBN #,  place of publication, publisher, copyright date or date published). Note if date published is later than copyright date prefer record with later date.&#x20;
-
-&#x20;           Update holdings (F8)
-
-&#x20;           Export to local dat file
-
-&#x20;           Open dat file with ME (metadata editor)
-
-&#x20;           Run LD (linked data) task to record(s)
-
-&#x20;           Run add 973 task to record(s)
-
-&#x20;           Validate file
-
-&#x20;           Copy MMSID from IZ record and replace the oclc # in 001 field with it
-
-&#x20;           Delete 003 field
-
-&#x20;           Save file&#x20;
-
-&#x20;           Make sure the oclc # of the record you brought in from OCLC matches that on the record in our IZ. Update our IZ record oclc # if needed before continuing
-
-&#x20;           Release the record in Alma&#x20;
-
-&#x20;           Under ME Alma tab choose ”Update/Create” &#x20;
-
-In Alma choose Run a Job tab→ search for “Link”&#x20;
-
-&#x20;           Select your set&#x20;
-
-&#x20;           In Enter task parameters screen check box→ Contribute IZ records
-
-&#x20;           Submit
-
-&#x20;           Confirm by title or oclc # search that record is&#x20;
-
-In NZ and&#x20;
-
-Includes 973 fields in IZ
-
-\
-
-
-Once bibliographic records and holdings for GW copy are in both NZ and IZ:
-
-\
-
-
-Check Holdings record for correct marc fields (852 and 866 as needed) with indicators, library  choice, location choice, complete call # with properly placed delimiters: Ex: 852 0/ \$$b gelman \$$c stacks \$$h HC79.C3 \$$i P76 2021 or \$$h HC79 \$$i .C3 2021
-
-\
-
-
-Check Item record for correct barcode, material type, item policy and permanent stacks location
-
-\
-
-
-If physical piece needs processing:
-
-In Alma under Acquisitions Menu choose→ Scan in Items
-
-In Set Status To box choose “Physical Processing”
-
-Done button default should be “No”
-
-In Scan item barcode box-->enter the barcode on the piece (manually or via scanner)
-
-Place physical piece on “Physical processing” shelf in rm 103
-
-\
-
-
-If physical piece is shelf ready (ie has spine label, barcode) &#x20;
-
-In Alma under Acquisitions Menu choose→ Scan in Items
-
-In Set Status To box choose Anything it doesn’t matter what
-
-Done button choose-->Yes
-
-In Scan item barcode box-->enter the barcode on the piece (manually or via scanner)
-
-Place physical piece on “Ready for shelving” shelf in rm 103
+1. MD Editor>Search Resources
+2. Look up record by OCLC number
+3. Copy & Merge
+4. Save record
+5. Add 973 and any bib local notes (961, 962, 963, 971, 975, etc)
+   1. You can use your template (update as needed) and Editing Actions>Expand from Template (Ctrl+E), or manually enter the non-973 fields if preferred
+6. If record is not yet linked to NZ, share with network
+7. View related data>Inventory
+   1. Compare the bib call number with holding call number
+   2. If edits to call number are needed, or if notes need to be added to holding record, edit holding record
+   3. Manually add notes needed, or use a template
+8. Check shelflist from bib record, adding cutter
+   1. If needed, add 090 with local call number & update holding record call number from bib (Alt+U)
+   2. Pencil in call number, including prefixes based on location
+9. Save & release holding
+10. Edit item record
+    1. Add receive date if none exists
+    2. Make sure material type is accurate
+    3. Make sure Chron, Enum, Description are accurate
+    4. Make sure no temp location
+11. Save & release bib record (Ctrl+Alt+R)
+12. Scan in items
+    1. Done item or set status to physical processing
+13. Deliver the item to its destination or to its destination shelf in 103

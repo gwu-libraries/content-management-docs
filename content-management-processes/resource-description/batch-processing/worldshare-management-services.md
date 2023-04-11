@@ -35,7 +35,7 @@ After finish running the task, save the \*.mrk file to a new name in this patter
 
 Compile \*.mrk file into \*.mrc file and save the same name as above \*.mrk file.
 
-&#x20;****&#x20;
+&#x20;
 
 {% hint style="info" %}
 Firm order records: sometimes some records contain two different 024 number that will affect the import process. In this case, remove one of the 024 field based on other records’ vendor reference number pattern (same vendor), usually keep the 024 field beginning with 9999…

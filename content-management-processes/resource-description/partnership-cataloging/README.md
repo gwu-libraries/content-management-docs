@@ -1,3 +1,7 @@
+---
+description: RDG collaborates with other GWU entities to provide cataloging
+---
+
 # Partnership Cataloging
 
 ## Textile Museum
