@@ -25,7 +25,7 @@
     * [Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
     * [Swank Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/swank-streaming-video.md)
   * [Lost/Damaged/Replaced Items (RDG)](content-management-processes/resource-description/lost-damaged-replaced-items-rdg.md)
-  * [Partnership Cataloging](content-management-processes/resource-description/partnership-cataloging/README.md)
+  * [Partnership Cataloging](content-management-processes/resource-description/partnership-cataloging.md)
     * [NVN / Himmelfarb](content-management-processes/resource-description/partnership-cataloging/nvn-himmelfarb.md)
   * [Batch processing](content-management-processes/resource-description/batch-processing/README.md)
     * [Withdrawals](content-management-processes/resource-description/batch-processing/withdrawals.md)
