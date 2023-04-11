@@ -1,8 +1,4 @@
----
-description: TBA
----
-
-# \*Boundwiths
+# Boundwiths
 
 Boundwiths are multiple titles that are bound together in one volume. These are often multiple volumes of the same periodical, but can be discrete monographic titles as well. The bound volume is often called the container or parent; and the items bound within are referred to as the constituent titles or child titles.&#x20;
 

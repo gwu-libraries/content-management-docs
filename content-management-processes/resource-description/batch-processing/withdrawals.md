@@ -1,4 +1,4 @@
-# Withdrawals
+# Withdrawal (Batch)
 
 << We need to add how we get withdrawals, including where they are on the shelves in 104. Or if they're just emailed/sent through Salesforce >>&#x20;
 
@@ -85,41 +85,6 @@ In Connexion Client:
 <figure><img src="https://lh4.googleusercontent.com/WindgPuLgbHb__saPoup53NDD8Cel-RRK7mIzbWB3-gJmvNVsZNOzFonU7LqDcY4hfY8z5slDrhUM-6bce8h5EoB7VWjNaKj-H3f4nwt8ey2H6LYLxVs98ZEmQ_cl83RufjXe9vQNUGwhjqxslJHVf7C01eJ45_f" alt="OCLC Connexion batch update window, highlighting the O C L C numbers have been imported from the file, and &#x22;delete holdings&#x22; has been selected."><figcaption></figcaption></figure>
 
 Updating holding in Connexion will ensure OCLC WorldShare is updated and reflects GWU holdings.    &#x20;
-
-
-
-### Monograph Withdrawal: Not the last holding/item
-
-Withdraw only the item noted for discard. No additional changes will need to be made to the bib record or other holding records.&#x20;
-
-### Monograph Withdrawal: Last holding/item
-
-When withdrawing items that will leave no items left on the holdings, and no holdings you are withdrawing the final item; assign a withdrawal date, withdraw the holding and the item(s) and delete the bib record.&#x20;
-
-These bib records will remain accessible through APIs with appropriate access to the Dark Archive and Analytics.&#x20;
-
-After withdrawing all records in Alma, remove DGW holdings from the appropriate records in OCLC. In a few cases, the bibliographic record was in Alma only, and was never loaded to OCLC (most common with Special Collections or the NSA Archive). These records will not contain an 035 with $a (OCoLC).&#x20;
-
-### Serials Withdrawal: Complete holdings
-
-When withdrawing all available issues of a serials title, follow the procedure for removing the last holding/item of a monograph title.&#x20;
-
-### Serials Withdrawal: Partial holdings
-
-When withdrawing a partial collection of serials holdings, follow the procedure for Monograph withdrawal: not the last holding/item.\
-\
-Update the 866 of the holding record to reflect the remaining holdings.
-
-### Withdraw: Damaged/lost discards
-
-All damaged materials must first go through the damaged book review. The reviewers will review the materials in accordance with WRLC retention policy and decide if it should be replaced or discarded.&#x20;
-
-Due to the way that Alma maintains data, items that are replaced (through the damaged book or lost book workflow), still need to be withdrawn. The holdings for these items do not need to be withdrawn, the item should be marked as “Damaged” or “Lost”, and have a withdrawal date assigned.&#x20;
-
-Adding a replacement copy should follow the added copy workflow.&#x20;
-
-\
-
 
 ### Finish
 
