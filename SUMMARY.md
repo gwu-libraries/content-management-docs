@@ -78,7 +78,7 @@
 
 ## Tools
 
-* [\*Alma](tools/alma/README.md)
+* [Alma](tools/alma/README.md)
   * [Work orders](tools/alma/work-orders.md)
   * [\*Import profiles](tools/alma/import-profiles.md)
   * [Analytics](tools/alma/analytics.md)
