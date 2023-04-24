@@ -56,3 +56,7 @@ To import into Alma, use the "Kanopy" import profile. Once imported, update the 
 
 
 
+## Update tracking information
+
+When Kanopy titles are imported or update, add in the information to the [tracking spreadsheet](https://gwu0.sharepoint.com/:x:/r/sites/20180727030128000/\_layouts/15/Doc.aspx?sourcedoc=%7BADE799FA-6AF1-4B9A-A212-B8853CC91183%7D\&file=Alma%20Ongoing%20Record%20Loads.xlsx\&action=default\&mobileredirect=true).&#x20;
+
