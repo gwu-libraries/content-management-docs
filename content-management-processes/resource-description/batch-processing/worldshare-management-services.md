@@ -61,7 +61,7 @@ Compile \*.mrk file into \*.mrc file and save the same name as above \*.mrk file
 
 Import \*.mrc records into Alma by individual Alma Import Profile
 
-{% hint style="warning" %}
+{% hint style="info" %}
 These import profiles are all under Acquisitions > Import, not Resources > Import.
 {% endhint %}
 
@@ -69,6 +69,13 @@ These import profiles are all under Acquisitions > Import, not Resources > Impor
 
 * For Approval or Horrworth records:  Use “OCLCAPPROVAL (manual)” import profile.
 * For Firm Order records: Use “OCLC Firms” import profile.
+
+{% hint style="info" %}
+A\&A eportal import is under Resources > Import
+{% endhint %}
+
+
+
 * For AAePortal records: Use “A\&A ePortal” import profile. \
 
 
