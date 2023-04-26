@@ -28,6 +28,7 @@
   * [Partnership Cataloging](content-management-processes/resource-description/partnership-cataloging.md)
     * [NVN / Himmelfarb](content-management-processes/resource-description/partnership-cataloging/nvn-himmelfarb.md)
     * [AH Small](content-management-processes/resource-description/partnership-cataloging/ah-small.md)
+    * [National Security Archives](content-management-processes/resource-description/partnership-cataloging/national-security-archives.md)
   * [Batch processing](content-management-processes/resource-description/batch-processing/README.md)
     * [POL Creation](content-management-processes/resource-description/batch-processing/pol-creation.md)
     * [Withdrawal (Batch)](content-management-processes/resource-description/batch-processing/withdrawals.md)

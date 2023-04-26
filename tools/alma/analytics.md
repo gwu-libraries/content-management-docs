@@ -4,18 +4,18 @@ ExLibris allows for up to 10 local parameters to be mapped in Analytics. These a
 
 ## Bibliographic Details Local Params
 
-| Analytics Field | MARC Field    | Usage                                    |
-| --------------- | ------------- | ---------------------------------------- |
-| Local Param 01  | 971           | GW corporate contributor/collection name |
-| Local Param 02  | 961           | Ownership and custodial history          |
-| Local Param 03  | 962           | Copy note                                |
-| Local Param 04  | 963           | Binding note                             |
-| Local Param 05  | 975           | Gift note                                |
-| Local Param 06  | 592           | Legacy Voyager record number             |
-| Local Param 07  | \[Not mapped] |                                          |
-| Local Param 08  | \[Not mapped] |                                          |
-| Local Param 09  | \[Not mapped] |                                          |
-| Local Param 10  | \[Not mapped] |                                          |
+| Analytics Field | MARC Field    | Usage                                                             |
+| --------------- | ------------- | ----------------------------------------------------------------- |
+| Local Param 01  | 971           | GW corporate contributor/collection name                          |
+| Local Param 02  | 961           | Ownership and custodial history                                   |
+| Local Param 03  | 962           | Copy note                                                         |
+| Local Param 04  | 963           | Binding note                                                      |
+| Local Param 05  | 975           | Gift note                                                         |
+| Local Param 06  | 592           | Legacy Voyager record number                                      |
+| Local Param 07  | 973           | [GW Cataloger note](../../reference/notes/cataloger-notes-973.md) |
+| Local Param 08  | \[Not mapped] |                                                                   |
+| Local Param 09  | \[Not mapped] |                                                                   |
+| Local Param 10  | \[Not mapped] |                                                                   |
 
 ## Holding Details Local Params
 
