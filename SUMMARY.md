@@ -45,7 +45,7 @@
   * [Problem Items](partners/access-services/problem-items.md)
   * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
 * [Library Operations Team](partners/library-operations-team/README.md)
-  * [Updating Holding Summary Statements](partners/library-operations-team/processing-incoming-grc-issues.md)
+  * [Updating Holding Summary Statements](partners/library-operations-team/updating-holding-summary-statements.md)
 * [Global Resources Center](partners/global-resources-center/README.md)
   * [Purchasing GRC Items](partners/global-resources-center/ordering-creating-pols.md)
   * [Receiving Purchased GRC Items](partners/global-resources-center/receiving-purchased-items.md)
