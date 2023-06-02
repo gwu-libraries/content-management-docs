@@ -38,12 +38,6 @@ Select "Save and release record" when finished. It is very important to release 
 
 For recording dates/volumes/numbers: Follow the established format for each title; enumeration and frequency of publication are different for different periodicals. Here are examples of possible formats:
 
-{% hint style="info" %}
-When adding months or seasons, use either the three character abbreviation (example: Summer - Sum.; January - Jan.) or the full three or four letter name (May, June, Fall).
-{% endhint %}
-
-
-
 * **Single volume, year:** v.1 (1997); v.1 (1997)-v.2 (1998)
 * **Volume, number, year:** v.27:no.1 (2003); v.27:no.1 (2003)-no.2 (2003)
 * **Volume, number, year, month:** v.17:no.1 (2003:Jan.); v.17:no.1 (2003:Jan.)-v.17:no.2 (2003:Feb.)
@@ -55,6 +49,12 @@ When adding months or seasons, use either the three character abbreviation (exam
 * **Year, season:** 2003:Sum.; 2003:Sum.-2003:Fall
 * **Year, month:** 2000:Oct.; 2000:Oct.-2000:May
 * **Year, month, day:** 1994:Apr. 07; 1999:Apr. 07-1999:May 20
+
+
+
+{% hint style="info" %}
+When adding months or seasons, use either the three character abbreviation (example: Summer - Sum.; January - Jan.) or the full three or four letter name (May, June, Fall).
+{% endhint %}
 
 #### Punctuation format
 
