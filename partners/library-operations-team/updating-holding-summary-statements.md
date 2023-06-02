@@ -10,6 +10,10 @@ description: >-
 
 Once items have been moved to their destination holding record, examine the list of items on each holding to determine which volumes/ranges are attached to each holding.
 
+{% hint style="info" %}
+This process doesn't need to happen if these items are discards! This is only for items that are moving from one location and holding to a different location and holding.
+{% endhint %}
+
 ### Edit holding record
 
 Edit each holding record in the Metadata Editor to update the 866, 867, and 868 fields to match which items are actually associated with that holding.
@@ -24,9 +28,21 @@ Select "Save and release record" when finished. It is very important to release 
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+| MARC Field Tag | Purpose          | Example                               |
+| -------------- | ---------------- | ------------------------------------- |
+| 866            | Textual holdings | $a v. 1 (1997)-v.2 (1998), v.4 (2000) |
+| 867            | Supplementary    | $a Supplement to v. 1 (1997)          |
+| 868            | Indexes          | $a Index to v.1 (1997)-v.10 (2007)    |
+
 #### Enumeration format
 
 For recording dates/volumes/numbers: Follow the established format for each title; enumeration and frequency of publication are different for different periodicals. Here are examples of possible formats:
+
+{% hint style="info" %}
+When adding months or seasons, use either the three character abbreviation (example: Summer - Sum.; January - Jan.) or the full three or four letter name (May, June, Fall).
+{% endhint %}
+
+
 
 * **Single volume, year:** v.1 (1997); v.1 (1997)-v.2 (1998)
 * **Volume, number, year:** v.27:no.1 (2003); v.27:no.1 (2003)-no.2 (2003)
@@ -39,3 +55,11 @@ For recording dates/volumes/numbers: Follow the established format for each titl
 * **Year, season:** 2003:Sum.; 2003:Sum.-2003:Fall
 * **Year, month:** 2000:Oct.; 2000:Oct.-2000:May
 * **Year, month, day:** 1994:Apr. 07; 1999:Apr. 07-1999:May 20
+
+#### Punctuation format
+
+All holdings should be in one 866 (some legacy data has multiple 866 fields). We use punctuation to make it easier to read holdings statements.
+
+* **Continuous coverage**: Use a single dash "-". Example: no.5 (1998)-no.52 (1999)
+* **Coverage is broken**: Use a ",". Example: v.17:no.1 (2003:Jan.)-v.17:no.2 (2003:Feb.), v.22 (2005:May)
+
