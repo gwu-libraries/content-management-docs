@@ -27,3 +27,10 @@ The 001, 245$a, and 906$r fields will be the same for all items on the same bib.
 Save the Excel file in .xlsx format.
 
 Import the file in Alma by going to Resources>Import and running the "SCRC Item Bulk Creation" import job.
+
+In addition to the information in the spreadsheet, the following information will be added to all item records created through this process:
+
+* Location: scrc
+* Item policy: Non-circulating
+* Is magnetic: no
+* Item type: Box
