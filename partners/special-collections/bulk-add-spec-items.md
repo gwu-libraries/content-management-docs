@@ -34,3 +34,7 @@ In addition to the information in the spreadsheet, the following information wil
 * Item policy: Non-circulating
 * Is magnetic: no
 * Item type: Box
+
+## Credit
+
+Thanks to the documentation here that was useful in setting this up: [https://answers.library.losrios.edu/lrcq/faq/341064](https://answers.library.losrios.edu/lrcq/faq/341064)
