@@ -32,11 +32,10 @@ This form creates a brief bibliographic record. Only the following fields are ne
 ![](https://lh6.googleusercontent.com/\_iwYqWYCEPVEtZkAEUfZVdkZz2fzTIUzPjfmjUy3iLFcUB9NJ-ZAiINzBfcffLsvJTMcnUvW2RIx8ZfzBR2OsXYQsUiSLIWkZSgCgTxdLNEIKqdjfAiqPOhDKSPqm3XnKPD1H6gC)
 
 {% hint style="info" %}
-For Japanese original cataloging, please use the following additional guidelines:\
-\- Title: Include title, subtitle, and statement of responsibility in both Japanese and Roman characters, separated by semi-colon.\
-\- Author: Optional. Include if person in statement of responsibility has relationship other than author, and specify relationship (eg editor).\
-\- Edition, Publisher, Place of Publication: Include in both Japanese and Roman characters.\
-\- Publication date: Optional. Include when publication date on title page differs from copyright date.\
+For Japanese, Arabic, and Persian original cataloging, please use the following additional guidelines:\
+\- Title: Include title, subtitle, and statement of responsibility in both Non-Roman and Roman characters, separated by semi-colon.\
+\- Author: In the form it would appear in authority records (usually last name first) and specify relationship (eg editor).\
+\- Edition, Publisher, Place of Publication, Publication date: Include in both Japanese and Roman characters.\
 \- Note: Include subject headings and any other notes for the cataloger.
 {% endhint %}
 
