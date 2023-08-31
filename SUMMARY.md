@@ -72,6 +72,7 @@
 * [WRLC](reference/wrlc.md)
 * [Locations](reference/locations.md)
 * [Physical Processing Reference](reference/physical-processing-reference.md)
+* [Volume Numbering](reference/volume-numbering.md)
 * [Notes](reference/notes/README.md)
   * [Collection Notes](reference/notes/collection-notes.md)
   * [Cataloger Notes (973)](reference/notes/cataloger-notes-973.md)
