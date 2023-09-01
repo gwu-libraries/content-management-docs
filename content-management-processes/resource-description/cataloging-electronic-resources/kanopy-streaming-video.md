@@ -8,6 +8,10 @@ description: Background and process for adding and deactivating licensed Kanopy 
 
 If a title is a renewal, it'll already be in Alma. In this case, you'll only have to update the coverage in the portfolio.
 
+{% hint style="info" %}
+You can use the portfolio loader to batch update coverage dates. For more information, see the ExLibris Alma Knowledge Center article on [Using Portfolio Loader for Adding, Updating or Removing Portfolio Information in Bulk](https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_\(English\)/Electronic\_Resource\_Management/030\_Working\_with\_Local\_Electronic\_Resources/015Managing\_Electronic\_Resources#Using\_Portfolio\_Loader\_for\_Adding.2C\_Updating\_or\_Removing\_Portfolio\_Information\_in\_Bulk).
+{% endhint %}
+
 ## New licenses
 
 Titles that aren't currently in Alma are considered new licenses. That means that they will need to be brought in from OCLC and enhanced in MarcEdit to include portfolio URL, cover art URL, collection ID (for discovery collection), and cataloger notes.&#x20;
@@ -18,6 +22,10 @@ Titles that aren't currently in Alma are considered new licenses. That means tha
   * This can be found on the SalesForce ticket, the command line search in OCLC is mn:\[insert number]. This is generally the quickest way to find a useable record for the title
 * Using title, year, etc
   * If the publisher number didn't pull up a correct record for the Kanopy title, look for another record using other access points. Do not use the year of release, this is often different than what the Kanopy record has and can cause some incorrect matches. Note that the title that Kanopy provides is also not 100% accurate. It's always worth it to double check the actual streaming video for complete accuracy.&#x20;
+
+### Record from Kanopy
+
+In the rare case a record cannot be found in OCLC, download from the Kanopy dashboard. To do this, go to "Licenses" and click on the icon that is an MR inside the circle next to the title you need a record for.&#x20;
 
 ### MarcEdit enhancements
 
@@ -45,6 +53,7 @@ Notes about the \[ ] fields
 
 * \[URL] is where you will paste in the URL copied from the Invoice sent to SalesForce
 * \[ID] is where you will paste the ID number taken from the URL
+  * Example: https://gwu.kanopy.com/node/4208767 -- you would take the 4208767 and paste it where \[ID] is in the cover art URL.
 * \[cataloger name] is your last name
 * \[YYYY-MM-DD] is the year, month, and day you're cataloging
 
