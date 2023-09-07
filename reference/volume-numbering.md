@@ -4,6 +4,8 @@
 
 \[list WRLC standards and link to international standard]
 
+All holdings statements should conform to Section 5.5 of the [ANSI/NISO Z39.71-2006 (R2011) Holdings Statements for Bibliographic Items](https://groups.niso.org/higherlogic/ws/public/download/18121/Z39.71-2006\_\(R2011\).pdf) standard, which is linked for consultation where more detail is needed than is provided in the examples below.
+
 \[outline holding record standards]
 
 \[outline item record standards]
