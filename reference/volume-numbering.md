@@ -23,3 +23,14 @@ All holdings statements should conform to Section 5.5 of the [ANSI/NISO Z39.71-2
 * **Year, season:** 2003:Sum.; 2003:Sum.-2003:Fall
 * **Year, month:** 2000:Oct.; 2000:Oct.-2000:May
 * **Year, month, day:** 1994:Apr. 07; 1999:Apr. 07-1999:May 20
+
+{% hint style="info" %}
+When adding months or seasons, use either the three character abbreviation (example: Summer - Sum.; January - Jan.) or the full three or four letter name (May, June, Fall).
+{% endhint %}
+
+#### Punctuation format
+
+All holdings should be in one 866 (some legacy data has multiple 866 fields). We use punctuation to make it easier to read holdings statements.
+
+* **Continuous coverage**: Use a single dash "-". Example: no.5 (1998)-no.52 (1999)
+* **Coverage is broken**: Use a ",". Example: v.17:no.1 (2003:Jan.)-v.17:no.2 (2003:Feb.), v.22 (2005:May)
