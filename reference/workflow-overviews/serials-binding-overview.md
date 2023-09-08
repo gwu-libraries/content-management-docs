@@ -1,7 +1,5 @@
 # Serials Binding Overview
 
-##
-
 <figure><img src="../../.gitbook/assets/Content Management physical workflow overviews-Serials Binding.drawio.png" alt=""><figcaption><p>Process for serials binding for stacks (final) and GRC (draft)</p></figcaption></figure>
 
 ## Stacks Serials Binding Process

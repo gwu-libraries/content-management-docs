@@ -28,6 +28,6 @@ Monograph Acquisitions does final prep steps
 The volumes at this point are part of the standard process for sending items to WRLC
 
 {% hint style="info" %}
-This process continues with steps for SERG
+This process continues with [steps for SERG](../serials/serials-binding-serg-steps.md)
 {% endhint %}
 
