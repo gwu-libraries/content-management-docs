@@ -13,6 +13,7 @@
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
   * [\*Check in](content-management-processes/serials/check-in.md)
   * [\*Serials holding format](content-management-processes/serials/serials-holding-format.md)
+  * [Serials Binding (SERG steps)](content-management-processes/serials/serials-binding-serg-steps.md)
   * [Bound items to WRLC SCF](content-management-processes/serials/bound-items-to-wrlc-scf.md)
 * [Electronic Resources](content-management-processes/electronic-resources/README.md)
   * [\*Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
@@ -37,6 +38,8 @@
 * [Physical Processing Steps](content-management-processes/physical-processing-steps/README.md)
   * [Label Printing Configuration](content-management-processes/physical-processing-steps/label-printing-configuration.md)
   * [Physical Processing](content-management-processes/physical-processing-steps/physical-processing.md)
+* [Bindery](content-management-processes/bindery/README.md)
+  * [Serials Binding (MonoAcq steps)](content-management-processes/bindery/serials-binding-monoacq-steps.md)
 
 ## Partners
 
@@ -45,6 +48,7 @@
   * [Problem Items](partners/access-services/problem-items.md)
   * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
 * [Library Operations Team](partners/library-operations-team/README.md)
+  * [Serials Binding (LibOps steps)](partners/library-operations-team/serials-binding-libops-steps.md)
   * [Updating Holding Summary Statements](partners/library-operations-team/updating-holding-summary-statements.md)
 * [Global Resources Center](partners/global-resources-center/README.md)
   * [Purchasing GRC Items](partners/global-resources-center/ordering-creating-pols.md)
@@ -80,6 +84,7 @@
 * [Workflow Overviews](reference/workflow-overviews/README.md)
   * [Damaged Items Overview](reference/workflow-overviews/damaged-items.md)
   * [Lost & Paid / Patron Replacements Overview](reference/workflow-overviews/lost-and-paid-patron-replacements-overview.md)
+  * [Serials Binding Overview](reference/workflow-overviews/serials-binding-overview.md)
 
 ## Tools
 
