@@ -34,15 +34,13 @@ Select "Save and release record" when finished. Make sure that no records remain
 
 #### Enumeration format
 
-For recording dates/volumes/numbers: Follow the established format for each title; enumeration and frequency of publication are different for different periodicals. Here are examples of possible formats:
-
-* **Single volume, year:** v.1 (1997); v.1 (1997)-v.2 (1998)
-* **Number, year:** no.5 (1998); no.5 (1998)-no.52 (1999)
-* **Year:** 2003-2005
+See the [Volume Numbering page](../../../reference/volume-numbering.md) for information and examples of numbering.
 
 ### Add item record
 
-In the list of holdings, view an existing item record to check the "material type" and "item policy", then go back to the list of items.
+In the list of items under a holding, view an existing item record to check the "material type" and "item policy", then go back to the list of items.
+
+Enter today's date in the "receiving date" field
 
 Add item. Use the same material type and item policy as the item you looked at. Enter the item's enumeration and chronology in the appropriate fields:
 
