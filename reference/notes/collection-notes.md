@@ -40,4 +40,3 @@ Notes are added to the bibliographic record as a local 971 and to the holdings 5
 | Horrworth           | John Horrworth Children's Literature Collection                      | 971 2\ $a John Horrworth Children's Literature Collection. |           |
 | Oliver Reading Room | Andrew Oliver Book Collection for Classical and Near Eastern Studies |                                                            |           |
 | Corcoran            | Corcoran College of Art and Design                                   |                                                            |           |
-| Churchill (NCLC)    |                                                                      |                                                            |           |
