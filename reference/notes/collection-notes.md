@@ -4,7 +4,7 @@ description: The language to be added to records for GWLAI collections.
 
 # Collection Notes
 
-Notes are added to the bibliographic record as a local 971 and to the holdings 561.&#x20;
+Notes are added to the bibliographic record as a local 971 or a 978 (see below for which note goes to which bibliographic 97X field) and to the holdings 561.&#x20;
 
 ### SCRC Collections
 
