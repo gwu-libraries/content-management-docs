@@ -38,9 +38,8 @@ Once binding units have been identified, check the ISSN into the input box on th
 Library Operations Associate prepare issues for binding
 
 * Fill out binding slip (including title, enum, chron) with as much information is needed for the title.&#x20;
-  * DO fill out holding # (for when slip goes to Qali)
-  * Don’t need “numbers”
-  * Don’t need “months”
+  * DO fill out holding ID # (for when slip goes to Qali)
+  * Enumeration and Chronology is only needed with enough specificity to cover the full range of the bindable unit (For example, if v.2 no.1-4 are being bound, and there are only 4 issues per year, then only "v.2" is needed, "no.1-4" is not necessary; but if there are 8 issues per year then "v.2 no.1-4" is necessary because v.2 by itself does not indicate that only part of the volume is included in that bindable unit.)
 * Attach barcode to slip
 * If unbound issues have individual item records in Alma (because of predictive patterns):
   * Select the item records of the issues that will be bound
