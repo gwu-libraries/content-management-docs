@@ -22,7 +22,7 @@ Once binding units have been identified, check the ISSN into the input box on th
 
 <figure><img src="https://lh5.googleusercontent.com/MNCgwl_HhqC_sNN3fHUQUatqzw3v3vYinZJDV7_R5NXUY0dQsE3ibITLdG0UdB50DLEJCSEtPawhknsPWPUsm0-REp3BeD87sdflQcYj203AUUSALSH8suhZNR_--IRwNX8y-z_aYxW3iWLq_BGhZzU" alt=""><figcaption><p>WRLC Shared Collection Facility serial holdings lookup tool</p></figcaption></figure>
 
-* If volume is at WRLC
+* If bindable unit is at WRLC
   * If unbound issues have individual item records in Alma (because of predictive patterns), send RDG list of barcodes to be withdrawn
   * Edit holding record 866 to remove issues being discarded
   * Physically discard issues
@@ -37,7 +37,7 @@ Once binding units have been identified, check the ISSN into the input box on th
 
 Library Operations Associate prepare issues for binding
 
-* Fill out binding slip (including title, enum, chron)
+* Fill out binding slip (including title, enum, chron) with as much information is needed for the title.&#x20;
   * DO fill out holding # (for when slip goes to Qali)
   * Don’t need “numbers”
   * Don’t need “months”
