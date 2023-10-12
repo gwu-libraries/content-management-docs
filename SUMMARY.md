@@ -12,7 +12,7 @@
 * [Serials](content-management-processes/serials/README.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
   * [\*Check in](content-management-processes/serials/check-in.md)
-  * [\*Serials holding format](content-management-processes/serials/serials-holding-format.md)
+  * [Serials holding format](content-management-processes/serials/serials-holding-format.md)
   * [Serials Binding (SERG steps)](content-management-processes/serials/serials-binding-serg-steps.md)
   * [Bound items to WRLC SCF](content-management-processes/serials/bound-items-to-wrlc-scf.md)
 * [Electronic Resources](content-management-processes/electronic-resources/README.md)
