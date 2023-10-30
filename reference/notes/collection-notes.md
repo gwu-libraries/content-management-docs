@@ -8,14 +8,14 @@ Notes are added to the bibliographic record as a local 971 or a 978 (see below f
 
 ### SCRC Collections
 
-| Collection                  | Collection Note                                                                  | MARC Formatted Note                                                      | Locations |
-| --------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------- |
-| Artists' books              | Corcoran College of Art and Design Artists Book Collection                       | 978 1\\$a                                                                |           |
-| Corcoran                    | Corcoran College of Art and Design                                               |                                                                          |           |
-| MEI                         | Middle East Institute Collection at Gelman Library                               | 978 1\\$a                                                                |           |
-| IBT                         | International Brotherhood of Teamsters Labor History Collection                  | 978 1\\$aInternational Brotherhood of Teamsters Labor History Collection |           |
-| Kiev                        | I. Edward Kiev Judaica Collection (George Washington University. Gelman Library) | 978 1\\$a                                                                |           |
-| Special Collections General | Special Collections Research Center Collection                                   | 978 1\\$a                                                                |           |
+| Collection                  | Collection Note                                                                  | MARC Formatted Note                                                                       | Locations |
+| --------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
+| Artists' books              | Corcoran College of Art and Design Artists Book Collection                       | 978 1\\$aCorcoran College of Art and Design Artists Book Collection                       |           |
+| Corcoran                    | Corcoran College of Art and Design                                               |                                                                                           |           |
+| MEI                         | Middle East Institute Collection at Gelman Library                               | 978 1\\$aMiddle East Institute Collection at Gelman Library                               |           |
+| IBT                         | International Brotherhood of Teamsters Labor History Collection                  | 978 1\\$aInternational Brotherhood of Teamsters Labor History Collection                  |           |
+| Kiev                        | I. Edward Kiev Judaica Collection (George Washington University. Gelman Library) | 978 1\\$aI. Edward Kiev Judaica Collection (George Washington University. Gelman Library) |           |
+| Special Collections General | Special Collections Research Center Collection                                   | 978 1\\$aSpecial Collections Research Center Collection                                   |           |
 
 ### GRC Collections
 
