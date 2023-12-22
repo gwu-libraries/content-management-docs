@@ -7,8 +7,9 @@
   * If displayed call number and penciled in call number do not match, send back to RDG
 * Print label
 * Attach label
-  * on spine
+  * On spine
   * If spine is too narrow to fit whole call number, place top left of cover
+  * If Spec, do not attach spine label, Spec affixes the label themselves
 * Cover with clear plastic
   * If label placed on cover instead of spine, cut a clear piece in half and use that
 
