@@ -49,6 +49,7 @@
   * [Damaged Items](partners/access-services/damaged-items.md)
   * [Problem Items](partners/access-services/problem-items.md)
   * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
+* [Collection Development Librarians](partners/collection-development-librarians.md)
 * [Library Operations Team](partners/library-operations-team/README.md)
   * [Serials Binding (LibOps steps)](partners/library-operations-team/serials-binding-libops-steps.md)
   * [Updating Holding Summary Statements](partners/library-operations-team/updating-holding-summary-statements.md)
