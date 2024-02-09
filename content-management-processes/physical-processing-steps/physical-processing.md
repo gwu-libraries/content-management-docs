@@ -1,5 +1,9 @@
 # Physical Processing
 
+{% hint style="danger" %}
+For Special Collections materials, the ONLY physical processing that should occur is printing a spine label. Do not attach the spine label - simply tuck it into the book for Spec staff to affix. Do not add security strips, due date slips, or stamps. But do "done" the work order before delivering the items to Spec.
+{% endhint %}
+
 ### Spine labels / Call numbers
 
 * Open the label printing software
