@@ -22,6 +22,7 @@
   * [Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
     * [Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
     * [Boundwiths](content-management-processes/resource-description/cataloging-physical-items/boundwiths.md)
+    * [Artists' Books](content-management-processes/resource-description/cataloging-physical-items/artists-books.md)
   * [Cataloging Electronic Resources](content-management-processes/resource-description/cataloging-electronic-resources/README.md)
     * [Finding Aids](content-management-processes/resource-description/cataloging-electronic-resources/finding-aids.md)
     * [Kanopy Streaming Video](content-management-processes/resource-description/cataloging-electronic-resources/kanopy-streaming-video.md)
