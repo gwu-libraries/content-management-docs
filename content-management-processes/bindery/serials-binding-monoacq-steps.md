@@ -17,15 +17,15 @@ Monograph Acquisitions does bindery prep
 Monograph Acquisitions does final prep steps
 
 * Attach barcodes to volumes
-* In Alma, edit the item record
-  * In the Process Type dropdown select blank (to manually remove the work order and put the item in place)
-  * Select Temporary Location In Use: Yes
-  * Select the Gelman Library> Boxed for SCF location
-  * Save the item
-* Physically box items to send to SCF
-* Forward bindery slip & ABLE slip to Qali
-
-The volumes at this point are part of the standard process for sending items to WRLC
+* For GRC serials, done the work order and return items to GRC for shelving
+* For non-GRC serials, complete the following steps:
+  * In Alma, edit the item record
+    * In the Process Type dropdown select blank (to manually remove the work order and put the item in place)
+      * Select Temporary Location In Use: Yes
+      * Select the Gelman Library> Boxed for SCF location
+      * Save the item
+  * Physically box items to send to SCF - The volumes at this point are part of the standard process for sending items to WRLC
+  * Forward bindery slip & ABLE slip to Qali
 
 {% hint style="info" %}
 This process continues with [steps for SERG](../serials/serials-binding-serg-steps.md)
