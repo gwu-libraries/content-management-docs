@@ -21,7 +21,7 @@ GRC staff prepare issues for binding
 * Create item record in Alma:
   * Find the holding record for the issues being bound (the location will not change)
     * Optional: add/correct 866 field if needed
-  * Under the holding record, create item record including barcode, material type (bound issue), blank item policy, Enum and Chron information, and generate description
+  * Under the holding record, create item record including barcode, material type (bound issue), blank item policy, receiving date, Enum and Chron information, and generate description
     * See [guidance for Enum, Chron, and Description field usage](../../../reference/volume-numbering.md)
     * After saving the item record, edit it to set process type to “Acquisition Technical Services” and select At: “gelman Content Management”
 * Deliver physical issues and binding slips to Monograph Acquisitions
