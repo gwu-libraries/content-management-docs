@@ -54,19 +54,11 @@ Scan the barcode on the item into the barcode field, which should automatically 
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Make sure the new item shows as "in place".
+After saving the item record, edit it to set process type to “Acquisition Technical Services” and select At: “gelman Content Management”.
 
 ### Physical processing
 
-On the same day you create the item record, take the new volume to 103 and do the following physical processing tasks. See the [physical processing page](../../../content-management-processes/physical-processing-steps/) for details.
-
-* [ ] Open the label printing software and scan the barcode
 * [ ] Write the call number in pencil on the back of the title page, including all prefixes
-* [ ] Print and apply spine label, and cover with clear adhesive strip
-* [ ] Add security strip
-* [ ] Add due date label on back free end-paper
-* [ ] Stamp text block (all 3 sides)
+* [ ] Deliver items to the Incoming - GRC Physical Processing shelf in room 103
 
-### Shelve
-
-Place the item on the shelf.
+The Monograph Acquisitions will do the physical processing and return the item to GRC when complete.
