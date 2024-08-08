@@ -10,7 +10,7 @@ Nothing special needed - use the regular GOBI process.
 
 ### If you have ordered and paid for the item from another vendor
 
-Once the order is complete, [fill out the POL creation request form](https://docs.google.com/forms/d/e/1FAIpQLSeVWlFyNfD5\_46exGo5swWweG9AhJiUSl1qepoMLn1Z7jPSaA/viewform) for each title ordered.
+Once the order is complete, [fill out the POL creation request form](https://docs.google.com/forms/d/e/1FAIpQLScP60xeVGUxgETZeeWVdzGHTrBFL3xa\_\_tl\_16kV6A4EB\_j6g/viewform?usp=sf\_link) for each title ordered.
 
 * OCLC number is not needed
 * Vendor reference number is an order number provided by the vendor and is optional
