@@ -8,7 +8,9 @@ description: >-
 # Receiving Non-Purchased GRC Items
 
 {% hint style="info" %}
-Language areas where we are currently using this process: Arabic, Chinese, Japanese, Korean, Persian
+Language areas where we are currently using this process: Arabic, Chinese, Japanese, Korean, Persian.
+
+Uighur books we receive through the LC MECAP program should use this process.
 {% endhint %}
 
 ## Alma Steps <a href="#docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b" id="docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b"></a>
