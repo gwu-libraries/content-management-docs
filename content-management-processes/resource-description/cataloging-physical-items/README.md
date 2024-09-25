@@ -53,6 +53,7 @@ If the OCLC record is changed from the Alma NZ-linked record, or if only Alma IZ
 8. Check shelflist from bib record, adding cutter
    1. If needed, add 090 with local call number & update holding record call number from bib (Alt+U)
    2. Pencil in call number, including prefixes based on location
+   3. For special collections items that have flags: Pencil in call number as above. Additionally, write call number on the side of the flag without barcode and write title on the side of the flag with the barcode.
 9. Save & release holding
 10. Edit item record
     1. Add receive date if none exists
