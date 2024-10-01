@@ -4,6 +4,8 @@
 
 ## Content Management Processes
 
+* [New category](content-management-processes/new-category/README.md)
+  * [subcategory](content-management-processes/new-category/subcategory.md)
 * [Acquisitions](content-management-processes/acquisitions/README.md)
   * [\*Receiving](content-management-processes/acquisitions/receiving/README.md)
     * [Receiving Items from Spec & GRC](content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)
