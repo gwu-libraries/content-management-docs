@@ -10,6 +10,7 @@
   * [\*Invoicing](content-management-processes/acquisitions/invoicing.md)
   * [Purchased Replacements](content-management-processes/acquisitions/replacements.md)
 * [Serials](content-management-processes/serials/README.md)
+  * [Ordering Serials](content-management-processes/serials/ordering-serials.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
   * [\*Check in](content-management-processes/serials/check-in.md)
   * [Serials holding format](content-management-processes/serials/serials-holding-format.md)
