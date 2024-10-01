@@ -4,14 +4,14 @@
 
 ## Content Management Processes
 
-* [New category](content-management-processes/new-category/README.md)
-  * [subcategory](content-management-processes/new-category/subcategory.md)
 * [Acquisitions](content-management-processes/acquisitions/README.md)
+  * [Ordering](content-management-processes/acquisitions/ordering/README.md)
+    * [Serials](content-management-processes/acquisitions/ordering/serials.md)
+    * [Monographs](content-management-processes/acquisitions/ordering/monographs.md)
   * [\*Receiving](content-management-processes/acquisitions/receiving/README.md)
     * [Receiving Items from Spec & GRC](content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)
   * [\*Invoicing](content-management-processes/acquisitions/invoicing.md)
   * [Purchased Replacements](content-management-processes/acquisitions/replacements.md)
-  * [Ordering Serials](content-management-processes/acquisitions/ordering-serials.md)
 * [Serials](content-management-processes/serials/README.md)
   * [IP Ranges](content-management-processes/serials/ip-ranges.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
