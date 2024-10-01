@@ -1,6 +1,6 @@
-# Label Printing
+# Label Printing Configuration
 
-We use the SpineOMatic label printing software with our label printers. A workstation with label printer is set up in Gelman 103.
+We use the SpineOMatic label printing software with our label printers. A workstation with label printer is set up in Gelman 118.
 
 ### Printer Setup
 

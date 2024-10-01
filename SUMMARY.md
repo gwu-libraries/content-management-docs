@@ -71,7 +71,7 @@
   * [Receiving Non-Purchased Spec Items](partners/special-collections/receiving-non-purchased-spec-items.md)
   * [Bulk Add Spec Items](partners/special-collections/bulk-add-spec-items.md)
 * [Textile Museum](partners/textile-museum/README.md)
-  * [\*Copy-Cataloging](partners/textile-museum/copy-cataloging.md)
+  * [Copy-Cataloging](partners/textile-museum/copy-cataloging.md)
 * [AH Small Collection](partners/ah-small-collection.md)
 * [VSTC](partners/vstc/README.md)
   * [\*Nursing](partners/vstc/nursing.md)
