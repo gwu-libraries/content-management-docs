@@ -11,6 +11,7 @@
   * [Purchased Replacements](content-management-processes/acquisitions/replacements.md)
 * [Serials](content-management-processes/serials/README.md)
   * [Ordering Serials](content-management-processes/serials/ordering-serials.md)
+  * [IP Ranges](content-management-processes/serials/ip-ranges.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
   * [\*Check in](content-management-processes/serials/check-in.md)
   * [Serials holding format](content-management-processes/serials/serials-holding-format.md)
