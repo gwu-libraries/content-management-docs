@@ -36,8 +36,8 @@ Notes are added to the bibliographic record as a local 971 or a 978 (see below f
 
 ### General Collections
 
-| Collection          | Note                                                                 | Formatted Note                                               | Locations |
-| ------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
-| Horrworth           | John Horrworth Children's Literature Collection                      | 978 1\ \$$a John Horrworth Children's Literature Collection. |           |
-| Oliver Reading Room | Andrew Oliver Book Collection for Classical and Near Eastern Studies |                                                              |           |
-| Corcoran            | Corcoran College of Art and Design                                   |                                                              |           |
+| Collection          | Note                                                                 | Formatted Note                                               | Usage note                                                                                   |
+| ------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Horrworth           | John Horrworth Children's Literature Collection                      | 978 1\ \$$a John Horrworth Children's Literature Collection. |                                                                                              |
+| Oliver Reading Room | Andrew Oliver Book Collection for Classical and Near Eastern Studies |                                                              | The Oliver Collection is static, and this note shouldn't need to be added to new materials.  |
+| Corcoran            | Corcoran College of Art and Design                                   |                                                              | Collection note was added to initial ingest of Corcoran materials. This is no longer added.  |
