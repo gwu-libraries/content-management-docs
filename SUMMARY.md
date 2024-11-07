@@ -69,6 +69,7 @@
     * [Receiving Purchased Incoming GRC Annuals](partners/global-resources-center/grc-serials/receiving-purchased-incoming-grc-annuals.md)
     * [Serials Binding (GRC steps)](partners/global-resources-center/grc-serials-holdings-policy/serials-binding-grc-steps.md)
   * [Sending GRC items to WRLC](partners/global-resources-center/sending-grc-items-to-wrlc.md)
+  * [JRC Copy-Cataloging](partners/global-resources-center/copy-cataloging.md)
 * [Special Collections](partners/special-collections/README.md)
   * [Creating POLs for ordered items](partners/special-collections/ordering-creating-pols.md)
   * [Receiving Purchased Spec Items](partners/special-collections/receiving-purchased-spec-items.md)
