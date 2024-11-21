@@ -21,10 +21,6 @@ For Special Collections materials, the ONLY physical processing that should occu
 
 Open book anywhere towards the middle; remove one side of green strip, place strip into book at the spine so it sticks down, and then remove the other green strip
 
-### Due date slip
-
-Remove backing from sticker, and place on back free end-paper (or inner back cover)
-
 ### Stamps
 
 * Stamp “Gelman Library-GWU” on top, side, and bottom of the text block
@@ -32,4 +28,6 @@ Remove backing from sticker, and place on back free end-paper (or inner back cov
 
 If needed: “done” the work order
 
-\
+{% hint style="info" %}
+Due date slips are no longer placed in new books.
+{% endhint %}

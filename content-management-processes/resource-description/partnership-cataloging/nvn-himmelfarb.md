@@ -21,5 +21,5 @@ Because Himmelfarb purchases the NVN materials, but LAI manages the circulation 
 ## Physical Processing
 
 * In Alma Acquisitions → Scan in items (choose Physical Processing work order)
-* Place in rm 103 on NVC physical processing shelf for mono/acq staff to perform and route to NVC
+* Place in rm 118 on NVC physical processing shelf for mono/acq staff to perform and route to NVC
 * Notify Himmelfarb staff via Salesforce ticket that titles have been cataloged and sent to mono/acq staff for physical processing and routing to NVC

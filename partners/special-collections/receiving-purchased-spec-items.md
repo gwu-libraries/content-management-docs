@@ -14,7 +14,7 @@ description: This is only for purchased items (with POLs)
   * Check/correct the location where the item will go
   * NOTE: If there are multiple volumes of the same title, only one item will exist in Alma. Update the item record with the barcode of the first volume in the set, and place yellow "Volume not in Alma" flags in all subsequent volumes. Do not add any additional item records--RDG will create them when we catalog the title.
 * Add orange "Rush" flag for any rush items
-* Bring item to Content Management room 103 and place on “**Receiving - Spec (purchased)**” shelf (in the Receiving section of shelving, not the Incoming section).
+* Bring item to Content Management room 118 and place on “**Receiving - Spec (purchased)**” shelf (in the Receiving section of shelving, not the Incoming section).
 * Nofity Glenn that the resource has arrived at Gelman so he can handle the "invoicing" steps necessary in Alma.
 
 

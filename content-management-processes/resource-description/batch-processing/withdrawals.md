@@ -1,6 +1,6 @@
 # Withdrawal (Batch)
 
-<< We need to add how we get withdrawals, including where they are on the shelves in 104. Or if they're just emailed/sent through Salesforce >>&#x20;
+<< We need to add how we get withdrawals, emailed/sent through Salesforce >>&#x20;
 
 
 

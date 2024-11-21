@@ -22,7 +22,7 @@ Open the item record. On the “Notes” tab, check the “Internal Note 2” fi
 
 ### Place on “Incoming” shelves in Content Management
 
-Bring the damaged items to the “Incoming” section of shelves in the Content Management workroom, Gelman 103.
+Bring the damaged items to the “Incoming” section of shelves in the Content Management workroom, Gelman 118.
 
 * Place all damaged retention or permanent books on the “Incoming - Damaged Retention” shelf.
 * Place all damaged non-retention books on the “Incoming - Damaged Non-retention” shelf.

@@ -63,4 +63,4 @@ If the OCLC record is changed from the Alma NZ-linked record, or if only Alma IZ
 11. Save & release bib record (Ctrl+Alt+R)
 12. Scan in items
     1. Done item or set status to physical processing
-13. Deliver the item to its destination or to its destination shelf in 103
+13. Deliver the item to its destination or to its destination shelf in 118

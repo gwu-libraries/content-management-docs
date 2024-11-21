@@ -59,6 +59,6 @@ After saving the item record, edit it to set process type to “Acquisition Tech
 ### Physical processing
 
 * [ ] Write the call number in pencil on the back of the title page, including all prefixes
-* [ ] Deliver items to the Incoming - GRC Physical Processing shelf in room 103
+* [ ] Deliver items to the Incoming - GRC Physical Processing shelf in room 118
 
 The Monograph Acquisitions will do the physical processing and return the item to GRC when complete.

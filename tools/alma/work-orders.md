@@ -143,7 +143,7 @@ If the item is already in a work order, you can skip the first step and just set
 
 ## Shelves and Statuses
 
-The shelves in 103 are grouped by the type of work to be performed and the department performing the work. The Alma statuses are less specific than the labeled shelves. The table below lists the shelves, associated statuses, and flags (if used).
+The shelves in 118 are grouped by the type of work to be performed and the department performing the work. The Alma statuses are less specific than the labeled shelves. The table below lists the shelves, associated statuses, and flags (if used).
 
 \
 \
