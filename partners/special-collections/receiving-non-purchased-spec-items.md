@@ -23,6 +23,12 @@ description: >-
 
 ![](https://lh3.googleusercontent.com/Xt2vb9csgbzZ1lz2HRUSJwIv1wNHRczo7rmnTh1t5P-SZ4eoo7s\_vVwi56lO3nzaa9J4C1KWDIw43ii00GcIr6WJ5cJSt4189jwXg6kj9gnj0ITxgKAcZU0JnZL8q79\_2UF8qxXo)
 
+{% hint style="info" %}
+**For Kiev materials**, please include:\
+**Title field:** record title and statement of responsibility as it appears on the title page in Hebrew script if it is not in the OCLC record or needs to be corrected.\
+**Note field:** record romanization of the title and statement of responsibility if it is not in the OCLC record or needs to be corrected; record OCLC number for existing record, noting if it's for a different edition or printing.
+{% endhint %}
+
 * Scroll down, select the item’s location, and add the item barcode. NOTE: for items that will go to WRLC, for the moment set the location as “scrc” and the location will be changed when the item is sent to WRLC.
 
 ![](https://lh5.googleusercontent.com/xa9xQv6huOX-2ahFLre0rEGfR5iY4yQEjLwxH3EAJURAmI86k0n38rHYrGfYlIM349TBvsvHvPAQR-SzfTcT\_2M0zIffelwhCjSNO\_LgL0mGlhB3tmYPiAmL3odthGSkk-3ZhclS)

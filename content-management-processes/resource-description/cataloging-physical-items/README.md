@@ -37,6 +37,11 @@ Search OCLC Connexion for the resource
 
 
 
+{% hint style="info" %}
+For Kiev items:\
+Please bring any problems and questions to Shelly. Leave items with Shelly in the Content Management work order "Cataloging" status, and add a note in a 973 field that the item is with Shelly. Remove the 973 note when then item is returned to RDG.
+{% endhint %}
+
 If the OCLC record is changed from the Alma NZ-linked record, or if only Alma IZ record exists:
 
 1. MD Editor>Search Resources
