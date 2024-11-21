@@ -21,6 +21,6 @@ After the job is complete, check the job report to make sure there were no error
 After the location has been updated, the 866 information will need to be updated. Upload a spreadsheet of the MMSIDs and titles to the SalesForce ticket. Reassign the ticket as necessary.&#x20;
 
 {% hint style="info" %}
-See [serials-holding-format.md](serials-holding-format.md "mention") for procedures for updating the 866.
+See [volume-numbering.md](../../reference/volume-numbering.md "mention") for procedures for updating the 866.
 {% endhint %}
 

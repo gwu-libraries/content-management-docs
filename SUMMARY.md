@@ -16,7 +16,6 @@
   * [IP Ranges](content-management-processes/serials/ip-ranges.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
   * [\*Check in](content-management-processes/serials/check-in.md)
-  * [Serials holding format](content-management-processes/serials/serials-holding-format.md)
   * [Serials Binding (SERG steps)](content-management-processes/serials/serials-binding-serg-steps.md)
   * [Serials Withdrawal (SERG steps)](content-management-processes/serials/serials-withdrawal-serg-steps.md)
   * [Bound items to WRLC SCF](content-management-processes/serials/bound-items-to-wrlc-scf.md)
