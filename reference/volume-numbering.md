@@ -58,7 +58,7 @@ v.23:no.12(1923:Dec.)
   * Numbers = no.
   * Issues = iss.
   * Months and seasons: use the full name if 4 letters or less (May, Fall), or abbreviate to 4 characters including the period if longer (Jan., Sum.)
-* There should not be any spaces in item description fields or summary holding statements
+* There should not be any spaces in item description fields or summary holding statements (except for between a spelled out month and day e.g. "2022:May 4")
 * Numbering is always notes with the highest level first (2020:May, not May:2020)
 * When both enumeration and chronology exist record both, with enumeration first followed by chronology in parentheses
 
@@ -88,8 +88,8 @@ v.23:no.12(1923:Dec.)
   no.36(2003:Sep.)\
   no.36(2003:Sep.)-no.37(2003:Oct.)
 * **Number, year, month, date:** \
-  no.1(1995:Jan.02)\
-  no.2(1995:Feb.02)-no.51(1995:Dec.18)
+  no.1(1995:Jan.2)\
+  no.2(1995:Feb.2)-no.51(1995:June 18)
 * **Year, season:** \
   2003:Sum.\
   2003:Sum.-2003:Fall
@@ -97,5 +97,5 @@ v.23:no.12(1923:Dec.)
   2000:Oct.\
   2000:Oct.-2000:May
 * **Year, month, day:**\
-  1994:Apr.07\
-  1999:Apr.07-1999:Aug.20
+  1994:Apr.7\
+  1999:Apr.7-1999:Aug.20
