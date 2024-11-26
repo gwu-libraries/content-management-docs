@@ -20,7 +20,7 @@ In Alma’s Metadata Editor, create a new  MARC21 Bibliographic Books record in 
 {% hint style="info" %}
 Example from the container/parent bib record:
 
-245 00 \$$a GW boundwith titles associated with barcode 32882022602562.
+245 00 \$$a GW boundwith titles associated with barcode 32882022602562
 
 774 1\  \$$t Acts of the Corporation of the City of Washington passed by the first council \$$w 99186492319304107
 {% endhint %}
