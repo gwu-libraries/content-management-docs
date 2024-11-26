@@ -15,6 +15,16 @@ In Alma’s Metadata Editor, create a new  MARC21 Bibliographic Books record in 
 
 774 1\  \$$t \[Title proper from the constituent record without leading article] \$$w \[IZ MMSID]
 
+
+
+{% hint style="info" %}
+Example from the container/parent bib record:
+
+245 00 \$$a GW boundwith titles associated with barcode 32882022602562.
+
+774 1\  \$$t Acts of the Corporation of the City of Washington passed by the first council \$$w 99186492319304107
+{% endhint %}
+
 \
 Repeat the 774 fields for as many constituent titles as required.&#x20;
 
@@ -26,7 +36,7 @@ Add inventory records according to [.](./ "mention").
 
 
 {% hint style="info" %}
-Every night, Alma will run the job required to create relationships between the container record and the constituent records. This job uses the 774 \$$w in the container bib to link the container and constituent records together.&#x20;
+Every night, Alma will run the job required to create relationships between the container record and the constituent records. This job uses the 774 \$$w in the container bib to link the container and constituent records together. The MMSID must match EXACTLY with the MMSID on the related records.&#x20;
 {% endhint %}
 
 
