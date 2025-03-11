@@ -10,7 +10,7 @@
 
 ### CREATE Digital Studio
 
-
+<table><thead><tr><th width="147">Code</th><th>Name</th><th>Primo Display</th><th>Prefixes</th><th>Usage notes</th></tr></thead><tbody><tr><td>createequi</td><td>CREATE Equipment</td><td>CREATE Equipment</td><td></td><td></td></tr></tbody></table>
 
 ### Eckles
 
