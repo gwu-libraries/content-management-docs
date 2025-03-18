@@ -18,7 +18,7 @@ We still need to decide what to do with incomplete binding units
 
 Once binding units have been identified, check the ISSN into the input box on the WRLC Shared Collection Facility (SCF) link provided below:
 
-[https://grima.wrlc.org/Analytics/ia\_journal\_lookup.php?ISSN=](https://grima.wrlc.org/Analytics/ia\_journal\_lookup.php?ISSN=)
+[https://grima.wrlc.org/Analytics/ia\_journal\_lookup.php?ISSN=](https://grima.app.wrlc.org/Analytics/ia_journal_lookup.php?ISSN=)
 
 <figure><img src="https://lh5.googleusercontent.com/MNCgwl_HhqC_sNN3fHUQUatqzw3v3vYinZJDV7_R5NXUY0dQsE3ibITLdG0UdB50DLEJCSEtPawhknsPWPUsm0-REp3BeD87sdflQcYj203AUUSALSH8suhZNR_--IRwNX8y-z_aYxW3iWLq_BGhZzU" alt=""><figcaption><p>WRLC Shared Collection Facility serial holdings lookup tool</p></figcaption></figure>
 
