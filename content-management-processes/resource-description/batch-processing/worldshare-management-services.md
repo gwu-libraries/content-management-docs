@@ -16,7 +16,7 @@ description: >-
 
 #### ACQ Approvals, Firm, and Horrworth
 
-In MarcEdit run the following tasks: ([.task file](https://gwu0.sharepoint.com/:u:/s/20180727030128000/EYNZfQAwDMlOlDrJ6Ye0NmwBReYPwyx6ZhIpVcfa6ujQvA))
+In MarcEdit run the following tasks: ([.task file](https://gwu0.sharepoint.com/:u:/r/sites/20180727030128000/Collaboration%20Items/Alma%20procedure/Approval_Firm_eRecords%20batch%20load/ACQ%20Approvals%20and%20Firms%202025-03-19.task?csf=1\&web=1))
 
 * Delete 961 field
 * Delete 938 field
@@ -24,9 +24,9 @@ In MarcEdit run the following tasks: ([.task file](https://gwu0.sharepoint.com/:
 * Delete 960 field
 * Delete 852 field
 * Copy 961 field to 960 field - delete source field
-* Copy 960 $dGHORRWORTH field to 971 field
-* Bulidnewfield : =971 2$a{971$d} - replace existing field
-* Editfield 971 $aGHORRWORTH - replace $aJohn Horrworth Children's Literature Collection. $9local
+* Copy 960 $dGHORRWORTH field to 978 field
+* Bulidnewfield : =978 2$a{978$d} - replace existing field
+* Editfield 978 $aGHORRWORTH - replace $aJohn Horrworth Children's Literature Collection. $9local
 * SUBFIELD\_EDIT 949 $9 LOCAL
 * SUBFIELD\_EDIT 960 $9 LOCAL
 * REMOVEBLANKLINES
