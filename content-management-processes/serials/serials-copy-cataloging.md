@@ -1,5 +1,13 @@
 # Serials Copy-Cataloging
 
+## Adding a note about delayed publication
+
+For print serials, we want to add a note to the holding record.
+
+```
+852 0 1 $$b gelman $$c stacksper $$h TT180 $$i .W6463 $$z Publication delayed.....
+```
+
 ## Updating an existing bibliographic record
 
 Search resources: search by OCLC number of existing Alma record
