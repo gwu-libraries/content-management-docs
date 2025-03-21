@@ -4,7 +4,7 @@
 
 Holdings statements and item enum/chron/description should conform to the [WRLC Recommendations for Print Periodicals in the Washington Research Library Consortium](https://alma.wrlc.org/books/resources-metadata/page/recommendations-for-print-periodicals-in-the-washington-research-library-consortium) and [WRLC Item Record Description Policies and Templates](https://alma.wrlc.org/books/resources-metadata/page/item-record-description-policies-and-templates#bkmrk-templates-configured).
 
-All holdings statements should conform to Section 5.5 of the [ANSI/NISO Z39.71-2006 (R2011) Holdings Statements for Bibliographic Items](https://groups.niso.org/higherlogic/ws/public/download/18121/Z39.71-2006\_\(R2011\).pdf) standard, which is available for consultation where more detail is needed than is provided in the examples below.
+All holdings statements should conform to Section 5.5 of the [ANSI/NISO Z39.71-2006 (R2011) Holdings Statements for Bibliographic Items](https://groups.niso.org/higherlogic/ws/public/download/18121/Z39.71-2006_\(R2011\).pdf) standard, which is available for consultation where more detail is needed than is provided in the examples below.
 
 ## Holding Records
 
@@ -26,7 +26,11 @@ All holdings statements should conform to Section 5.5 of the [ANSI/NISO Z39.71-2
 ```
 866 4 1 $$a v.10:no.1(1910:Jan.)-v.10:no.9(1910:Sep.),v.14:no.2(1914:Feb.)-
 v.23:no.12(1923:Dec.)
+```
+{% endcode %}
 
+{% code title="Ranges with a break" %}
+```
 866 4 1 $$a v.1(1970)-v.10(1979),v.12:no.3(1981:July)-v.20:no.4(1989:Oct.)
 ```
 {% endcode %}
