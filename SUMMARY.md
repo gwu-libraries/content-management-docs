@@ -56,7 +56,6 @@
   * [Replacements / Lost & Paid](partners/access-services/replacements-lost-paid.md)
 * [Collection Development Librarians](partners/collection-development-librarians.md)
 * [Library Operations Team](partners/library-operations-team/README.md)
-  * [Serials Binding (LibOps steps)](partners/library-operations-team/serials-binding-libops-steps.md)
   * [Updating Holding Summary Statements](partners/library-operations-team/updating-holding-summary-statements.md)
 * [Global Resources Center](partners/global-resources-center/README.md)
   * [Purchasing GRC Items](partners/global-resources-center/ordering-creating-pols.md)
