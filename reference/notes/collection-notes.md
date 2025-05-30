@@ -8,14 +8,13 @@ Notes are added to the bibliographic record as a local 971 or a 978 (see below f
 
 ### SCRC Collections
 
-| Collection                  | Collection Note                                                                  | MARC Formatted Note                                                                         | Locations |
-| --------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------- |
-| Artists' books              | Corcoran College of Art and Design Artists Book Collection                       | 978 1\ \$$aCorcoran College of Art and Design Artists Book Collection                       |           |
-| Corcoran                    | Corcoran College of Art and Design                                               |                                                                                             |           |
-| MEI                         | Middle East Institute Collection at Gelman Library                               | 978 1\ \$$aMiddle East Institute Collection at Gelman Library                               |           |
-| IBT                         | International Brotherhood of Teamsters Labor History Collection                  | 978 1\ \$$aInternational Brotherhood of Teamsters Labor History Collection                  |           |
-| Kiev                        | I. Edward Kiev Judaica Collection (George Washington University. Gelman Library) | 978 1\ \$$aI. Edward Kiev Judaica Collection (George Washington University. Gelman Library) |           |
-| Special Collections General | Special Collections Research Center Collection                                   | 978 1\ \$$aSpecial Collections Research Center Collection                                   |           |
+| Collection     | Collection Note                                                                  | MARC Formatted Note                                                                         | Locations |
+| -------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------- |
+| Artists' books | Corcoran College of Art and Design Artists Book Collection                       | 978 1\ \$$aCorcoran College of Art and Design Artists Book Collection                       |           |
+| Corcoran       | Corcoran College of Art and Design                                               |                                                                                             |           |
+| MEI            | Middle East Institute Collection at Gelman Library                               | 978 1\ \$$aMiddle East Institute Collection at Gelman Library                               |           |
+| IBT            | International Brotherhood of Teamsters Labor History Collection                  | 978 1\ \$$aInternational Brotherhood of Teamsters Labor History Collection                  |           |
+| Kiev           | I. Edward Kiev Judaica Collection (George Washington University. Gelman Library) | 978 1\ \$$aI. Edward Kiev Judaica Collection (George Washington University. Gelman Library) |           |
 
 ### GRC Collections
 
@@ -41,3 +40,11 @@ Notes are added to the bibliographic record as a local 971 or a 978 (see below f
 | Horrworth           | John Horrworth Children's Literature Collection                      | 978 1\ \$$a John Horrworth Children's Literature Collection. |                                                                                              |
 | Oliver Reading Room | Andrew Oliver Book Collection for Classical and Near Eastern Studies |                                                              | The Oliver Collection is static, and this note shouldn't need to be added to new materials.  |
 | Corcoran            | Corcoran College of Art and Design                                   |                                                              | Collection note was added to initial ingest of Corcoran materials. This is no longer added.  |
+
+### Obsolete Collections
+
+| Collection                  | Note                                           | Formatted Note                                            | Usage note                                                                                                                                                               |
+| --------------------------- | ---------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Special Collections General | Special Collections Research Center Collection | 978 1\ \$$aSpecial Collections Research Center Collection | This note used to be added to Spec materials that weren't in a more specific named collection. This is no longer used, and notes were removed from records in June 2025. |
+|                             |                                                |                                                           |                                                                                                                                                                          |
+|                             |                                                |                                                           |                                                                                                                                                                          |
