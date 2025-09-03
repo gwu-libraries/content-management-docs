@@ -12,6 +12,7 @@
     * [Receiving Items from Spec & GRC](content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)
   * [\*Invoicing](content-management-processes/acquisitions/invoicing.md)
   * [Purchased Replacements](content-management-processes/acquisitions/replacements.md)
+  * [EBSCO DDA Ebook Triggered Purchase](content-management-processes/acquisitions/ebsco-dda-ebook-triggered-purchase.md)
 * [Serials](content-management-processes/serials/README.md)
   * [IP Ranges](content-management-processes/serials/ip-ranges.md)
   * [Serials Copy-Cataloging](content-management-processes/serials/serials-copy-cataloging.md)
@@ -41,6 +42,7 @@
     * [Withdrawal (Batch)](content-management-processes/resource-description/batch-processing/withdrawals.md)
     * [Serials Withdrawal (Batch)](content-management-processes/resource-description/batch-processing/serials-withdrawal-batch.md)
     * [WorldShare Management Services](content-management-processes/resource-description/batch-processing/worldshare-management-services.md)
+    * [Automated Batch Record Loads](content-management-processes/resource-description/batch-processing/automated-batch-record-loads.md)
   * [Withdrawals](content-management-processes/resource-description/withdrawals.md)
 * [Physical Processing Steps](content-management-processes/physical-processing-steps/README.md)
   * [Label Printing Configuration](content-management-processes/physical-processing-steps/label-printing-configuration.md)
@@ -92,6 +94,7 @@
   * [Gift notes](reference/notes/gift-notes.md)
 * [Workflow Overviews](reference/workflow-overviews/README.md)
   * [Damaged Items Overview](reference/workflow-overviews/damaged-items.md)
+  * [DDA EBSCO Ebooks managed by GOBI Overview](reference/workflow-overviews/dda-ebsco-ebooks-managed-by-gobi-overview.md)
   * [Lost & Paid / Patron Replacements Overview](reference/workflow-overviews/lost-and-paid-patron-replacements-overview.md)
   * [Serials Binding Overview](reference/workflow-overviews/serials-binding-overview.md)
 
