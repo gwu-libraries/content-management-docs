@@ -58,7 +58,7 @@ v.23:no.12(1923:Dec.)
 ## General Guidelines
 
 * Abbreviate enumeration and chronology
-  * Volumes = v
+  * Volumes = v.
   * Numbers = no.
   * Issues = iss.
   * Months and seasons: use the full name if 4 letters or less (May, Fall), or abbreviate to 4 characters including the period if longer (Jan., Sum.)
