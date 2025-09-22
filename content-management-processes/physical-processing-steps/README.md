@@ -2,6 +2,8 @@
 
 {% hint style="danger" %}
 For Special Collections materials, the ONLY physical processing that should occur is printing a spine label. Do not attach the spine label - simply tuck it into the book for Spec staff to affix. Do not add security strips, due date slips, or stamps. But do "done" the work order before delivering the items to Spec.
+
+Pencil in the call number on the title page verso (unless the paper is particularly fragile). If there is a spec-provided flag with a barcode, pencil the title on the flag under the barcode, and pencil call number of the verso of the flag.
 {% endhint %}
 
 * [ ] Using a computer with attached label printer, open the label printing software
