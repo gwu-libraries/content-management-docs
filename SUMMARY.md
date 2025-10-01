@@ -111,6 +111,6 @@
 * [MarcEdit](tools/marcedit/README.md)
   * [API Setup](tools/marcedit/api-setup.md)
   * [\*Task Lists](tools/marcedit/task-lists.md)
-* [\*OCLC Connexion](tools/oclc-connexion.md)
+* [OCLC Connexion](tools/oclc-connexion.md)
 * [Other Resources](tools/other-resources.md)
 * [\*PCC](tools/pcc.md)
