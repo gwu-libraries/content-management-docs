@@ -28,7 +28,7 @@ Confirm that the holdings record matches the item in hand; then click "Edit" to 
 
 Check in regular issues of periodicals on the lines starting with “866.” Use the “867” tag for supplemental issues, and the “868” tag for indexes. If you need to add a line, press F8 or click on Edit > Add Field.
 
-For unbound periodical issues, both indicators in the 866 field should be blank (4 1 should only be for bound volumes). Enumeration information goes in the $a. $8 is not necessary. Enumeration should include a range as long as there are no missing issues, so it should sometimes be possible to change the last issue in the range instead of adding a new line/range.
+Enumeration should include a range as long as there are no missing issues, so it should often be possible to change the last issue in the range instead of adding a new range.
 
 <figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
