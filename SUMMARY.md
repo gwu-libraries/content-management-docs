@@ -22,6 +22,7 @@
   * [Bound items to WRLC SCF](content-management-processes/serials/bound-items-to-wrlc-scf.md)
 * [Electronic Resources](content-management-processes/electronic-resources/README.md)
   * [\*Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
+  * [Authentication and OpenAthens](content-management-processes/electronic-resources/authentication-and-openathens.md)
 * [Resource Description](content-management-processes/resource-description/README.md)
   * [Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
     * [Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
