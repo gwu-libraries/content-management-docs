@@ -6,8 +6,10 @@ description: >-
 
 # JRC Copy-Cataloging
 
-## In OCLC Connexion
+## In OCLC Worldshare Record Manager
 
+* Find appropriate record
+* Review record
 * Set holdings
 * Copy/note OCLC number
 
@@ -27,12 +29,14 @@ description: >-
     * Correct date in 973 field
     * Edit or remove the 975 gift note field as appropriate
   * Save record
-  * Select Record actions>Share with network
+  * Select Record actions>Share with network (if not already in NZ)
   * Select the record to reopen it
   * Save & Release
 * Search for record in Alma&#x20;
 * …>Add holdings
   * Enter location in 852 $c ("grcj" for JRC Stacks)
+  * Select Editing Actions>Expand from Template and choose Holding\_JRC
+    * Edit or remote the 975 gift note field as appropriate (same as in bib record)
   * Save & Release&#x20;
 * Search for record in Alma&#x20;
 * View holdings&#x20;
@@ -41,7 +45,6 @@ description: >-
   * Add item&#x20;
     * Barcode&#x20;
     * Material type: Book&#x20;
-    * Item policy: Regular loan&#x20;
     * Receiving date&#x20;
     * Save
 
