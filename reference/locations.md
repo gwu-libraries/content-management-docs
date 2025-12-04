@@ -26,7 +26,7 @@
 
 ### Textile Museum
 
-<table><thead><tr><th width="126">Code</th><th>Name</th><th>Primo Display</th><th>Prefixes</th><th>Usage notes</th></tr></thead><tbody><tr><td>adjlannex</td><td>Arthur D. Jenkins Library Annex</td><td>Arthur D. Jenkins Library Annex (in-library use only)</td><td></td><td></td></tr><tr><td>adjlb2</td><td>Arthur D. Jenkins Library Annex 2</td><td>Arthur D. Jenkins Library Annex 2 (in-library use only)</td><td></td><td></td></tr><tr><td>adjlgwos</td><td>Arthur D. Jenkins Library Offsite Storage</td><td>Arthur D. Jenkins Library Offsite Storage (in-library use only)</td><td></td><td></td></tr><tr><td>adjlpam</td><td>Arthur D. Jenkins Library Pamphlet Files</td><td>Arthur D. Jenkins Library Pamphlet Files (in-library use only)</td><td></td><td></td></tr><tr><td>adjlrr</td><td>Arthur D. Jenkins Library Reading Room</td><td>Arthur D. Jenkins Library Reading Room (in-library-use only)</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="126">Code</th><th>Name</th><th>Primo Display</th><th>Prefixes</th><th>Usage notes</th></tr></thead><tbody><tr><td>adjlannex</td><td>Arthur D. Jenkins Library Annex</td><td>Arthur D. Jenkins Library Annex (in-library use only)</td><td></td><td></td></tr><tr><td>adjlgwos</td><td>Arthur D. Jenkins Library Offsite Storage</td><td>Arthur D. Jenkins Library Offsite Storage (in-library use only)</td><td></td><td></td></tr><tr><td>adjlpam</td><td>Arthur D. Jenkins Library Pamphlet Files</td><td>Arthur D. Jenkins Library Pamphlet Files (in-library use only)</td><td></td><td></td></tr><tr><td>adjlrr</td><td>Arthur D. Jenkins Library Reading Room</td><td>Arthur D. Jenkins Library Reading Room (in-library-use only)</td><td></td><td></td></tr></tbody></table>
 
 ### VSTCL
 
