@@ -12,8 +12,12 @@ description: >-
   * Find matching record for the book
   * Review record
   * Make sure there is an appropriate LC Classification call number
-* If record exists:
+* If record exists in IZ:
+  * Skip to "...>Add holdings" step
+* If record exists in NZ but not in IZ
   * Edit to bring it into the Metadata Editor
+  * Save & Release
+  * Skip to "...>Add holdings" step
 * If record does not already exist in Alma:
   * Metadata Editor&#x20;
   * Search & Browse>Search resources&#x20;
