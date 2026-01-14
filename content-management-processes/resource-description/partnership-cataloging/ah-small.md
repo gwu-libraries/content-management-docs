@@ -11,7 +11,6 @@ This policy is a basic list of information where procedures either differ from o
 * Make appointment with Curator before hand
 * Follow our standard Copy cataloging/Cataloging procedures&#x20;
 * Holdings record location: \$$b gwmuseum \$$c ahsmall&#x20;
-* Item record: Item policy: Non-circulating&#x20;
 * Use GW barcodes on flags provided by Washingtoniana Collection staff
 * Write call # on same side of flag (pencil) below the barcode
 * Write call # (pencil) on top edge of title page recto in a single line

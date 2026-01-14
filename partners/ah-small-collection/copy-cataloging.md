@@ -6,32 +6,30 @@ description: >-
 
 # AH Small Copy-Cataloging
 
-## In OCLC Worldshare Record Manager
-
-* Find appropriate record
-* Make sure there is an appropriate LC Classification call number
-* Review record
-* Set holdings
-* Copy/note OCLC number
-* If you can't find a good record, set aside for Alan to catalog
-
 ## In Alma
 
-* Search IZ and NZ by OCLC number
-* If record does not exist:
+* Search IZ and NZ by title
+  * Find matching record for the book
+  * Review record
+  * Make sure there is an appropriate LC Classification call number
+* If record exists:
+  * Edit to bring it into the Metadata Editor
+* If record does not already exist in Alma:
   * Metadata Editor&#x20;
   * Search & Browse>Search resources&#x20;
   * Make sure the Search Cataloging Profile is "WorldCat"
-  * Place the OCLC number in the System Number field
+  * Search by title/creator/ISBN
+  * Find matching record for the book
+  * Review records for accuracy and select the best record
+    * Make sure it's not for an electronic version
+    * Look at the number of libraries with holdings
+    * Compare information in the record with the book
+  * Make sure there is an appropriate LC Classification call number
   * Import to bring the record into the Metadata Editor
-* If record exists:
-  * Edit to bring it into the Metadata Editor
+  * If you can't find a matching record or a good record, set the book aside for Alan to catalog
 * Editing actions>Expand from template (Ctrl+E)
   * Select the “Cat note - AHSmall” template
     * Correct date in 973 field
-  * Save record
-  * Select Record actions>Share with network (if not already in NZ)
-  * Select the record to reopen it
   * Save & Release
 * Search for record in Alma&#x20;
 * …>Add holdings
@@ -47,8 +45,12 @@ description: >-
     * Material type: Book&#x20;
     * Receiving date&#x20;
     * Save
+* If you run into any problems, email [rdg@gwu.edu](mailto:rdg@gwu.edu)
 
 ## Physical Processing
 
-* Pencil in the call number on the title page verso, including any prefixes (usually GRC JRC)
+* Use GW barcodes on flags provided by Washingtoniana Collection staff
+* Write call # on same side of flag (pencil) below the barcode
+* Write call # (pencil) on top edge of title page recto in a single line
+* No physical processing required (ie no spine labels, stamping or security strips)
 * Shelve the item by call number
