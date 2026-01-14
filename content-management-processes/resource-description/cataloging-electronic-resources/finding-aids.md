@@ -49,8 +49,7 @@ Part of an Electronic Collection: George Washington University Special Collectio
 
 URL: https://searcharchives.library.gwu.edu/repositories/2/resources/\[finding aid ID number]
 
-Electronic material type: Document\
-
+Electronic material type: Document<br>
 
 ### Finishing
 

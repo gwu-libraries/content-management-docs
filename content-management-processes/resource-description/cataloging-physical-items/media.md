@@ -13,7 +13,7 @@ For electronic or streaming media resources, please see appropriate documentatio
 * For non-English titles may need to view the disc credits to verify what titles to record
 * Add additional MARC fields particularly (046, 257, 33X, 34X, 380) see screen capture&#x20;
 
-![](https://lh3.googleusercontent.com/2FrPk8s8la06y48W7CZXtqhjMk1nw6fBZ6R4yGUTW104g23dIckfgnIb7ds7hVZswbgc0H\_gSUZQO-dPTKJgL3lYL6EN4VyHw2fSMa93cOPoINwAp5XXYpRd869VQfGaQL9\_Gbtrs3UYIJy-mmapxd8)
+![](https://lh3.googleusercontent.com/2FrPk8s8la06y48W7CZXtqhjMk1nw6fBZ6R4yGUTW104g23dIckfgnIb7ds7hVZswbgc0H_gSUZQO-dPTKJgL3lYL6EN4VyHw2fSMa93cOPoINwAp5XXYpRd869VQfGaQL9_Gbtrs3UYIJy-mmapxd8)
 
 * Prefer use of granular RDA terms with $2 codes from RDA Registry
 
@@ -21,8 +21,7 @@ For electronic or streaming media resources, please see appropriate documentatio
 
 * Add 500 Note for DVD-R/CD-R copies either made in-house or purchased and include information about any playability restrictions&#x20;
 
-\
-
+<br>
 
 Importing the record(s) into Alma, linking to the NZ, scanning out of the Cataloging work order department, and physical relocation of materials follow standard procedures.&#x20;
 

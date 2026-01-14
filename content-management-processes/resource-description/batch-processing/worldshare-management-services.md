@@ -76,8 +76,7 @@ A\&A eportal import is under Resources > Import
 
 
 
-* For AAePortal records: Use “A\&A ePortal” import profile. \
-
+* For AAePortal records: Use “A\&A ePortal” import profile. <br>
 
 Check Alma Import Job report to make sure the total number records /items loaded are matched.
 

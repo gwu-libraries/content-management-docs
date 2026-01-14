@@ -90,6 +90,5 @@ Updating holding in Connexion will ensure OCLC WorldShare is updated and reflect
 
 Notify the withdrawal project manager through the Salesforce ticket or email when the batch deletion process is completed so they can physically discard these items.
 
-\
-
+<br>
 

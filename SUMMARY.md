@@ -80,7 +80,8 @@
   * [Bulk Add Spec Items](partners/special-collections/bulk-add-spec-items.md)
 * [Textile Museum](partners/textile-museum/README.md)
   * [Copy-Cataloging](partners/textile-museum/copy-cataloging.md)
-* [AH Small Collection](partners/ah-small-collection.md)
+* [AH Small Collection](partners/ah-small-collection/README.md)
+  * [AH Small Copy-Cataloging](partners/ah-small-collection/copy-cataloging.md)
 * [VSTC](partners/vstc/README.md)
   * [\*Nursing](partners/vstc/nursing.md)
 

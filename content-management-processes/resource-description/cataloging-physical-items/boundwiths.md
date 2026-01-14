@@ -52,4 +52,4 @@ Each one of the constituent records need a LOCAL 591 notes field added. Format a
 \
 Exclude title of the volume being added. For example, if you are adding the 591 to the Title of 1st title record, you will omit the Title of 1st title.&#x20;
 
-\
+<br>

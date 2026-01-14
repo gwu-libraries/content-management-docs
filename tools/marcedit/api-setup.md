@@ -28,8 +28,7 @@ Password: <\<PLEASE SEE MATTHEW BRIGHT FOR PASSWORD>>
 
 
 
-&#x20;![](<../../.gitbook/assets/image (2) (1).png>)\
-
+&#x20;![](<../../.gitbook/assets/image (2) (1).png>)<br>
 
 Edit setting of Z39.50:
 
