@@ -16,6 +16,9 @@ description: >-
   * Skip to "...>Add holdings" step
 * If record exists in NZ but not in IZ
   * Edit to bring it into the Metadata Editor
+  * Editing actions>Expand from template (Ctrl+E)
+    * Select the “Cat note - AHSmall” template
+      * Correct date in 973 field
   * Save & Release
   * Skip to "...>Add holdings" step
 * If record does not already exist in Alma:
@@ -57,4 +60,5 @@ description: >-
 * Write call # on same side of flag (pencil) below the barcode
 * Write call # (pencil) on top edge of title page recto in a single line
 * No physical processing required (ie no spine labels, stamping or security strips)
-* Shelve the item by call number
+* Add in loose-leaf bookplate
+* Hand finished books to Kasey
