@@ -10,8 +10,9 @@ This policy is a basic list of information where procedures either differ from o
 * Items are cataloged on site at Washintoniana Collection
 * Make appointment with Curator before hand
 * Follow our standard Copy cataloging/Cataloging procedures&#x20;
+* Do NOT set OCLC holdings
 * Holdings record location: \$$b gwmuseum \$$c ahsmall&#x20;
-* Use GW barcodes on flags provided by Washingtoniana Collection staff
-* Write call # on same side of flag (pencil) below the barcode
+* Use LAI barcodes on flags provided by Washingtoniana Collection staff
+* Write call # on same side of flag (pencil) above the barcode on a single line
 * Write call # (pencil) on top edge of title page recto in a single line
 * No physical processing required (ie no spine labels, stamping or security strips)
