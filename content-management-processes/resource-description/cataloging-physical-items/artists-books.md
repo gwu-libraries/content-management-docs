@@ -8,13 +8,13 @@ description: >-
 
 ## Original cataloging
 
-When creating original catalog records for Artists' books, we do not create call numbers for the resource.&#x20;
+When creating original catalog records for Artists' books, we need to create LCCN call numbers for the resource.&#x20;
 
 
 
 ## In Alma
 
-In Alma, edit the holding 852 to have a first indicator of 8. Artists' books are shelved by Box number, which is provided by Shira.&#x20;
+In Alma, use the LC call number from the bib record in the holding record. Artists' books are shelved by LC Classification number.&#x20;
 
 When finished cataloging, instead of scanning to "Physical processing", scan as "Cataloging" "Done".&#x20;
 
