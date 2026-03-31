@@ -23,7 +23,7 @@
 * [Electronic Resources](content-management-processes/electronic-resources/README.md)
   * [\*Managing Electronic Collections](content-management-processes/electronic-resources/managing-electronic-collections.md)
   * [Authentication and OpenAthens](content-management-processes/electronic-resources/authentication-and-openathens.md)
-  * [OpenAthens administration](content-management-processes/electronic-resources/openathens-administration.md)
+  * [OpenAthens Administration](content-management-processes/electronic-resources/openathens-administration.md)
   * [COUNTER 5.1 Usage Reports](content-management-processes/electronic-resources/counter-5.1-usage-reports.md)
   * [Database A-Z List](content-management-processes/electronic-resources/database-a-z-list.md)
 * [Resource Description](content-management-processes/resource-description/README.md)
