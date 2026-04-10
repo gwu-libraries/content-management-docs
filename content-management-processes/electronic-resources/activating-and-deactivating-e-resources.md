@@ -4,7 +4,7 @@ We usually activate electronic resources for our Institution Zone from the Commu
 
 * **Collection** means an electronic collection in Alma with a full-text service and one or more portfolios attached to that service. It will have the collection type "Aggregator package" or "Selective package."&#x20;
 * **Database** means an electronic collection in Alma that does not have a service or portfolio attached. It will also have the collection type "Database."
-* A **Portfolio** is an electronic record in Alma that is not a collection and represents a specific title, which can be a book, journal, video, etc. Most portfolios are attached to a specific service and collection, but it is possible to have a stand-alone portfolio. If activating a portfolio in a collection we have not already activated, then activate the colleciton first.
+* A **Portfolio** is an electronic record in Alma that is not a collection and represents a specific title, which can be a book, journal, video, etc. Most portfolios are attached to a specific service and collection. If a title is available in different collections or from different providers, then each will have its own portfolio, so be sure to get the right one! It is also possible to have a stand-alone portfolio not in any collection. If activating a portfolio in a collection that we have not already activated, then activate the collection first.
 
 #### Activating Collections
 
@@ -30,4 +30,15 @@ We usually activate electronic resources for our Institution Zone from the Commu
 
 #### Activating Databases
 
-Activating databases also uses the Activation Wizard. You&#x20;
+Activating databases also uses the Activation Wizard. You will follow most of the same steps as listed under Activating Collections, just without those steps related to services and portfolios. However, unlike collections, a Level URL always needs to be specified. If there is not one already in the Activation Wizard, then add it. You might have to check with the  ordering librarian or the provider to get the URL.&#x20;
+
+#### Activating Portfolios
+
+Portfolios may be activated during the collection activation process, as described above. If the correct collection and full-text service are already activated, then there are two ways to activate portfolios:
+
+* From the CZ, using the Activate command on that portfolio
+* Within our IZ, by using the Portfolio Loader to upload a list to activate
+
+Deactivating Collections
+
+Deactivating Portfolios
