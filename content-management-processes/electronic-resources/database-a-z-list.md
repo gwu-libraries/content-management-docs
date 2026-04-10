@@ -11,7 +11,7 @@ The public view of the database A-Z list can be seen at [https://libguides.gwu.e
 * The alphabetical list by database title, which can be filtered by first letter
 * The search box, allowing patrons to search by title or keyword in both the title and description
 * The subjects filter, which uses a drop-down menu of predefined subjects
-* Sidebar boxes, such as the Featured Databses box, which is permanent, and boxes for  New Databases and Test Databases, which only appear if those options have been enabled for one or more databases
+* Sidebar boxes, such as the Featured Databses box, which is permanent, and boxes for  New Databases and Test Databases, which only appear if those options are currently  enabled for one or more databases
 
 There should be a description under each database title in the A-Z list. If the subject is longer than 600 characters, it will be truncated and there will be a View More link to show the full subject.&#x20;
 
@@ -19,7 +19,7 @@ We should make sure that every database record has a title, description, URL and
 
 #### Managing the Database List
 
-The A-Z list is managed in LibApps. All eresources staff should have an editor account in LibApps. Log in with SSO and select LibGuides from the app menu in the upper left. Then, from the Content menu, select A-Z List Management (new). Do NOT use the old version, "A-Z Database List," as it lacks some features tha we use.
+The A-Z list is managed in LibApps. All eresources staff should have an editor account in LibApps. Log in with SSO and select LibGuides from the app menu in the upper left. Then, from the Content menu, select A-Z List Management (new). Do NOT use the old version, "A-Z Database List," as it lacks some features that we use.
 
 In the A-Z List Management screen, you'll see a list of all databases at the beginning, and you can search or filter using the fields to the right of the list. Note the "Mapping" column. This shows you the total number of research guides where that database has been shared or reused. Click on the number to get a list.
 
@@ -49,7 +49,7 @@ We do not normally make changes to the Databases by Subject landing page. Howeve
 
 The subject database lists can be found in LibGuides admin under Guides in the Content menu. You can recognize them because each has the word "Databases" at the beginning of the guide name, for example, "Databases: History."&#x20;
 
-When we add a new database, the ordering librarian will usually specify the subject areas. Sometimes we also add or change the subjects for a given database. To do this, go the subject guide in the list of guides and select Edit (the pencil icon). Most guides have both a Core Resources box, which is fixed, and an Additional Resources box, which is where all new databases go. At the bottom of the box, select Add / Reorder > Database. This will add the database at the bottom of that box. You then have to select Sort Database Group to put it in proper alphabetical order.&#x20;
+When we add a new database, the ordering librarian will usually specify the subject areas. Sometimes librarians also request that we add or change the subjects for a given database. To do this, go the subject guide in the list of guides and select Edit (the pencil icon). Most guides have both a Core Resources box, which is fixed, and an Additional Resources box, which is where all new databases go. At the bottom of the box, select Add / Reorder > Database. This will add the database at the bottom of that box. You then have to select Sort Database Group to put it in proper alphabetical order.&#x20;
 
 #### The Primo Database Recommender
 
@@ -60,9 +60,9 @@ To add a database to the recommender, go to the list in recommender admin, then 
 The fields in database recommender entries are similar to those in A-Z list entries, but there are a few differences:
 
 * Key: This should match the ID number in LibGuides. The system will automatically add "database" to the beginning of the number.&#x20;
-* Name: Same as in LibGuides
+* Name: Same as in LibGuides.
 * Description: Same as in LibGuides, but here it is required that the description must be under 600 characters.
-* Tags: Keywords that will bring up this entry when searched in Primo. Add as many as you think appropriate. You do NOT need to add all the subjects from LibGuides here. Each tag including the last one should be followed by a semicolon (;).
-* Link: The COMPLETE link to the resource, including the OpenAthens redirector prefix and OpenAthens encoding. The most practical way to get this is to right-click and copy the link URL from the public view of the A-Z list.
+* Tags: Keywords that will bring up this entry when searched in Primo. Add as many as you think appropriate. Common abbreviations or alternate versions of the title are a good choice. You do not need to add all the subjects from LibGuides here. Each tag including the last one should be followed by a semicolon (;).
+* Link: The complete link to the resource, including the OpenAthens redirector prefix and OpenAthens encoding. The most practical way to get this is to right-click and copy the link URL from the public view of the A-Z list.
 * Link text: Enter "Go to database"
-* Do NOT check the "Display Always" box
+* Do NOT check the "Display Always" box.
