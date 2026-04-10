@@ -2,7 +2,7 @@
 
 #### Overview
 
-Our main patron-facing database A-Z list is maintained in LibGuides. This gives us much more flexibility than the database records in Alma, and more features including integration with research guides. However, this does require us to maintain databases in both LibGuides and Alma. There is no direct connection between the two. Note that maintaining databases in Alma includes both the database collection records (not covered in this document) and the Primo database recommender (described below).
+Our main patron-facing database A-Z list is maintained in LibGuides. This gives us much more flexibility than the database records in Alma, and more features including integration with research guides. However, this does require us to maintain database records separately in both LibGuides and Alma. There is no automated connection between the two systems. Note that maintaining databases in Alma includes both the database collection records (not covered in this document) and the Primo database recommender (described below).
 
 #### The Database List Public View
 
@@ -11,7 +11,7 @@ The public view of the database A-Z list can be seen at [https://libguides.gwu.e
 * The alphabetical list by database title, which can be filtered by first letter
 * The search box, allowing patrons to search by title or keyword in both the title and description
 * The subjects filter, which uses a drop-down menu of predefined subjects
-* Sidebar boxes, such as the Featured Databses box, which is permanent, and boxes such as New Databases or Test Databases, which only appear if those options have been enabled for one or more databases
+* Sidebar boxes, such as the Featured Databses box, which is permanent, and boxes for  New Databases and Test Databases, which only appear if those options have been enabled for one or more databases
 
 There should be a description under each database title in the A-Z list. If the subject is longer than 600 characters, it will be truncated and there will be a View More link to show the full subject.&#x20;
 
