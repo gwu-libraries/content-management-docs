@@ -29,7 +29,7 @@ To add a new database, click Add Database and fill in the fields below. In most 
 
 1. Public Database Display: set to Show in AZ, unless we want to hide this database, in which case set it Hide in AZ
 2. Database Landing Page: set to Inactive unless we have a specific need to add a landing page. (For an example, see Economist Intelligence Unit.)
-3. Database Name
+3. Database Name: if the database has more than one possible name, we just have to pick one. If it starts with "The," leave that out. If there is a name in a non-Roman alphabet, you can include that in parentheses at the end of database name. &#x20;
 4. Database URL: enter the basic URL with the initial "https" but without encoding and without the OpenAthens redirector
 5. Use Proxy: set to Yes if we use the OpenAthens redirector with this database, or No if the database is not using OpenAthens, or if it has a custom OpenAthens URL without the redirector prefix
 6. Database Description: Keep it under 600 characters if possible. May contain links. If a database requires the GW VPN for access, note that here.
