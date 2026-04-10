@@ -30,7 +30,7 @@ We usually activate electronic resources for our Institution Zone from the Commu
 
 #### Activating Databases
 
-Activating databases also uses the Activation Wizard. You will follow most of the same steps as listed under Activating Collections, just without those steps related to services and portfolios. However, unlike collections, a Level URL always needs to be specified. If there is not one already in the Activation Wizard, then add it. You might have to check with the  ordering librarian or the provider to get the URL.&#x20;
+Activating databases also uses the Activation Wizard. You will follow most of the same steps as listed under Activating Collections, just without those steps related to services and portfolios. However, unlike collections, a Level URL always needs to be specified. If there is not one already in the Activation Wizard, or if we have our own custom URL, then add it in the Level URL (override) field. You might have to check with the  ordering librarian or the provider to get the correct URL.&#x20;
 
 #### Activating Portfolios
 
