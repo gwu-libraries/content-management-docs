@@ -26,6 +26,7 @@
   * [OpenAthens Administration](content-management-processes/electronic-resources/openathens-administration.md)
   * [COUNTER 5.1 Usage Reports](content-management-processes/electronic-resources/counter-5.1-usage-reports.md)
   * [Database A-Z List](content-management-processes/electronic-resources/database-a-z-list.md)
+  * [Activating and Deactivating E-Resources](content-management-processes/electronic-resources/activating-and-deactivating-e-resources.md)
 * [Resource Description](content-management-processes/resource-description/README.md)
   * [Cataloging Physical Items](content-management-processes/resource-description/cataloging-physical-items/README.md)
     * [Media](content-management-processes/resource-description/cataloging-physical-items/media.md)
