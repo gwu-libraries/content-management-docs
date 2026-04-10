@@ -23,7 +23,7 @@ The A-Z list is managed in LibApps. All eresources staff should have an editor a
 
 In the A-Z List Management screen, you'll see a list of all databases at the beginning, and you can search or filter using the fields to the right of the list. Note the "Mapping" column. This shows you the total number of research guides where that database has been shared or reused. Click on the number to get a list.
 
-Database records are added using the Add Database button at the top. We do not use the Import Databases function. Existing databases can be edited by clicking the more options (three dots) button next to the database, and selecting Edit Database from the popup menu. Finally, the Export Databases function can be used to make a backup copy or whenever you want to see our complete database in spreadsheet format.
+Database records are added using the Add Database button at the top. We do not use the Import Databases function. Existing databases can be edited by clicking the more options (three dots) button next to the database, and selecting Edit Database from the popup menu. This is also where you can delete a database. Finally, the Export Databases function can be used to make a backup copy or whenever you want to see our complete database in spreadsheet format.
 
 To add a new database, click Add Database and fill in the fields below. In most cases the title, description, and subject tags will be specified by the ordering librarian, but in some cases you might need to do some research. Fields not listed here are optional.
 
@@ -36,4 +36,17 @@ To add a new database, click Add Database and fill in the fields below. In most 
 7. Associated Subjects: select from the drop-down menu. This can be left blank in rare cases where none of the subjects fit.
 8. Best Bets: currently NOT in use, but we may start using it in the future
 9. Attributes: select these to put the database in the associated sidebar box; rarely used.
-10. Additional Information: for databases that use a landing page, this is where the landing page fields are entered.<br>
+10. Additional Information: for databases that use a landing page, this is where the landing page fields are entered.
+
+When editing an existing database, note that if you change the title, that may also change where the database appears in alphabetical list. In those cases, notify the owners of every research guide that reuses that database (see the Mapping column).
+
+#### Database Subject Lists
+
+The Databases by Subject page at [https://libguides.gwu.edu/databases](https://libguides.gwu.edu/databases) is actually a specialized research guide. This shows links to database lists for different subject areas, organized in a few overall categories. The subjects corresponds to the subject areas in each database record. However, there is no automatic connection. The subject lists, which are also research guides, have to be edited like any other research guide.
+
+We do not normally make changes to the Databases by Subject landing page. However, we will edit it if we decide to change the subject categories we use in the A-Z list.&#x20;
+
+The subject database lists can be found in LibGuides admin under Guides in the Content menu. You can recognize them because each has the word "Databases" at the beginning of the guide name, for example, "Databases: History."&#x20;
+
+When we add a new database, the ordering librarian will usually specify the subject areas. Sometimes we also add or change the subjects for a given database. To do this, go the subject guide in the list of guides and select Edit (the pencil icon). Most guides have both a Core Resources box, which is fixed, and an Additional Resources box, which is where all new databases go. At the bottom of the box, select Add / Reorder > Database. This will add the database at the bottom of that box. You then have to select Sort Database Group to put it in proper alphabetical order.&#x20;
+
