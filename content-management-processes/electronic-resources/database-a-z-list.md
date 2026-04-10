@@ -27,4 +27,13 @@ Database records are added using the Add Database button at the top. We do not u
 
 To add a new database, click Add Database and fill in the fields below. In most cases the title, description, and subject tags will be specified by the ordering librarian, but in some cases you might need to do some research. Fields not listed here are optional.
 
-<br>
+1. Public Database Display: set to Show in AZ, unless we want to hide this database, in which case set it Hide in AZ
+2. Database Landing Page: set to Inactive unless we have a specific need to add a landing page. (For an example, see Economist Intelligence Unit.)
+3. Database Name
+4. Database URL: enter the basic URL with the initial "https" but without encoding and without the OpenAthens redirector
+5. Use Proxy: set to Yes if we use the OpenAthens redirector with this database, or No if the database is not using OpenAthens, or if it has a custom OpenAthens URL without the redirector prefix
+6. Database Description: Keep it under 600 characters if possible. May contain links. If a database requires the GW VPN for access, note that here.
+7. Associated Subjects: select from the drop-down menu. This can be left blank in rare cases where none of the subjects fit.
+8. Best Bets: currently NOT in use, but we may start using it in the future
+9. Attributes: select these to put the database in the associated sidebar box; rarely used.
+10. Additional Information: for databases that use a landing page, this is where the landing page fields are entered.<br>
