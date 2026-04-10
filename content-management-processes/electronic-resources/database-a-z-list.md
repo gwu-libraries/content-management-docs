@@ -37,6 +37,7 @@ To add a new database, click Add Database and fill in the fields below. In most 
 8. Best Bets: currently NOT in use, but we may start using it in the future
 9. Attributes: select these to put the database in the associated sidebar box; rarely used.
 10. Additional Information: for databases that use a landing page, this is where the landing page fields are entered.
+11. Each entry will also have an ID number that is generated automatically.
 
 When editing an existing database, note that if you change the title, that may also change where the database appears in alphabetical list. In those cases, notify the owners of every research guide that reuses that database (see the Mapping column).
 
@@ -50,3 +51,18 @@ The subject database lists can be found in LibGuides admin under Guides in the C
 
 When we add a new database, the ordering librarian will usually specify the subject areas. Sometimes we also add or change the subjects for a given database. To do this, go the subject guide in the list of guides and select Edit (the pencil icon). Most guides have both a Core Resources box, which is fixed, and an Additional Resources box, which is where all new databases go. At the bottom of the box, select Add / Reorder > Database. This will add the database at the bottom of that box. You then have to select Sort Database Group to put it in proper alphabetical order.&#x20;
 
+#### The Primo Database Recommender
+
+The Primo Database Recommender puts databases at the top of Primo search results, for greater visibilty for patrons. It is maintained in Alma, under Discovery > Resource Recommender Configuration > DATABASES. For the most part, we try to have a recommender entry for every database in the A-Z list. The recommender entry should be added AFTER you create the LibGuides A-Z list entry.&#x20;
+
+To add a database to the recommender, go to the list in recommender admin, then click Add Resource. We do not use the "Add resources from electronic collections" function. You can also add or edit database entries using the Import command to upload a spreadsheet, but that is really only practical when making a large number of additions or changes at once.
+
+The fields in database recommender entries are similar to those in A-Z list entries, but there are a few differences:
+
+* Key: This should match the ID number in LibGuides. The system will automatically add "database" to the beginning of the number.&#x20;
+* Name: Same as in LibGuides
+* Description: Same as in LibGuides, but here it is required that the description must be under 600 characters.
+* Tags: Keywords that will bring up this entry when searched in Primo. Add as many as you think appropriate. You do NOT need to add all the subjects from LibGuides here. Each tag including the last one should be followed by a semicolon (;).
+* Link: The COMPLETE link to the resource, including the OpenAthens redirector prefix and OpenAthens encoding. The most practical way to get this is to right-click and copy the link URL from the public view of the A-Z list.
+* Link text: Enter "Go to database"
+* Do NOT check the "Display Always" box
