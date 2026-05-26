@@ -67,6 +67,6 @@ When Serials & E-Resources Assistant receives binding slips from Monograph Acqui
 * Add/update 866 fields in the original holding record and the wrlc holding record based on the items in each location
 * Remove any legacy or unnecessary notes from the 852 holding field, for example: "All bound volumes located off site (WRLC Center). To retrieve, please submit a Consortium Loan Request form. Bound volumes are Library Use Only."
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="A holding record with a subfield z of All bound volumes located off site (WRLC Center). To retrieve, please submit a Consortium Loan Request form. Bound volumes are Library Use Only."><figcaption><p>Example of legacy note from Voyager. The $z is no longer needed in our Alma environment.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="A holding record with a subfield z of All bound volumes located off site (WRLC Center). To retrieve, please submit a Consortium Loan Request form. Bound volumes are Library Use Only."><figcaption><p>Example of legacy note from Voyager. The $z is no longer needed in our Alma environment.</p></figcaption></figure>
 
 * Discard the slip

@@ -9,7 +9,7 @@ description: Background and process for adding and deactivating licensed Kanopy 
 If a title is a renewal, it'll already be in Alma. In this case, you'll only have to update the coverage in the portfolio.
 
 {% hint style="info" %}
-You can use the portfolio loader to batch update coverage dates. For more information, see the ExLibris Alma Knowledge Center article on [Using Portfolio Loader for Adding, Updating or Removing Portfolio Information in Bulk](https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_\(English\)/Electronic\_Resource\_Management/030\_Working\_with\_Local\_Electronic\_Resources/015Managing\_Electronic\_Resources#Using\_Portfolio\_Loader\_for\_Adding.2C\_Updating\_or\_Removing\_Portfolio\_Information\_in\_Bulk).
+You can use the portfolio loader to batch update coverage dates. For more information, see the ExLibris Alma Knowledge Center article on [Using Portfolio Loader for Adding, Updating or Removing Portfolio Information in Bulk](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_\(English\)/Electronic_Resource_Management/030_Working_with_Local_Electronic_Resources/015Managing_Electronic_Resources#Using_Portfolio_Loader_for_Adding.2C_Updating_or_Removing_Portfolio_Information_in_Bulk).
 {% endhint %}
 
 ## New licenses
@@ -29,29 +29,31 @@ In the rare case a record cannot be found in OCLC, download from the Kanopy dash
 
 ### MarcEdit enhancements
 
-If you want to import it into your MarcEdit, there is a [MarcEdit task list](https://drive.google.com/drive/folders/1Ub0bjJWjun8vrooX83A4GXt8GBejwaOM?usp=sharing) that will add URLs (you will have to update), the 787 for the Streaming Media collection, and the 973 cataloger information. The Sharepoint folder path is [GWLAI RDG](https://gwu0.sharepoint.com/sites/20180727030128000/SitePages/Home.aspx) > [MarcEdit](https://gwu0.sharepoint.com/sites/20180727030128000/Collaboration%20Items/MarcEdit) > [Tasklists](https://gwu0.sharepoint.com/sites/20180727030128000/Collaboration%20Items/MarcEdit/Task%20Lists).&#x20;
+If you want to import it into your MarcEdit, there is a [MarcEdit task list](https://gwu0.sharepoint.com/:f:/r/sites/20180727030128000/Collaboration%20Items/MarcEdit/Task%20Lists?csf=1\&web=1\&e=uzNfoK) that will add URLs (you will have to update), the 787 for the Streaming Media collection, and the 973 cataloger information. The Sharepoint folder path is [GWLAI RDG](https://gwu0.sharepoint.com/sites/20180727030128000/SitePages/Home.aspx) > [MarcEdit](https://gwu0.sharepoint.com/sites/20180727030128000/Collaboration%20Items/MarcEdit) > [Tasklists](https://gwu0.sharepoint.com/sites/20180727030128000/Collaboration%20Items/MarcEdit/Task%20Lists).&#x20;
 
 What the task list does:
 
-1. Adds linked data
-2. Deletes the following fields:&#x20;
+1. Deletes the following fields:&#x20;
    1. 856 (all conditions)
-   2. 994 (all conditions
+   2. 994 (all conditions)
    3. 500 $a In process record
-   4. 028s that don't contain $b Kanopy.&#x20;
-3. Adds the following fields:&#x20;
+   4. 028s that don't contain $b Kanopy
+   5. 936 $a BATCHLOAD
+2. Adds the following fields:&#x20;
    1.  787 \\\\$w81630409630004107$9LOCAL
 
        \*\* You can add in as many Discovery Collection IDs as desired, Alma will automatically add the title to each collection when importing.&#x20;
    2. 973 \\$aNew title ;$bCC ;$c\[cataloger name] ;$d\[YYYY-MM-DD]$9LOCAL
    3. 957 42$zCover Image$uhttps://www.kanopy.com/node/\[ID]/external-image$9LOCAL
-   4. 40$u \[URL] $zA Kanopy streaming video
-4. Build other system number field for Kanopy
+   4. 856 40$u \[URL] $zA Kanopy streaming video
+3. Build other system number field for Kanopy
    1. \=035 \\$a(CaSfKAN){028$a}, always add new field
 
 Notes about the \[ ] fields
 
-* \[URL] is where you will paste in the URL copied from the Invoice sent to SalesForce
+*   \[URL] is where you will paste in the URL copied from the Invoice sent to SalesForce
+
+    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * \[ID] is where you will paste the ID number taken from the URL
   * Example: https://gwu.kanopy.com/node/4208767 -- you would take the 4208767 and paste it where \[ID] is in the cover art URL.
 * \[cataloger name] is your last name
@@ -66,10 +68,10 @@ To import into Alma, use the "Kanopy" import profile. Once imported, update the 
 
 
 {% hint style="warning" %}
-Many Kanopy films have short titles that often get displayed with unrelated electronic resource titles in Primo. In order to avoid this, add \[film], \[documentary], or similar note in brackets to the 245 $a after the title proper. This is enough to differentiate titles so they are not displayed together.&#x20;
+Some Kanopy films have short titles that can be common terms in multiple resources (one to three words, examples "1945") that often get displayed with unrelated electronic resource titles in Primo. In order to avoid this, add \[film], \[documentary], or similar note in brackets to the 245 $a after the title proper. This is enough to differentiate titles so they are not displayed together. Example: 1945 \[streaming film]
 {% endhint %}
 
 ## Update tracking information
 
-When Kanopy titles are imported or update, add in the information to the [tracking spreadsheet](https://gwu0.sharepoint.com/:x:/r/sites/20180727030128000/\_layouts/15/Doc.aspx?sourcedoc=%7BADE799FA-6AF1-4B9A-A212-B8853CC91183%7D\&file=Alma%20Ongoing%20Record%20Loads.xlsx\&action=default\&mobileredirect=true).&#x20;
+When Kanopy titles are imported or update, add in the information to the [tracking spreadsheet](https://gwu0.sharepoint.com/:x:/r/sites/20180727030128000/_layouts/15/Doc.aspx?sourcedoc=%7BADE799FA-6AF1-4B9A-A212-B8853CC91183%7D\&file=Alma%20Ongoing%20Record%20Loads.xlsx\&action=default\&mobileredirect=true).&#x20;
 
