@@ -6,12 +6,13 @@ This policy is a basic list of information where procedures either differ from o
 
 ## Receiving
 
-<< What do RDG folks need to know about receiving NVN materials? >>&#x20;
+No receiving steps are needed by LAI.
 
 ## Cataloging
 
 Because Himmelfarb purchases the NVN materials, but LAI manages the circulation of items at VSTC, there should already be a record in the NZ with Himmelfarb holdings attached. This record may or may not be the best record. In addition to normal cataloging procedures, follow the following steps for NVN items:&#x20;
 
+* Place barcode on the item
 * Search for title in NZ, Himmelfarb there
 * After copying NZ record to the IZ:
   * Add a new holdings, with 852 \$$b vstcl \$$c nursing
