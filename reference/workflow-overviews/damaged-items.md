@@ -5,7 +5,7 @@
 * [Circulation sends damaged items to Content Management](../../partners/access-services/damaged-items.md)
   * Fill out damaged slip
   * Place items on "Incoming Damaged" shelf
-* [Content Management scans in items](https://app.gitbook.com/s/5QX2M9ayhWC5XrrMkvz8/content-management-processes)
+* [Content Management scans in items](../../content-management-processes/damaged-items-content-management-steps.md)
   * Use the damaged item decision tree steps to determine the action needed
   * Set status to "Damaged - CDL Review", "Damaged - Rebind", "Damaged - Replace", or "Withdraw"
   * Place on appropriate shelf
