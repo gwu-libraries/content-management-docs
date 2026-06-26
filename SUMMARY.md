@@ -55,6 +55,7 @@
   * [Physical Processing](content-management-processes/physical-processing-steps/physical-processing.md)
 * [Bindery](content-management-processes/bindery/README.md)
   * [Serials Binding (MonoAcq steps)](content-management-processes/bindery/serials-binding-monoacq-steps.md)
+* [Damaged Items (Content Management Steps)](content-management-processes/damaged-items-content-management-steps.md)
 
 ## Partners
 
