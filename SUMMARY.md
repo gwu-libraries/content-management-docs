@@ -10,6 +10,7 @@
     * [Monographs](content-management-processes/acquisitions/ordering/monographs.md)
   * [\*Receiving](content-management-processes/acquisitions/receiving/README.md)
     * [Receiving Items from Spec & GRC](content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)
+    * [Receiving Non-Purchased Items for Stacks](content-management-processes/acquisitions/receiving/receiving-non-purchased-items-stacks.md)
   * [\*Invoicing](content-management-processes/acquisitions/invoicing.md)
   * [Purchased Replacements](content-management-processes/acquisitions/replacements.md)
   * [EBSCO DDA Ebook Triggered Purchase](content-management-processes/acquisitions/ebsco-dda-ebook-triggered-purchase.md)
