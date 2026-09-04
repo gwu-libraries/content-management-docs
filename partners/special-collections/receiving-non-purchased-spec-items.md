@@ -9,10 +9,10 @@ description: >-
 ## Alma Steps <a href="#docs-internal-guid-c4f19426-7fff-9207-3fe6-6c55a2e55397" id="docs-internal-guid-c4f19426-7fff-9207-3fe6-6c55a2e55397"></a>
 
 * Choose Resources>Add Physical Item\
-  ![](https://lh6.googleusercontent.com/xLDYgKHlPnBrrdN10lBYzQ\_mXoGGZi2DGcMGHV-lBIcW2kodCO5kH1EsDW-HRiNkoDrYUXTHxd\_06Z9etuDrOPaq19dx4yG2K\_689f7R-otnYMnKpDNjCKBOwdj7cDY9Fp\_AliWG)
+  ![](https://lh6.googleusercontent.com/xLDYgKHlPnBrrdN10lBYzQ_mXoGGZi2DGcMGHV-lBIcW2kodCO5kH1EsDW-HRiNkoDrYUXTHxd_06Z9etuDrOPaq19dx4yG2K_689f7R-otnYMnKpDNjCKBOwdj7cDY9Fp_AliWG)
 * Choose holdings type “new” and click “Choose”
 
-![](https://lh6.googleusercontent.com/Let6FPGOlwS4J9\_WPj7SkZ74aYiscgzVYw0-fJD92c64I6LDu9Ai3Ahsap\_T\_SapKWogd079Y4-4BDD0iLgTtHmmKK-RUX1PNIpP1cdTV4pMFrtp3vPk-8e\_Fn4aoH66zl4sMBbA)
+![](https://lh6.googleusercontent.com/Let6FPGOlwS4J9_WPj7SkZ74aYiscgzVYw0-fJD92c64I6LDu9Ai3Ahsap_T_SapKWogd079Y4-4BDD0iLgTtHmmKK-RUX1PNIpP1cdTV4pMFrtp3vPk-8e_Fn4aoH66zl4sMBbA)
 
 * This form creates a brief bibliographic record. Only the following fields are necessary in the Resource Information section:
   * Title: Enter the title of the resource. This can be an abbreviated title, and can be in roman or non-roman script.
@@ -21,7 +21,7 @@ description: >-
   * Source: Enter any donor notes the way you want them to appear, e.g. “Gift of Prof. Someone-or-other”. You can include subfield indicators here, which is helpful but not necessary.
   * Note: Enter any notes for RDG, e.g. “Please include the Korean title ‘Chosŏnhak’ even though it doesn’t appear on the item”.
 
-![](https://lh3.googleusercontent.com/Xt2vb9csgbzZ1lz2HRUSJwIv1wNHRczo7rmnTh1t5P-SZ4eoo7s\_vVwi56lO3nzaa9J4C1KWDIw43ii00GcIr6WJ5cJSt4189jwXg6kj9gnj0ITxgKAcZU0JnZL8q79\_2UF8qxXo)
+![](https://lh3.googleusercontent.com/Xt2vb9csgbzZ1lz2HRUSJwIv1wNHRczo7rmnTh1t5P-SZ4eoo7s_vVwi56lO3nzaa9J4C1KWDIw43ii00GcIr6WJ5cJSt4189jwXg6kj9gnj0ITxgKAcZU0JnZL8q79_2UF8qxXo)
 
 {% hint style="info" %}
 **For Kiev materials**, please include:\
@@ -31,20 +31,20 @@ description: >-
 
 * Scroll down, select the item’s location, and add the item barcode. NOTE: for items that will go to WRLC, for the moment set the location as “scrc” and the location will be changed when the item is sent to WRLC.
 
-![](https://lh5.googleusercontent.com/xa9xQv6huOX-2ahFLre0rEGfR5iY4yQEjLwxH3EAJURAmI86k0n38rHYrGfYlIM349TBvsvHvPAQR-SzfTcT\_2M0zIffelwhCjSNO\_LgL0mGlhB3tmYPiAmL3odthGSkk-3ZhclS)
+![](https://lh5.googleusercontent.com/xa9xQv6huOX-2ahFLre0rEGfR5iY4yQEjLwxH3EAJURAmI86k0n38rHYrGfYlIM349TBvsvHvPAQR-SzfTcT_2M0zIffelwhCjSNO_LgL0mGlhB3tmYPiAmL3odthGSkk-3ZhclS)
 
 * Click “Save” to create the bibliographic, holding, and item record.
 
-![](https://lh6.googleusercontent.com/d3XW16X\_EcsYX44B9YtzlOoQ6T7B0bB4mX5PvJKGOt8kSVQkHN9nJyD7ZHQ6Xltc2tG\_ARydasNkuEg8NjtG0lQQaR2IrEoukxvVk80MHAfumaQAIJs0bRU9WHjLKqDM-uP4uxww)
+![](https://lh6.googleusercontent.com/d3XW16X_EcsYX44B9YtzlOoQ6T7B0bB4mX5PvJKGOt8kSVQkHN9nJyD7ZHQ6Xltc2tG_ARydasNkuEg8NjtG0lQQaR2IrEoukxvVk80MHAfumaQAIJs0bRU9WHjLKqDM-uP4uxww)
 
 * Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan the item barcode to place the item “In transit” to Content Management.
 
-![](https://lh4.googleusercontent.com/GaQLjdzm2KXT8C\_FPgtIB\_zS8yx0yZ\_KifW2PfgQhqE7ueu6Q25dtAaUWQH77VKjNtkUaytOMlYtJy2hMRm8qIzAh6EItvmb9OeLVsl1mS8\_vdwt\_KFCqAuXLJDeJnBA3vTY4THs)
+![](https://lh4.googleusercontent.com/GaQLjdzm2KXT8C_FPgtIB_zS8yx0yZ_KifW2PfgQhqE7ueu6Q25dtAaUWQH77VKjNtkUaytOMlYtJy2hMRm8qIzAh6EItvmb9OeLVsl1mS8_vdwt_KFCqAuXLJDeJnBA3vTY4THs)
 
 ## Physical Handling
 
 * Barcode the item to your preference--either affixing the barcode to the item or placing it on a flag that you include with the item.
 * Add orange "Rush" flag for any rush items
-* Bring the item to the Content Management workroom, Gelman 118, and place on the “Incoming - Spec (non-purchased)” shelf.
+* Bring the item to the Content Management workroom, Gelman 609, and place on the “Cataloging (non-purchased)” shelf.
 * When cataloging has been completed, RDG will place the item “in transit” and deliver it to the “From RDG” shelf in the Special Collections Research Center.
 * Spec staff scan the item in, and it will be in place and available.

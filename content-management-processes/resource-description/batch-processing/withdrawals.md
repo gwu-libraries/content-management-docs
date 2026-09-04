@@ -1,8 +1,6 @@
 # Withdrawal (Batch)
 
-<< We need to add how we get withdrawals, emailed/sent through Salesforce >>&#x20;
-
-
+Batches of barcodes for withdrawal should be emailed to [rdg@gwu.edu](mailto:rdg@gwu.edu).
 
 ### Alma Analytics
 

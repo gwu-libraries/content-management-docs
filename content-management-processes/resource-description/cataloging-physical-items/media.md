@@ -11,10 +11,7 @@ For electronic or streaming media resources, please see appropriate documentatio
 * Consult OLAC Best Practices as needed when in doubt (see Resources page)
 * Find correct record in OCLC (match on standard info: Title; Publisher etc + Running time; MARC 024/028 packaging numbers etc)
 * For non-English titles may need to view the disc credits to verify what titles to record
-* Add additional MARC fields particularly (046, 257, 33X, 34X, 380) see screen capture&#x20;
-
-![](https://lh3.googleusercontent.com/2FrPk8s8la06y48W7CZXtqhjMk1nw6fBZ6R4yGUTW104g23dIckfgnIb7ds7hVZswbgc0H_gSUZQO-dPTKJgL3lYL6EN4VyHw2fSMa93cOPoINwAp5XXYpRd869VQfGaQL9_Gbtrs3UYIJy-mmapxd8)
-
+* Add additional MARC fields particularly (046, 257, 33X, 34X, 380)
 * Prefer use of granular RDA terms with $2 codes from RDA Registry
 
 &#x20;  MARC 538 should match 34X data as much as possible

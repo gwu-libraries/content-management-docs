@@ -51,4 +51,4 @@ description: >-
 ## Physical Processing
 
 * Pencil in the call number on the title page verso, including any prefixes (usually GRC JRC)
-* Take the item to the Content Management workroom, Gelman 118, and place on the "Incoming - GRC physical processing" shelf
+* Take the item to the Content Management workroom, Gelman 609, and place on the "Incoming - Physical Processing" shelf

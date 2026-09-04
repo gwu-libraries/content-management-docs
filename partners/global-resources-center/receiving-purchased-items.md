@@ -10,6 +10,6 @@
   * Check/correct the location where the item will go
   * NOTE: If there are multiple volumes of the same title, only one item will exist in Alma. Update the item record with the barcode of the first volume in the set, and place yellow "Volume not in Alma" flags in all subsequent volumes. Do not add any additional item records--RDG will create them when we catalog the title.
 * Add orange "Rush" flag for any rush items
-* Bring items to Content Management room 118 and place on “**Receiving - GRC (purchased)**” shelf (in the Receiving section of shelving, not the Incoming section).
+* Bring items to Gelman 609 and place on a “**Receiving (purchased)**” shelf (in the Receiving section of shelving, not the Cataloging section).
 
 [Monograph Acquisitions will receive and invoice the items, and transfer them to RDG for cataloging.](../../content-management-processes/acquisitions/receiving/receiving-items-from-spec-and-grc.md)

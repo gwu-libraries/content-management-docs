@@ -7,21 +7,15 @@ description: >-
 
 # Receiving Non-Purchased GRC Items
 
-{% hint style="info" %}
-Language areas where we are currently using this process: Arabic, Chinese, Japanese, Korean, Persian.
-
-Uighur books we receive through the LC MECAP program should use this process.
-{% endhint %}
-
 ## Alma Steps <a href="#docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b" id="docs-internal-guid-7b01f711-7fff-7042-1bc3-1921912c723b"></a>
 
 Choose Resources>Add Physical Item
 
-![](https://lh5.googleusercontent.com/IsIMG-AwSmEFr1LB1jsO4rjweZLVH27dpX2xcBm74Cdd4eIqBP2\_5fh-dYUXwEWpueznJjWuo3NaqAB3N7BaVwazUdcTOUglOfRBM0\_JIzKJpgMBDhV\_nl7\_Le5nl9BNm5nyq50g)
+![](https://lh5.googleusercontent.com/IsIMG-AwSmEFr1LB1jsO4rjweZLVH27dpX2xcBm74Cdd4eIqBP2_5fh-dYUXwEWpueznJjWuo3NaqAB3N7BaVwazUdcTOUglOfRBM0_JIzKJpgMBDhV_nl7_Le5nl9BNm5nyq50g)
 
 Choose holdings type “new” and click “Choose”
 
-![](https://lh3.googleusercontent.com/95aqUFeq2yvB3ekX4lCCxVqCuLokuzbCi-jSWUcr7PRGAfrdMZak6NgePBRWsgO8Aor52Tw2FjXlPTEhJn4T0V2DRr0NifwCm-DzFQ79PurfF7B-yB7U5BPIsuAb77s1\_XxJW1qh)
+![](https://lh3.googleusercontent.com/95aqUFeq2yvB3ekX4lCCxVqCuLokuzbCi-jSWUcr7PRGAfrdMZak6NgePBRWsgO8Aor52Tw2FjXlPTEhJn4T0V2DRr0NifwCm-DzFQ79PurfF7B-yB7U5BPIsuAb77s1_XxJW1qh)
 
 This form creates a brief bibliographic record. Only the following fields are necessary in the Resource Information section:
 
@@ -31,7 +25,7 @@ This form creates a brief bibliographic record. Only the following fields are ne
 * Source: Enter any donor notes the way you want them to appear, e.g. “Gift of Prof. Someone-or-other”.
 * Note: Enter any notes for RDG, e.g. “Please include the Korean title ‘Chosŏnhak’ even though it doesn’t appear on the item”.
 
-![](https://lh6.googleusercontent.com/\_iwYqWYCEPVEtZkAEUfZVdkZz2fzTIUzPjfmjUy3iLFcUB9NJ-ZAiINzBfcffLsvJTMcnUvW2RIx8ZfzBR2OsXYQsUiSLIWkZSgCgTxdLNEIKqdjfAiqPOhDKSPqm3XnKPD1H6gC)
+![](https://lh6.googleusercontent.com/_iwYqWYCEPVEtZkAEUfZVdkZz2fzTIUzPjfmjUy3iLFcUB9NJ-ZAiINzBfcffLsvJTMcnUvW2RIx8ZfzBR2OsXYQsUiSLIWkZSgCgTxdLNEIKqdjfAiqPOhDKSPqm3XnKPD1H6gC)
 
 {% hint style="info" %}
 For Japanese, Arabic, and Persian original cataloging, please use the following additional guidelines:\
@@ -43,15 +37,15 @@ For Japanese, Arabic, and Persian original cataloging, please use the following 
 
 Scroll down, select the item’s location, and add the item barcode.
 
-![](https://lh4.googleusercontent.com/v-prrB5uRvfikIND8r0P1GvaCYOvIqojCsf4IZ\_WvIRvV-N-CwYHVKwyzA9kIlfJeaiItMeOGqcDKWjJMN5krf4-Dm8AjGJysxAkox1nDDWMaCOP2ULja\_UXsD81jJenl52zMWpJ)
+![](https://lh4.googleusercontent.com/v-prrB5uRvfikIND8r0P1GvaCYOvIqojCsf4IZ_WvIRvV-N-CwYHVKwyzA9kIlfJeaiItMeOGqcDKWjJMN5krf4-Dm8AjGJysxAkox1nDDWMaCOP2ULja_UXsD81jJenl52zMWpJ)
 
 Click “Save” to create the bibliographic, holding, and item record.
 
-![](https://lh5.googleusercontent.com/Es\_7Cnp\_PnzsoIs9qcNsylk\_eWOGpK1IGTNIcNsOF54uvZCyDqIw6MHRrKn8b8WpraCwFKkwH2QZkL2ib0bW1zUCzphkoMQMXN2HyDXgCHR5JX9Uiu4lG6raSnTbUa8dkVDVTObj)
+![](https://lh5.googleusercontent.com/Es_7Cnp_PnzsoIs9qcNsylk_eWOGpK1IGTNIcNsOF54uvZCyDqIw6MHRrKn8b8WpraCwFKkwH2QZkL2ib0bW1zUCzphkoMQMXN2HyDXgCHR5JX9Uiu4lG6raSnTbUa8dkVDVTObj)
 
 Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan the item barcode to place the item “In transit” to Content Management.
 
-![](https://lh3.googleusercontent.com/L-61YvXENSYt5ROcYrweEKOagv54LmJNK9Rkqifj3\_sFU1nBMwh4zlsMY1\_HrwzxI0SwHBy1CqeJbHVIltVklWWES\_BMTKLSYnSMNdYFrIbYHfMz5Ev3ZNHyb1MaKe8ggNjg686w)
+![](https://lh3.googleusercontent.com/L-61YvXENSYt5ROcYrweEKOagv54LmJNK9Rkqifj3_sFU1nBMwh4zlsMY1_HrwzxI0SwHBy1CqeJbHVIltVklWWES_BMTKLSYnSMNdYFrIbYHfMz5Ev3ZNHyb1MaKe8ggNjg686w)
 
 ## Physical Handling
 
@@ -59,6 +53,6 @@ Go to “Acquisitions>Scan in items” or “Fulfillment>Scan in items”. Scan 
 * Place the barcode on the item.
 * Add orange "Rush" flag for any rush items
 * NOTE: If there are multiple volumes of the same title, only one item will be created in Alma. Place barcodes on all items, but use only the barcode of the earliest volume in the set when creating the record, and place yellow "Volume not in Alma" flags in all subsequent volumes. Do not add any additional item records--RDG will create them when we catalog the title.
-* Bring the item to the Content Management workroom, Gelman 118, and place on the “Incoming - GRC (non-purchased)” shelf.
+* Bring the item to the Content Management workroom, Gelman 609, and place on the “Cataloging (non-purchased)” shelf.
 * When cataloging has been completed, RDG will place the item “in transit” and deliver it to the “From RDG” shelf above the fridge in the GRC workroom.
 * GRC staff scan the item in, and it will be in place and available.

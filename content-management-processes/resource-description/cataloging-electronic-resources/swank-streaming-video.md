@@ -72,9 +72,3 @@ Each semester, a new Swank collection is created since all titles are licensed u
 * Additional Tab→ Ellipsis of Currently active service → Portfolio List
   * Click All titles box
   * Under Activate/Deactivate choose Deactivate All
-
-{% hint style="info" %}
-
-{% endhint %}
-
-*

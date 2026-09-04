@@ -1,7 +1,3 @@
----
-description: '*copy editing and formatting still needs to be finished'
----
-
 # Cataloging Physical Items
 
 ## Introduction
