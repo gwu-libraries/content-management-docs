@@ -1,8 +1,15 @@
 # Withdrawals
 
 {% hint style="warning" %}
-This covers a broad overview of what to do with withdrawals. For information on how to perform batch withdrawals, please see [withdrawals.md](batch-processing/withdrawals.md "mention").&#x20;
+This covers individual withdrawals. For information on how to perform batch withdrawals, please see [withdrawals.md](batch-processing/withdrawals.md "mention").&#x20;
 {% endhint %}
+
+### Search Alma
+
+* [ ] Look up the title using the barcode on the item
+  * [ ] Make sure item does not have a retention commitment
+    * [ ] If it is marked as reteniton
+  * [ ] Copy the OCLC number (if this is the last copy)
 
 ### Monograph Withdrawal: Not the last holding/item
 
