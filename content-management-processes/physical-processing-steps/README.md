@@ -18,7 +18,6 @@ Pencil in the call number on the title page verso (unless the paper is particula
   * [ ] If label placed on cover instead of spine, cut a clear piece in half and use that
 * [ ] Place security strip somewhere towards the middle of the book
   * [ ] Remove the short side of green strip, place strip into book at the spine so it sticks down, close the book to properly adhere, then remove the other green strip
-* [ ] Place a due date sticker on the back free end-paper or inner back cover
 * [ ] Using the "Gelman Library - GWU" stamp, stamp the top, side, and bottom of the text block
   * [ ] If book is too thin, stamp inside back cover and on front free end-paper
 * [ ] "Done" the work order and deliver the item to its destination
