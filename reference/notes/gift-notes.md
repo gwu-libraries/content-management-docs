@@ -4,7 +4,7 @@ description: These are regularly used gift notes.
 
 # Gift notes
 
-Gift notes go into a local 975 field in the bib record and the 541 in holdings.&#x20;
+Gift notes go into a local 975 field (indicators 1\_) in the bib record and the 541 (indicators 1\_) in holdings.&#x20;
 
 | Location            | Formatted Gift Text                                                                                                                                |                                      |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
