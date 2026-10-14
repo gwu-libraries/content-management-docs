@@ -41,12 +41,12 @@ Library Operations Associate prepare issues for binding
   * DO fill out holding ID # (for when slip goes to Qali)
   * Enumeration and Chronology is only needed with enough specificity to cover the full range of the bindable unit (For example, if v.2 no.1-4 are being bound, and there are only 4 issues per year, then only "v.2" is needed, "no.1-4" is not necessary; but if there are 8 issues per year then "v.2 no.1-4" is necessary because v.2 by itself does not indicate that only part of the volume is included in that bindable unit.)
 * Attach barcode to slip
-* If unbound issues have individual item records in Alma (because of predictive patterns):
+* If unbound issues have individual item records in Alma:
   * Select the item records of the issues that will be bound
   * Choose Manage Selected>Bind Items
   * Confirm items
   * Generate work order: Acquisition technical services, then click “Create And Edit”
-  * Edit the item record including material type (bound issue), blank item policy, Enum and Chron information, and generating description, set permanent location to “wrlc shrp”
+  * Edit the item record including updating the barcode to the actual barcode, material type (bound issue), blank item policy, Enum and Chron information, and generating description, set permanent location to “wrlc shrp”
     * See [guidance for Enum, Chron, and Description field usage](../../reference/volume-numbering.md)
 * If unbound issues do not have item records in Alma:
   * Create “wrlc shrp” holding record if one does not already exist
