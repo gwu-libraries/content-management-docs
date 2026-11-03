@@ -29,6 +29,10 @@ In the rare case a record cannot be found in OCLC, download from the Kanopy dash
 
 ### MarcEdit enhancements
 
+{% hint style="info" %}
+All examples on this page follow MarcEdit conventions for subfield delimiters, punctuation, and spacing.&#x20;
+{% endhint %}
+
 If you want to import it into your MarcEdit, there is a [MarcEdit task list](https://gwu0.sharepoint.com/:f:/r/sites/20180727030128000/Collaboration%20Items/MarcEdit/Task%20Lists?csf=1\&web=1\&e=uzNfoK) that will add URLs (you will have to update), the 787 for the Streaming Media collection, and the 973 cataloger information. The Sharepoint folder path is [GWLAI RDG](https://gwu0.sharepoint.com/sites/20180727030128000/SitePages/Home.aspx) > [MarcEdit](https://gwu0.sharepoint.com/sites/20180727030128000/Collaboration%20Items/MarcEdit) > [Tasklists](https://gwu0.sharepoint.com/sites/20180727030128000/Collaboration%20Items/MarcEdit/Task%20Lists).&#x20;
 
 What the task list does:
@@ -43,7 +47,7 @@ What the task list does:
    1.  787 \\\\$w81630409630004107$9LOCAL
 
        \*\* You can add in as many Discovery Collection IDs as desired, Alma will automatically add the title to each collection when importing.&#x20;
-   2. 973 \\$aNew title ;$bCC ;$c\[cataloger name] ;$d\[YYYY-MM-DD]$9LOCAL
+   2. 973 \\$aNew title$bCC$c\[cataloger name]$d\[YYYY-MM-DD]$9LOCAL
    3. 957 42$zCover Image$uhttps://www.kanopy.com/node/\[ID]/external-image$9LOCAL
    4. 856 40$u \[URL] $zA Kanopy streaming video
 3. Build other system number field for Kanopy
@@ -74,4 +78,8 @@ Some Kanopy films have short titles that can be common terms in multiple resourc
 ## Update tracking information
 
 When Kanopy titles are imported or update, add in the information to the [tracking spreadsheet](https://gwu0.sharepoint.com/:x:/r/sites/20180727030128000/_layouts/15/Doc.aspx?sourcedoc=%7BADE799FA-6AF1-4B9A-A212-B8853CC91183%7D\&file=Alma%20Ongoing%20Record%20Loads.xlsx\&action=default\&mobileredirect=true).&#x20;
+
+## Monthly checks
+
+At the end of every month, Kanopy sends an invoice (this will trigger a new ticket in SalesForce). Use this invoice to check to makes sure that every Kanopy title has been added and updated in Alma.&#x20;
 
